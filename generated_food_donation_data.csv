@@ -1,0 +1,2001 @@
+Donor Name,Food Type,Quantity (kg),Location,Donation Date,Transport Mode,Donor Type,Donation Frequency (per month),Average Donation Duration (hours)
+Patel-Fisher,Dairy,38.45,Grahamburgh,2024-06-06,Drone,Restaurant,9,1.4
+Mccoy LLC,Grains,39.92,North Amyberg,2024-01-25,Truck,Restaurant,9,0.8
+Peterson-Harris,Grains,41.92,Carlosport,2023-12-18,Drone,Restaurant,5,1.3
+Nelson and Sons,Meat,40.73,Johnsonchester,2024-02-25,Walk,Food Bank,6,2.3
+Bell Ltd,Grains,41.1,North Meganmouth,2024-06-25,Walk,Grocery Store,3,0.8
+Lawson-Neal,Fruits,30.35,West Kristin,2024-01-05,Van,Food Bank,2,1.8
+"Martinez, Sanchez and Rich",Fruits,32.35,Port Susanview,2024-04-11,Walk,Restaurant,5,2.9
+"Morrow, Washington and Davenport",Fruits,39.75,Richardsonport,2024-03-16,Walk,Grocery Store,7,1.5
+"Smith, Perez and Cross",Meat,53.46,New Michaelton,2024-02-28,Truck,Food Bank,5,2.5
+Riley Group,Snacks,13.73,New Ryanmouth,2024-05-16,Drone,Food Bank,1,0.7
+Gibbs Group,Meat,21.65,Lake Shannonside,2024-07-29,Truck,Restaurant,5,1.3
+"Morales, Thompson and Lang",Bakery,91.68,East Janechester,2024-03-23,Walk,Food Bank,9,2.1
+"Franco, Ball and Sexton",Dairy,69.54,West Elizabethbury,2024-04-18,Walk,Food Bank,5,2.4
+Wu Inc,Canned Goods,42.81,Guerraport,2024-02-03,Truck,Restaurant,9,2.3
+Huffman PLC,Vegetables,26.2,North Jacobside,2023-12-15,Walk,Food Bank,1,1.8
+"Allen, Woods and Fisher",Snacks,58.34,Madisonfurt,2023-12-16,Drone,Grocery Store,3,2.7
+"Stewart, Stanley and Smith",Bakery,36.07,Mortonland,2024-02-14,Drone,Restaurant,2,1.1
+"Bond, Johnson and Bradford",Meat,99.59,Smithshire,2024-05-06,Drone,Restaurant,7,2.4
+"Rose, Mclaughlin and Newton",Meat,71.6,Vegaborough,2024-07-22,Drone,Food Bank,4,2.5
+"Cook, Irwin and Sanchez",Vegetables,43.4,Port Christopher,2024-05-16,Walk,Grocery Store,2,1.1
+"Rodriguez, Wright and Valdez",Snacks,69.64,Caldwellhaven,2024-05-08,Truck,Restaurant,6,2.3
+Vasquez Ltd,Dairy,33.71,Port Darlene,2024-09-03,Walk,Grocery Store,3,1.7
+"Mcdowell, Mitchell and Hawkins",Fruits,63.86,Alexisport,2024-10-30,Drone,Food Bank,6,1.9
+Lopez-Day,Dairy,78.2,Lake Jeanettetown,2024-02-07,Van,Grocery Store,7,1.8
+Harrison-Smith,Grains,59.59,North Patricia,2024-05-17,Truck,Supermarket,9,1.6
+"Green, Myers and Carter",Dairy,64.86,Lake Jerry,2024-07-18,Drone,Food Bank,9,2.0
+Gonzalez Inc,Bakery,69.43,New Beth,2024-07-17,Drone,Farm,7,2.8
+Hawkins-Simmons,Grains,81.67,Port Jenniferstad,2024-06-13,Truck,Grocery Store,3,2.0
+"Anderson, Joyce and Rodriguez",Meat,99.7,Thomasburgh,2024-03-27,Drone,Grocery Store,7,0.5
+Lawson Ltd,Vegetables,91.61,West Kevinberg,2024-09-10,Van,Farm,2,0.7
+Williams-Gill,Bakery,57.02,Derekberg,2024-05-20,Bike,Restaurant,6,1.4
+"Dunn, Valdez and Harris",Dairy,16.81,West William,2024-06-29,Truck,Food Bank,7,1.6
+Jones PLC,Frozen Food,97.7,Bethanystad,2023-11-21,Truck,Supermarket,7,1.6
+Thomas PLC,Vegetables,71.78,Jameschester,2023-12-09,Bike,Grocery Store,1,2.8
+Novak-Petersen,Meat,20.13,Darlenebury,2024-08-22,Bike,Farm,6,1.5
+Velasquez Group,Canned Goods,6.36,South John,2024-01-16,Truck,Farm,3,2.3
+"Thompson, Harris and Martin",Dairy,84.99,Elizabethville,2024-04-18,Drone,Grocery Store,8,3.0
+Jones Ltd,Dairy,40.56,Wesleyborough,2024-02-01,Drone,Food Bank,4,3.0
+Munoz and Sons,Canned Goods,24.32,Lake Rebecca,2024-10-23,Walk,Restaurant,2,2.1
+Pollard PLC,Meat,33.29,East Cynthia,2024-07-06,Bike,Supermarket,1,1.1
+"Smith, Patton and Haney",Dairy,75.64,Pamelaburgh,2024-06-09,Van,Restaurant,1,1.8
+Wong Ltd,Fruits,90.4,East Roy,2024-01-10,Truck,Food Bank,4,1.8
+Perkins Inc,Bakery,26.29,South Joshuaview,2024-05-30,Truck,Farm,1,1.0
+Hartman-Herrera,Canned Goods,33.6,Leeburgh,2024-06-11,Drone,Supermarket,8,2.2
+Dickson-Sullivan,Fruits,62.53,Leemouth,2024-09-27,Drone,Restaurant,9,2.6
+Gonzalez-Nelson,Frozen Food,29.15,West Charlesberg,2024-01-17,Truck,Restaurant,9,1.6
+Harris LLC,Frozen Food,26.62,Lake Helen,2023-12-16,Walk,Grocery Store,9,0.9
+Miller Ltd,Fruits,7.59,New Tiffany,2024-05-05,Bike,Farm,9,1.7
+Harrison-Ryan,Vegetables,50.86,Stacyhaven,2024-02-08,Walk,Farm,7,2.1
+Hubbard Ltd,Dairy,91.17,Castromouth,2024-03-28,Walk,Grocery Store,7,1.6
+Cruz LLC,Dairy,50.13,Jasonborough,2024-05-07,Truck,Grocery Store,6,2.8
+Powers and Sons,Dairy,32.33,Lopezberg,2023-12-25,Walk,Grocery Store,2,0.9
+Brown-Nunez,Dairy,67.87,North Daniel,2024-10-29,Truck,Supermarket,2,0.7
+Camacho-Howard,Vegetables,23.9,Ashleystad,2024-11-13,Bike,Grocery Store,1,1.7
+"Spence, Pratt and Moreno",Meat,54.33,Clarkport,2024-02-08,Bike,Food Bank,3,2.4
+Medina Group,Dairy,9.15,Peterberg,2024-08-22,Walk,Grocery Store,8,3.0
+Brown-Campbell,Bakery,79.19,Lynnberg,2023-12-12,Walk,Supermarket,7,1.2
+Campbell-Jackson,Vegetables,48.1,North Marcusfort,2024-01-06,Drone,Supermarket,3,1.8
+"Smith, Alexander and Reese",Fruits,35.0,South Charlesfort,2024-01-20,Drone,Grocery Store,4,2.5
+"Tapia, Rosario and Jackson",Bakery,69.31,Dianebury,2024-01-31,Drone,Farm,3,0.8
+"Johns, Dillon and May",Meat,71.92,New Billy,2024-08-31,Truck,Restaurant,1,1.4
+Myers Inc,Frozen Food,76.11,Lauriechester,2024-06-01,Drone,Restaurant,6,0.8
+"Daniels, Maldonado and Henderson",Meat,54.26,East Danielport,2024-02-21,Walk,Farm,9,2.1
+"Anderson, Wolfe and Nixon",Grains,8.96,Carrollville,2024-04-05,Truck,Restaurant,9,2.2
+"Thomas, Reynolds and Harris",Meat,58.8,West Tami,2024-10-28,Walk,Farm,9,1.4
+Raymond Group,Meat,79.58,Farleyburgh,2024-04-06,Bike,Grocery Store,9,2.1
+"Williamson, May and Barton",Meat,13.49,Lake Abigail,2024-05-30,Truck,Restaurant,1,2.3
+"Hayes, Alvarez and Gonzalez",Fruits,90.85,Hoffmanshire,2024-05-24,Drone,Restaurant,7,1.2
+Herman PLC,Meat,14.13,North Catherinetown,2024-03-11,Truck,Farm,6,1.1
+David-Sanchez,Dairy,62.96,West Kristystad,2024-01-06,Drone,Grocery Store,3,2.9
+"Moody, Edwards and Stone",Frozen Food,22.41,Perezview,2024-01-20,Bike,Restaurant,3,1.0
+Elliott-Shields,Grains,75.08,Jamieview,2024-04-01,Van,Restaurant,3,2.6
+Rogers LLC,Vegetables,52.17,Sharonside,2024-01-05,Truck,Farm,3,1.4
+Mejia Inc,Bakery,94.68,Cherylville,2024-04-03,Walk,Supermarket,3,1.8
+Hardin-Martinez,Grains,11.62,Nelsonport,2024-07-02,Bike,Restaurant,5,1.4
+Adams Inc,Dairy,24.7,Lake Laurachester,2024-06-28,Walk,Supermarket,4,0.6
+Ramirez-Hunt,Fruits,25.7,Annastad,2023-12-17,Bike,Food Bank,8,0.5
+Shepherd Inc,Canned Goods,45.61,Weaverside,2024-03-28,Truck,Grocery Store,3,2.3
+Johnson-Young,Frozen Food,95.66,South Cynthia,2024-07-28,Truck,Restaurant,9,1.6
+Barnett-Nichols,Frozen Food,8.58,Kelleyfort,2024-08-19,Truck,Food Bank,4,1.0
+"Brooks, Rodriguez and Flores",Bakery,48.56,Lake William,2024-07-17,Drone,Restaurant,7,1.8
+Sanchez-Robertson,Vegetables,77.12,Millerberg,2023-11-27,Truck,Food Bank,4,0.8
+Mckee-Pena,Canned Goods,90.09,North Tabitha,2024-06-19,Bike,Farm,2,1.7
+Ellis Ltd,Grains,20.09,Cookton,2024-05-10,Walk,Food Bank,7,2.7
+"White, Hines and Herrera",Snacks,20.52,Knappmouth,2023-12-04,Walk,Supermarket,5,2.8
+Flores-Simmons,Dairy,9.46,Port Deborahtown,2024-03-16,Walk,Supermarket,1,1.9
+Frazier Group,Frozen Food,87.82,Thomasfort,2024-01-02,Truck,Supermarket,5,2.7
+Hansen Ltd,Frozen Food,17.87,South Erin,2024-03-02,Drone,Food Bank,7,1.4
+"Patton, Harding and Ruiz",Vegetables,36.41,Lake Brandonmouth,2024-01-23,Bike,Grocery Store,6,1.2
+"Reynolds, Schmidt and Smith",Vegetables,98.85,Pierceshire,2024-09-17,Drone,Grocery Store,8,2.3
+"Lindsey, Mitchell and Hernandez",Fruits,87.64,New Johnstad,2024-07-22,Walk,Supermarket,8,1.3
+"Sandoval, Travis and Underwood",Vegetables,66.51,South William,2024-09-23,Van,Supermarket,8,0.5
+Rivera-Andrews,Grains,73.85,Port Petertown,2024-06-23,Walk,Grocery Store,5,2.9
+"Cervantes, Hunter and Stevens",Snacks,42.97,Port Andrew,2024-10-30,Walk,Supermarket,9,1.7
+Owens and Sons,Dairy,97.04,Patrickmouth,2024-01-28,Truck,Farm,9,2.9
+Stevens-Blankenship,Grains,64.12,Lake Sean,2023-12-21,Truck,Farm,1,0.8
+Miller PLC,Dairy,14.12,West Wendy,2024-01-15,Walk,Farm,1,1.5
+"Wright, Chavez and Maynard",Meat,99.04,New Jenniferberg,2024-08-16,Truck,Grocery Store,8,3.0
+"Bennett, Sherman and Turner",Grains,6.16,Garciaside,2024-10-17,Walk,Supermarket,2,0.8
+"West, Johnson and Scott",Dairy,54.74,East Ariana,2024-11-04,Walk,Grocery Store,4,1.8
+Phillips-Garcia,Frozen Food,14.38,New Derekhaven,2024-03-04,Truck,Grocery Store,7,2.5
+Fischer Ltd,Dairy,74.9,Tabithaland,2024-07-31,Van,Supermarket,8,0.9
+"Mccormick, Hodges and Perez",Frozen Food,56.02,Davisville,2024-09-11,Van,Food Bank,4,1.4
+Simon LLC,Grains,86.1,West Heatherstad,2023-12-03,Drone,Grocery Store,4,1.3
+Sparks-Roberts,Frozen Food,78.99,New Natashaview,2024-09-07,Van,Grocery Store,7,0.6
+Sweeney-Moreno,Frozen Food,14.21,Chapmanberg,2023-12-20,Van,Supermarket,7,0.8
+Watts-Johnson,Dairy,52.72,Port Michael,2023-12-05,Walk,Restaurant,5,0.7
+Terrell PLC,Vegetables,11.96,Dixonberg,2024-08-01,Truck,Supermarket,4,2.9
+Robinson-Sanchez,Fruits,9.61,New Clayton,2024-06-01,Walk,Food Bank,9,1.5
+Garcia-Reed,Snacks,78.4,New Victoria,2023-11-28,Truck,Supermarket,8,1.7
+Flores LLC,Snacks,76.95,Lake Stephanieberg,2024-01-29,Walk,Food Bank,8,1.6
+Ryan Ltd,Snacks,29.02,Lake Jennifer,2024-04-23,Truck,Food Bank,7,2.9
+"Harper, Lane and Robinson",Bakery,90.11,Figueroamouth,2024-06-04,Van,Food Bank,4,2.2
+Reyes-Rodriguez,Frozen Food,54.6,Lanebury,2024-08-06,Truck,Food Bank,7,2.1
+"Harrison, Henderson and Lambert",Canned Goods,33.02,West Timothy,2024-03-19,Truck,Restaurant,3,1.5
+"Gray, Wang and Cruz",Vegetables,69.15,New Riley,2023-12-22,Walk,Food Bank,3,1.1
+"Murray, Rivera and Franklin",Bakery,51.55,Lake Alexandraberg,2024-06-01,Bike,Food Bank,6,1.6
+"House, Christian and Silva",Dairy,44.88,Timothyburgh,2024-04-20,Drone,Restaurant,7,2.0
+"Reyes, Garcia and Cervantes",Bakery,22.03,New Samuel,2023-11-25,Drone,Supermarket,4,0.7
+"Baker, Reyes and Stevens",Fruits,96.48,North Tristan,2024-11-07,Van,Restaurant,8,2.2
+"Beasley, James and Jones",Meat,84.83,South Maria,2024-10-06,Bike,Food Bank,1,1.0
+Wright-Rivera,Snacks,93.03,South Robin,2024-02-04,Walk,Food Bank,4,1.8
+Martinez and Sons,Bakery,75.95,Danatown,2024-04-26,Walk,Restaurant,3,2.4
+Mitchell-Rodriguez,Dairy,42.4,New James,2024-04-25,Truck,Restaurant,1,0.9
+Ewing and Sons,Frozen Food,81.9,Holtville,2024-01-14,Truck,Supermarket,7,1.0
+Blankenship Inc,Snacks,22.98,Pamelahaven,2024-10-19,Truck,Supermarket,7,2.5
+Webb and Sons,Meat,98.93,Cunninghamville,2024-04-08,Van,Grocery Store,9,2.7
+"Wong, Johnson and Peterson",Snacks,9.67,South Darrellmouth,2024-06-07,Bike,Farm,7,0.6
+Mitchell Inc,Canned Goods,16.72,Hawkinsburgh,2024-04-24,Drone,Supermarket,7,1.4
+Doyle PLC,Snacks,77.0,Williamstown,2024-08-03,Drone,Supermarket,6,1.7
+Franklin and Sons,Meat,28.54,Port Michael,2024-05-05,Truck,Restaurant,9,0.9
+"Taylor, Garcia and Wagner",Frozen Food,86.37,Jimenezburgh,2024-03-15,Drone,Supermarket,2,0.6
+Meyer-Green,Grains,81.56,Lake Shellyfurt,2024-05-01,Bike,Restaurant,1,0.9
+Vazquez and Sons,Vegetables,75.73,South Kevin,2024-06-19,Bike,Grocery Store,3,1.3
+"Tucker, Flynn and Contreras",Canned Goods,71.77,Williamsshire,2024-02-15,Truck,Food Bank,3,1.1
+"Mills, Huffman and Watts",Vegetables,8.14,Nicolechester,2024-02-18,Bike,Supermarket,7,1.4
+Pena Ltd,Fruits,91.03,Christopherfort,2023-11-18,Walk,Farm,5,0.8
+Hines Group,Bakery,97.2,East Jennifer,2024-01-24,Van,Supermarket,3,2.3
+"Ortega, Goodman and Martin",Dairy,67.17,Elliottmouth,2023-12-22,Walk,Restaurant,4,1.0
+"Newman, Chang and Murillo",Snacks,46.4,Sheaton,2023-11-29,Walk,Food Bank,8,0.7
+"Alvarez, Bailey and Gomez",Meat,55.85,North Timothymouth,2023-11-26,Walk,Supermarket,8,0.8
+"Martin, Brooks and Peters",Meat,11.78,Port Patricia,2024-05-03,Walk,Restaurant,9,2.6
+"Williams, Jones and Nguyen",Bakery,88.95,Gonzalezshire,2023-12-09,Truck,Supermarket,3,2.5
+Morgan Inc,Meat,45.98,Morganborough,2023-11-25,Van,Farm,1,2.1
+Ibarra and Sons,Fruits,70.12,Stewartside,2024-06-22,Truck,Food Bank,6,1.7
+Flores Inc,Vegetables,37.02,Angelachester,2024-07-28,Van,Supermarket,4,1.0
+Robertson-Ball,Bakery,58.09,Branditown,2024-10-06,Van,Supermarket,7,2.5
+Knight Group,Grains,76.27,Lake Richardborough,2024-07-04,Truck,Supermarket,2,1.8
+"Adams, Villarreal and Harvey",Dairy,29.76,East Michaelshire,2024-09-16,Walk,Supermarket,6,2.1
+"Blackburn, Cook and Salinas",Bakery,86.03,Thompsonville,2024-04-16,Bike,Supermarket,5,2.3
+Wagner and Sons,Bakery,57.29,East Amberview,2024-04-07,Drone,Farm,2,1.4
+Anderson-Santiago,Grains,90.1,Jefferytown,2024-06-05,Truck,Supermarket,7,1.7
+"Burnett, Alexander and Hill",Meat,35.7,Port Shawnborough,2024-06-27,Drone,Food Bank,8,3.0
+"Turner, Gonzalez and Snyder",Canned Goods,69.82,Waynestad,2024-07-16,Van,Food Bank,6,2.3
+Guerrero and Sons,Snacks,48.92,West Michelle,2024-10-15,Truck,Restaurant,8,2.0
+Scott Ltd,Vegetables,87.9,East Patricia,2024-03-26,Van,Farm,4,2.7
+Martinez Inc,Dairy,62.13,Stevenstown,2024-04-14,Truck,Food Bank,5,1.5
+"Martin, Hansen and Gomez",Canned Goods,50.44,Taylormouth,2024-09-24,Walk,Restaurant,3,0.8
+"Krueger, Liu and Gutierrez",Grains,12.15,Ryanfort,2024-08-17,Van,Food Bank,9,2.8
+Frazier Ltd,Meat,19.53,Hillberg,2024-03-10,Drone,Restaurant,1,2.5
+Mathews Inc,Bakery,66.54,Thomashaven,2024-10-12,Walk,Restaurant,7,2.4
+Owens-Martinez,Snacks,78.37,North Samuel,2024-05-12,Walk,Grocery Store,2,0.7
+Rodriguez-Butler,Canned Goods,10.78,South Monicamouth,2024-05-28,Bike,Farm,5,0.7
+"Lee, Cohen and Garcia",Fruits,32.99,New Patrick,2024-03-15,Van,Farm,9,2.6
+"Hoover, Kelly and Thompson",Frozen Food,62.23,Donaldshire,2024-01-26,Walk,Farm,4,3.0
+Wheeler PLC,Frozen Food,65.56,Hallville,2024-08-05,Van,Restaurant,8,1.3
+Erickson-Cortez,Meat,70.75,Chelseafort,2024-04-13,Van,Grocery Store,3,2.0
+"Davis, Brown and Atkins",Frozen Food,64.73,Lake Brenda,2024-04-02,Bike,Supermarket,3,1.9
+"Simmons, Stewart and Landry",Bakery,95.25,East Melissa,2024-09-13,Bike,Restaurant,1,2.4
+Davis Group,Canned Goods,40.25,Harrisonbury,2024-05-14,Van,Supermarket,1,2.0
+"Sanchez, Leon and Aguilar",Frozen Food,13.0,West Nancy,2024-01-25,Van,Grocery Store,3,2.9
+Nguyen PLC,Fruits,13.22,Schmidtberg,2024-08-23,Drone,Restaurant,1,1.6
+Johnson Group,Snacks,92.54,West Julia,2024-01-25,Van,Grocery Store,9,1.0
+Moody-Washington,Bakery,75.58,Johnsonfort,2023-12-08,Drone,Farm,6,0.8
+"Parker, Black and Jones",Bakery,99.95,West Jeffrey,2024-06-02,Truck,Supermarket,4,1.3
+Carter-Stanley,Canned Goods,39.17,Lake Juan,2023-12-22,Walk,Food Bank,2,2.4
+"Scott, Jackson and Adams",Snacks,54.58,West Angelaside,2024-06-08,Drone,Food Bank,1,2.6
+"Dyer, Molina and Walker",Meat,70.33,Andersonchester,2024-02-21,Bike,Supermarket,1,1.5
+"Huff, Patel and Austin",Meat,56.32,Parkermouth,2024-09-13,Drone,Grocery Store,7,1.7
+"Thomas, Weaver and Rodriguez",Grains,36.23,Carrieland,2024-04-09,Walk,Food Bank,6,1.7
+"Riggs, Wagner and Gonzalez",Frozen Food,85.89,East Kevinchester,2024-04-23,Drone,Grocery Store,2,0.9
+Burton-Dawson,Vegetables,83.94,Adamshaven,2024-06-12,Walk,Restaurant,5,1.4
+Cobb-Gay,Bakery,27.54,Weaverview,2023-12-30,Truck,Food Bank,8,3.0
+Wallace-Williams,Snacks,16.27,South John,2024-02-10,Walk,Supermarket,8,2.4
+Williams Ltd,Vegetables,90.28,Denisefort,2024-06-09,Drone,Food Bank,2,0.6
+Fernandez Ltd,Grains,43.53,New Amanda,2024-09-29,Van,Grocery Store,7,2.5
+Newman-Garcia,Snacks,40.63,Lake Kyliefort,2024-08-18,Truck,Supermarket,4,2.2
+Williams LLC,Vegetables,68.62,East Jeremyshire,2024-01-12,Van,Supermarket,7,2.5
+Estrada-Valenzuela,Fruits,55.93,Marcusport,2024-01-20,Bike,Food Bank,7,1.1
+Dawson Group,Dairy,97.1,Sharonland,2024-08-13,Walk,Farm,5,2.0
+Carlson-Cunningham,Canned Goods,36.13,Dorseyfort,2024-01-18,Van,Farm,1,1.3
+"Richardson, Shelton and Mccoy",Dairy,52.28,West Samantha,2024-11-10,Van,Farm,2,0.9
+"Brown, Marquez and Moreno",Fruits,7.51,Kristinaborough,2024-07-14,Van,Restaurant,5,1.4
+Rodriguez-Vasquez,Grains,60.03,Eileenberg,2024-02-24,Truck,Food Bank,7,2.9
+Finley PLC,Frozen Food,66.61,North Nicole,2024-04-28,Drone,Farm,4,1.3
+Gonzalez Group,Dairy,67.94,Port Laurenstad,2024-10-05,Walk,Grocery Store,5,1.3
+Hall-Moreno,Grains,78.7,Port Shannonfurt,2024-05-31,Walk,Farm,9,1.3
+Soto-Bruce,Canned Goods,28.85,New Rachel,2024-07-15,Walk,Restaurant,4,1.6
+"Beck, Morrow and Valdez",Snacks,17.66,Mezastad,2024-10-16,Walk,Farm,2,2.4
+Melton Inc,Meat,28.1,Ronaldborough,2024-08-31,Walk,Grocery Store,5,0.5
+Diaz-Booth,Fruits,61.63,Patrickbury,2024-03-17,Truck,Restaurant,4,1.6
+"Silva, Davis and Cox",Meat,29.58,South Carol,2024-04-19,Truck,Supermarket,1,1.5
+Fletcher-Long,Dairy,19.37,New William,2024-03-29,Walk,Supermarket,1,2.6
+Hess-Watts,Canned Goods,49.82,North Jerome,2023-12-25,Bike,Restaurant,3,2.3
+"Fry, Wallace and Edwards",Bakery,88.77,New Daniel,2024-03-04,Walk,Restaurant,8,1.3
+Hudson-Novak,Snacks,69.95,South Jasontown,2024-10-08,Walk,Food Bank,1,1.3
+"Flores, Simon and Thompson",Frozen Food,11.7,South Julian,2023-12-11,Truck,Food Bank,6,1.6
+"Hunter, Wolf and Wright",Fruits,21.69,Lake Angela,2024-11-04,Drone,Food Bank,7,1.8
+"Boyd, Perry and Smith",Fruits,73.76,Hendersonshire,2024-03-21,Bike,Supermarket,3,2.8
+Murphy Ltd,Fruits,15.04,South Jodyburgh,2024-05-17,Drone,Grocery Store,5,1.7
+"Estrada, Higgins and Thompson",Frozen Food,58.99,Johnside,2024-09-16,Walk,Grocery Store,6,2.0
+"Rodriguez, Daniel and Lawrence",Fruits,27.38,Beltranside,2024-04-01,Walk,Restaurant,4,0.8
+Giles-Hunt,Bakery,66.44,Port Nancy,2024-08-28,Truck,Restaurant,9,2.4
+Williams Group,Meat,92.45,Lake Kimberly,2024-09-21,Van,Food Bank,6,3.0
+Reese Ltd,Vegetables,87.95,Lake Sharonfort,2024-05-23,Bike,Grocery Store,9,1.6
+Serrano-Cole,Fruits,8.56,Port Amanda,2024-10-25,Drone,Food Bank,3,2.9
+Wilson LLC,Dairy,86.86,Zimmermanville,2023-12-23,Drone,Farm,8,0.5
+Walker-Martin,Fruits,43.78,East Lauraport,2024-08-04,Van,Supermarket,4,2.2
+Thomas-Smith,Canned Goods,9.33,Port Megan,2024-03-03,Bike,Restaurant,7,1.8
+Reese-Davis,Snacks,43.28,Adamfurt,2024-06-23,Drone,Supermarket,3,2.8
+Strong-Russell,Grains,75.46,West Natalie,2023-11-20,Drone,Supermarket,5,3.0
+Goodman and Sons,Meat,84.47,New Michelefort,2024-01-14,Walk,Food Bank,8,1.1
+Kelley and Sons,Frozen Food,51.68,West Donald,2024-02-08,Drone,Restaurant,3,2.2
+Meadows PLC,Meat,66.7,North Jonathanberg,2024-07-11,Walk,Restaurant,4,2.3
+"Padilla, Jenkins and Taylor",Fruits,98.1,Kimberlystad,2024-10-27,Van,Food Bank,3,1.8
+Donovan-Mason,Bakery,34.26,New Josephton,2023-12-20,Truck,Grocery Store,7,0.6
+"Hart, Reese and Hobbs",Meat,48.33,Lake Meredith,2024-02-11,Truck,Food Bank,5,1.9
+Johnson Inc,Snacks,81.06,North Emma,2023-11-25,Bike,Grocery Store,5,2.8
+Hoffman-Brown,Meat,14.21,East Jack,2023-11-23,Truck,Restaurant,5,0.8
+"Clark, Robbins and Brown",Meat,39.56,South Denise,2024-11-11,Drone,Restaurant,9,1.0
+"Porter, Garrison and Eaton",Snacks,83.03,New Clayton,2023-12-28,Truck,Restaurant,2,2.7
+Bond-Wall,Vegetables,11.17,North Carly,2024-10-23,Van,Restaurant,4,1.7
+Burch and Sons,Grains,13.72,Tonyaburgh,2024-07-10,Van,Grocery Store,3,2.3
+"Harris, Anderson and Lewis",Snacks,92.39,South Frederick,2023-12-23,Bike,Grocery Store,8,1.6
+King-Serrano,Bakery,14.79,New Kimberly,2024-07-17,Truck,Grocery Store,3,1.8
+Martinez Inc,Vegetables,17.44,Lake Thomas,2024-03-26,Bike,Supermarket,3,2.4
+"Ortiz, Houston and Moore",Vegetables,93.94,Kaisertown,2024-07-31,Walk,Farm,9,1.5
+Mcdaniel-Wagner,Meat,49.11,New Ronald,2024-04-08,Bike,Farm,8,1.3
+Turner PLC,Grains,39.69,East Deniseview,2024-04-03,Van,Restaurant,9,2.0
+"Cannon, Anderson and Bennett",Snacks,88.49,New Anthony,2024-04-26,Van,Farm,9,2.8
+Campbell-Hoffman,Snacks,86.54,New Michaela,2023-12-03,Walk,Food Bank,1,1.6
+Brown-Garcia,Grains,7.55,Stevenmouth,2024-06-01,Walk,Farm,2,1.6
+"Anderson, Jacobson and Estes",Canned Goods,24.09,Marissatown,2024-08-20,Bike,Grocery Store,1,1.9
+Rose PLC,Dairy,81.43,Jaredborough,2024-11-05,Drone,Grocery Store,3,1.4
+Turner-Watts,Snacks,88.21,Kimbury,2024-04-23,Drone,Grocery Store,4,2.8
+"Ferguson, Contreras and Shea",Meat,91.64,Ballville,2024-11-13,Drone,Restaurant,7,2.3
+Hughes-Allen,Canned Goods,20.48,West Caitlinmouth,2024-07-03,Walk,Restaurant,1,2.5
+Snyder Ltd,Bakery,52.23,West Mary,2024-11-10,Truck,Farm,1,2.8
+Rose-Wilkins,Vegetables,74.15,Moodyberg,2024-07-16,Walk,Food Bank,1,1.6
+"Chan, Gomez and Jones",Meat,24.74,Port Timothyshire,2024-04-18,Bike,Supermarket,7,2.6
+"Martin, Johnson and Knapp",Fruits,21.76,Williamsmouth,2024-05-01,Drone,Restaurant,3,3.0
+Garcia-Ortega,Grains,49.16,Stanleyfort,2024-06-01,Walk,Food Bank,3,1.0
+Powers-Nunez,Dairy,9.73,South Keith,2024-10-26,Bike,Farm,2,1.6
+Moore-Sosa,Meat,6.81,North Carolfort,2024-02-11,Van,Food Bank,5,2.2
+Whitney Inc,Fruits,91.57,South Josephstad,2024-09-24,Truck,Restaurant,8,0.9
+Dunn-Valdez,Grains,58.76,Nancyhaven,2024-11-13,Walk,Food Bank,2,0.9
+Lambert Group,Bakery,84.62,Guerrahaven,2024-05-04,Truck,Restaurant,6,0.9
+Lin-Hale,Vegetables,66.42,New Carlosville,2024-06-08,Bike,Farm,3,0.7
+Anderson-Davis,Fruits,12.67,Port Donald,2024-01-09,Drone,Supermarket,2,0.7
+Roberts-Barker,Snacks,52.14,Ashleytown,2023-12-13,Bike,Supermarket,4,1.7
+Jones LLC,Bakery,49.42,Jonesfurt,2024-02-19,Walk,Grocery Store,9,2.2
+Watson and Sons,Canned Goods,89.56,Crystalland,2024-03-26,Drone,Restaurant,8,2.8
+Hood-Wright,Frozen Food,45.15,Harmonfort,2023-11-19,Truck,Supermarket,5,2.8
+"Walker, Abbott and Moreno",Grains,20.72,North Andreafurt,2023-11-26,Walk,Restaurant,9,2.0
+Smith-Walker,Grains,30.5,Stephenberg,2024-06-25,Truck,Restaurant,2,2.5
+Haley-Vazquez,Grains,16.42,Lake Carla,2024-04-30,Van,Restaurant,1,2.4
+"Donovan, Collins and Schwartz",Canned Goods,24.87,South Stephanieside,2024-01-31,Walk,Restaurant,6,2.9
+Evans-Hubbard,Fruits,73.49,Candiceburgh,2024-06-11,Bike,Grocery Store,5,1.6
+Clarke LLC,Fruits,37.49,Jenniferport,2023-12-19,Van,Restaurant,9,0.9
+"Robertson, Gillespie and Moore",Snacks,55.26,Michaeltown,2024-06-19,Bike,Farm,4,2.2
+Wilson LLC,Bakery,57.34,Tylertown,2024-03-06,Bike,Farm,9,1.4
+"Tapia, Perez and James",Meat,33.42,East Pamelaport,2024-09-02,Truck,Food Bank,2,1.3
+Whitaker and Sons,Grains,6.23,Schultzfurt,2024-02-13,Walk,Supermarket,8,1.3
+"Hernandez, Lawrence and Kent",Fruits,78.59,West John,2024-04-17,Van,Supermarket,3,1.8
+Rivera-Smith,Dairy,95.71,South Matthewmouth,2023-11-29,Drone,Grocery Store,9,2.2
+Rhodes-Stephens,Vegetables,56.8,New Mary,2024-02-22,Drone,Restaurant,7,2.4
+"Burns, Brown and Anderson",Vegetables,81.34,Coxmouth,2024-10-12,Walk,Farm,3,2.8
+Washington-Peters,Snacks,69.23,Sextonborough,2024-07-24,Bike,Food Bank,5,1.5
+Marshall Ltd,Frozen Food,61.53,Coopertown,2024-01-29,Van,Farm,9,3.0
+"Moore, Lloyd and Estrada",Dairy,65.67,Juanside,2024-02-06,Bike,Restaurant,5,1.4
+"Wilson, Williams and Phillips",Dairy,15.31,Nixonfurt,2024-01-13,Bike,Farm,7,1.3
+Pratt PLC,Bakery,33.24,Thomasberg,2024-05-10,Walk,Grocery Store,9,0.8
+Reid-Douglas,Bakery,13.85,North Jefferytown,2024-08-31,Truck,Grocery Store,7,2.5
+Cooke Inc,Vegetables,48.92,West Gabrielleview,2024-06-21,Walk,Food Bank,1,2.0
+Hamilton PLC,Meat,69.0,Arthurburgh,2024-09-29,Drone,Supermarket,3,2.2
+"Mcintosh, Ortiz and Daniels",Grains,13.38,Samueltown,2024-03-02,Van,Farm,8,2.6
+Jennings Group,Meat,48.89,Lake Brittanymouth,2024-07-15,Bike,Food Bank,8,0.7
+Diaz LLC,Grains,63.13,East Michelleburgh,2024-07-29,Drone,Supermarket,4,2.5
+Roberts and Sons,Dairy,30.3,Nathanielland,2024-01-09,Truck,Food Bank,8,2.3
+Grimes-Patel,Snacks,40.75,New Melissaview,2024-04-23,Walk,Grocery Store,4,1.8
+Barber-Hernandez,Frozen Food,80.35,Mcfarlandport,2024-02-19,Bike,Food Bank,9,2.5
+"Johnson, Jones and Taylor",Grains,36.96,Williamsside,2024-02-01,Bike,Supermarket,9,0.7
+Patel Ltd,Meat,41.72,Jeanfort,2024-06-11,Truck,Restaurant,8,2.2
+"Oconnor, Newton and Miller",Snacks,84.93,Wiseview,2023-11-15,Drone,Food Bank,3,0.9
+"Butler, Roberts and Sexton",Dairy,34.45,Walterfurt,2024-05-14,Walk,Food Bank,3,2.2
+"Acevedo, Alvarado and Wood",Bakery,13.27,West Aimeechester,2024-02-10,Van,Farm,3,0.8
+Douglas-Meadows,Dairy,31.36,Walkerborough,2023-11-27,Truck,Farm,8,1.9
+"Smith, Jenkins and James",Dairy,19.49,Douglasfort,2024-03-13,Bike,Restaurant,4,2.2
+Parker Group,Meat,72.69,Williamstad,2024-05-14,Van,Farm,3,1.6
+Mccann Group,Frozen Food,67.91,North Melissafurt,2024-04-19,Van,Grocery Store,7,1.8
+"Brown, Salazar and Webb",Frozen Food,21.98,Alexanderchester,2024-03-24,Walk,Grocery Store,5,2.6
+Bailey-Macias,Fruits,92.77,Jessicashire,2024-04-25,Truck,Supermarket,5,0.6
+"Simpson, Miranda and Wong",Vegetables,21.3,North Peter,2024-08-27,Van,Restaurant,6,0.5
+"Ross, Frye and Thompson",Canned Goods,59.28,Lake Alison,2023-12-19,Walk,Restaurant,8,1.2
+Smith LLC,Vegetables,34.6,Reynoldsview,2023-11-15,Walk,Farm,7,0.9
+Johnson LLC,Snacks,21.12,South Kathymouth,2024-09-12,Walk,Food Bank,6,1.0
+Anderson Inc,Frozen Food,31.19,Thomasmouth,2024-03-20,Truck,Restaurant,2,0.7
+"Coleman, Foster and Thomas",Grains,61.65,Port Brad,2024-07-29,Van,Grocery Store,1,1.9
+Massey-Lewis,Meat,48.82,Penahaven,2024-02-03,Truck,Food Bank,6,1.2
+"Hughes, Jensen and Gill",Dairy,47.63,North Justin,2024-07-17,Van,Restaurant,3,1.3
+Hill LLC,Dairy,17.62,Kristenmouth,2024-04-17,Walk,Grocery Store,3,1.4
+"Schmidt, Solis and Ramos",Fruits,39.34,Thompsonland,2023-12-01,Truck,Restaurant,6,2.5
+Martinez and Sons,Vegetables,51.46,Carrillofort,2024-05-26,Walk,Food Bank,2,1.5
+Deleon-Reese,Meat,25.35,Hicksborough,2023-12-20,Drone,Restaurant,8,1.9
+"Crosby, Perez and Robinson",Grains,97.71,Derrickmouth,2024-03-18,Bike,Grocery Store,8,2.8
+Hamilton and Sons,Dairy,7.95,East Tonyville,2024-06-11,Truck,Food Bank,9,1.4
+Johnson LLC,Grains,93.67,Allenchester,2024-08-16,Bike,Restaurant,2,1.3
+Flores PLC,Meat,17.14,New Briana,2024-07-27,Walk,Grocery Store,7,2.2
+"Elliott, Bray and Bowman",Meat,31.37,Cassandraville,2024-10-29,Drone,Food Bank,9,2.8
+"Harris, Porter and Grant",Meat,71.2,Nelsonbury,2024-10-26,Truck,Grocery Store,8,0.5
+Kelley-Nguyen,Dairy,48.52,Ericmouth,2024-08-18,Walk,Farm,4,1.5
+"Galvan, Anderson and Hernandez",Canned Goods,99.12,North Adamhaven,2024-07-20,Walk,Supermarket,8,2.1
+"Smith, Landry and Bowman",Dairy,25.48,South Michaeltown,2024-05-12,Truck,Supermarket,7,2.6
+Ruiz PLC,Dairy,64.25,Antoniochester,2024-05-21,Truck,Farm,4,2.0
+Lambert Ltd,Vegetables,97.82,North Annton,2023-12-17,Drone,Supermarket,3,0.8
+"Bryant, Taylor and Nelson",Canned Goods,96.77,Burnsfurt,2023-12-16,Truck,Farm,5,2.6
+"Mora, Fisher and Chambers",Bakery,13.5,Port Francestown,2024-03-31,Drone,Grocery Store,6,1.4
+Keith and Sons,Bakery,93.23,East Michelle,2024-01-13,Truck,Restaurant,3,1.6
+Hubbard-Jenkins,Bakery,77.98,South Brittanymouth,2024-08-01,Walk,Food Bank,5,1.9
+Gamble-Jones,Meat,92.67,Rebeccafurt,2024-05-15,Truck,Food Bank,1,2.7
+"Sullivan, Johnson and Tran",Fruits,16.1,South Jefferybury,2024-07-26,Drone,Supermarket,7,2.1
+"Payne, Mitchell and Blanchard",Dairy,92.71,South Kelly,2024-06-08,Van,Grocery Store,3,0.7
+Brown LLC,Fruits,33.53,New Angela,2024-02-14,Bike,Supermarket,3,0.8
+Smith PLC,Fruits,67.67,Port Elizabethbury,2024-06-01,Bike,Restaurant,9,3.0
+Hubbard and Sons,Dairy,84.71,Stevenland,2024-02-10,Van,Restaurant,1,2.7
+Owen-Parker,Grains,41.9,Lake Hollymouth,2024-02-13,Walk,Restaurant,5,2.8
+"Thompson, King and Martin",Vegetables,30.74,Brownville,2024-07-05,Walk,Restaurant,7,0.6
+"Grimes, Odom and Smith",Dairy,90.6,East Josephport,2024-10-21,Drone,Grocery Store,1,2.0
+"Webb, Wilson and Stanley",Frozen Food,66.4,South Lisa,2024-06-20,Drone,Farm,6,0.7
+Garcia LLC,Frozen Food,20.91,Amyville,2024-04-21,Van,Supermarket,9,2.2
+Russell Group,Snacks,49.08,Nelsonstad,2023-12-20,Bike,Grocery Store,2,2.5
+"Morris, Flores and Davis",Bakery,64.94,Deleonborough,2024-04-26,Truck,Restaurant,1,2.5
+Banks Ltd,Snacks,45.41,Port Randymouth,2024-01-04,Drone,Restaurant,5,2.3
+Crawford Group,Canned Goods,6.56,Port Samuelmouth,2024-02-26,Truck,Farm,8,0.9
+Smith-Chambers,Grains,64.37,Bryanchester,2023-12-20,Bike,Grocery Store,9,2.0
+Kennedy LLC,Bakery,77.76,Port Frankland,2024-06-18,Van,Farm,5,2.9
+Rowland Group,Snacks,27.46,Penaville,2024-08-12,Bike,Farm,1,0.9
+"Jones, Williams and Dean",Snacks,85.7,North Josephton,2024-11-07,Walk,Supermarket,7,0.9
+"Clark, Davis and Barr",Frozen Food,27.52,Christinaport,2024-08-14,Walk,Supermarket,2,1.3
+Wright-Rowe,Grains,31.41,North Eric,2024-10-09,Walk,Restaurant,1,2.2
+"Hunt, Wilkerson and Brown",Canned Goods,60.73,South Briantown,2024-05-14,Walk,Grocery Store,3,0.5
+Manning PLC,Fruits,38.46,Zacharyberg,2024-04-06,Bike,Grocery Store,3,1.6
+"Miller, Fitzpatrick and Rodriguez",Grains,78.34,Joshuaside,2024-04-18,Truck,Restaurant,6,0.6
+Dean-Kim,Dairy,6.67,Port Valerieville,2023-11-24,Van,Food Bank,8,1.5
+Lewis-Williams,Fruits,71.7,Duncanland,2024-05-12,Bike,Restaurant,9,1.0
+Wheeler-Thornton,Frozen Food,76.81,New Johnnyborough,2024-09-09,Truck,Restaurant,5,1.8
+"Clark, Reyes and Jackson",Meat,12.76,Ronaldside,2024-08-02,Bike,Supermarket,7,0.7
+Fields Group,Fruits,66.53,Martinside,2024-03-30,Walk,Farm,8,1.2
+Miller-Cook,Canned Goods,83.25,North Nicholas,2024-10-07,Bike,Farm,2,0.5
+Wilson LLC,Dairy,74.19,Lake Kevinland,2024-06-26,Van,Farm,2,2.9
+Howell-Parrish,Bakery,80.52,Kathryntown,2024-07-04,Van,Grocery Store,8,2.3
+Rosario and Sons,Frozen Food,99.4,Port Veronica,2024-03-03,Truck,Restaurant,3,2.1
+"Davis, Martin and Medina",Bakery,97.79,Lake Jeremyfort,2024-04-06,Bike,Restaurant,7,0.8
+Harris and Sons,Bakery,53.2,East Chadbury,2023-11-20,Bike,Food Bank,1,1.3
+"Banks, Rhodes and Vincent",Meat,12.99,South Christopher,2024-06-11,Bike,Food Bank,6,2.6
+Hanson-Harris,Fruits,9.13,West Davidshire,2024-03-03,Walk,Food Bank,5,2.7
+Stout-Bowman,Frozen Food,15.75,Port Annbury,2024-10-10,Van,Restaurant,4,2.5
+Hall LLC,Meat,60.48,Lake Rachel,2024-10-14,Van,Restaurant,3,2.0
+"Fitzpatrick, Smith and Lucas",Bakery,48.46,Lake Laurenhaven,2024-10-29,Bike,Grocery Store,4,2.9
+Long and Sons,Snacks,41.88,Josephhaven,2024-08-19,Walk,Restaurant,1,1.3
+Warner and Sons,Grains,86.77,Gilbertshire,2024-03-02,Bike,Restaurant,9,1.4
+Brown LLC,Meat,75.33,Campbellfort,2024-03-08,Truck,Restaurant,4,2.1
+Byrd-Munoz,Vegetables,6.47,Jeanland,2024-04-23,Bike,Grocery Store,4,2.8
+Anderson-Bailey,Snacks,71.18,Lake Williamville,2024-04-05,Van,Grocery Store,3,0.7
+"Brown, Atkinson and Mendoza",Dairy,24.05,North Hollymouth,2024-06-27,Bike,Supermarket,9,1.7
+"Thompson, Tran and Michael",Dairy,31.25,Rubenborough,2023-11-29,Truck,Grocery Store,6,2.8
+Conner-Davis,Grains,39.09,Tylerside,2023-11-24,Van,Restaurant,7,1.2
+Russell-Yates,Canned Goods,95.23,Mooreburgh,2024-02-18,Walk,Farm,7,0.9
+Brown Inc,Bakery,31.71,Brendanfurt,2024-06-03,Bike,Food Bank,3,2.6
+"Chase, Walker and Dalton",Meat,20.68,East Erin,2023-12-07,Drone,Farm,9,1.0
+Edwards and Sons,Snacks,19.86,Port Kellyfort,2024-06-05,Drone,Restaurant,6,2.4
+Davis and Sons,Vegetables,44.11,North Jose,2024-10-23,Bike,Farm,1,1.5
+Jackson-Torres,Vegetables,22.35,East Nicholasburgh,2024-10-08,Drone,Food Bank,2,1.3
+"Fitzgerald, Rhodes and Nguyen",Canned Goods,11.54,New Melissashire,2024-03-02,Truck,Supermarket,5,1.2
+"West, Morrison and Hernandez",Snacks,34.88,Smithstad,2024-07-11,Walk,Grocery Store,7,1.7
+Fisher-Eaton,Vegetables,59.88,Joelstad,2023-12-08,Bike,Farm,8,2.3
+Cohen-Williams,Grains,52.1,Ramoschester,2023-12-05,Van,Farm,9,0.6
+Oliver LLC,Bakery,20.51,Patrickshire,2024-07-05,Truck,Restaurant,5,1.5
+"Martinez, Howell and Davis",Bakery,65.56,West Jasonfort,2023-12-22,Walk,Food Bank,1,2.5
+Bradley-Jordan,Meat,27.01,West Rachelshire,2024-02-12,Truck,Grocery Store,1,2.1
+Benson-Adams,Meat,25.62,Thomasville,2024-05-24,Walk,Supermarket,9,1.2
+Barnes-Thomas,Bakery,51.8,Laurenville,2023-12-14,Drone,Grocery Store,1,0.7
+"Bailey, Moore and Cortez",Dairy,35.52,Milesbury,2023-12-12,Truck,Supermarket,6,2.4
+Glover-Hammond,Fruits,59.03,Christystad,2024-04-02,Bike,Restaurant,8,1.0
+Hamilton Ltd,Vegetables,86.4,Lake Emilyburgh,2024-07-04,Bike,Grocery Store,3,1.7
+"Jenkins, Cannon and Woods",Fruits,87.78,Ayersfort,2024-08-12,Walk,Farm,7,1.0
+Martinez Ltd,Grains,40.81,Rodriguezland,2024-05-07,Walk,Food Bank,4,1.9
+Wolfe and Sons,Meat,89.54,North Michael,2024-04-23,Van,Supermarket,8,1.0
+Young Ltd,Canned Goods,68.74,Calhounland,2024-05-14,Van,Restaurant,7,2.3
+Lewis PLC,Frozen Food,77.6,Toddbury,2024-08-14,Walk,Farm,8,0.7
+Murphy-Cooper,Fruits,34.82,South Bradley,2023-12-17,Walk,Grocery Store,3,2.0
+Mercado Inc,Canned Goods,26.49,Garciachester,2024-06-15,Walk,Farm,1,2.7
+"Livingston, Carlson and Barajas",Snacks,83.37,New Helen,2024-02-28,Truck,Grocery Store,9,1.0
+Terry LLC,Meat,47.45,South Taramouth,2024-09-27,Van,Farm,8,0.9
+Mullins PLC,Canned Goods,28.66,Sullivanchester,2024-03-23,Truck,Farm,4,1.3
+Park LLC,Snacks,22.91,Port Kellyland,2023-11-25,Truck,Farm,8,2.0
+Garcia and Sons,Snacks,17.57,Lake Alyssaburgh,2023-12-14,Walk,Supermarket,9,0.9
+Shaffer and Sons,Fruits,43.8,Richardport,2024-03-01,Van,Farm,6,2.9
+"Carter, Gray and Lucas",Snacks,20.34,Christineshire,2024-05-31,Walk,Supermarket,7,1.2
+"Greene, Rush and Mccullough",Vegetables,12.84,West Jonathan,2024-08-31,Drone,Supermarket,6,1.2
+Ferguson-Garcia,Grains,71.16,Campbellborough,2024-01-27,Drone,Farm,9,2.1
+"Barnes, Coleman and Vargas",Meat,67.74,Lake Alexis,2024-01-07,Van,Restaurant,4,0.8
+Cruz-Ramos,Dairy,72.47,Amandabury,2024-02-01,Bike,Food Bank,9,0.5
+Ballard LLC,Grains,63.39,Lake Lisaton,2024-03-10,Walk,Supermarket,7,1.7
+Gonzalez-Combs,Canned Goods,70.93,West Richardhaven,2024-02-12,Bike,Restaurant,2,0.9
+Douglas Ltd,Frozen Food,30.64,Lake Shannonborough,2024-08-02,Van,Supermarket,3,1.0
+James-Singleton,Dairy,85.68,Rebeccafort,2024-08-13,Walk,Farm,7,1.8
+Campos-Marshall,Fruits,77.75,Wagnerhaven,2024-05-08,Bike,Supermarket,9,1.8
+"Dunlap, Schmidt and Bauer",Canned Goods,52.45,South Mary,2024-11-09,Truck,Supermarket,9,1.5
+Cooper-Anderson,Fruits,82.12,Barbaraton,2024-09-20,Van,Supermarket,9,2.9
+"Gonzalez, Turner and Hernandez",Canned Goods,84.42,Soniaview,2024-09-22,Drone,Grocery Store,6,0.8
+"Copeland, Schultz and Smith",Meat,17.42,Alanfort,2024-07-06,Bike,Farm,1,1.2
+Thomas-Evans,Snacks,10.14,West Christopherview,2024-03-10,Bike,Restaurant,3,2.7
+"Hamilton, Sanchez and Colon",Grains,59.52,Reeseview,2024-01-13,Bike,Restaurant,5,1.9
+Diaz-Long,Fruits,52.66,Fisherfurt,2024-10-04,Van,Restaurant,9,1.1
+Adams-Oneal,Vegetables,43.53,East Cassandra,2023-12-03,Walk,Grocery Store,8,2.2
+Howard-Cobb,Fruits,47.34,North Deborah,2023-11-23,Walk,Farm,8,0.6
+"Smith, Vincent and Morris",Canned Goods,10.5,Lake Jennifermouth,2024-08-28,Drone,Food Bank,8,1.1
+"Smith, Pierce and Woods",Meat,9.37,Austinhaven,2023-12-16,Walk,Grocery Store,4,1.0
+Robinson PLC,Fruits,60.14,East Kellybury,2024-04-25,Drone,Restaurant,8,1.1
+"Daniels, Hernandez and Hardin",Dairy,24.01,New Andrewview,2024-01-10,Truck,Food Bank,6,2.3
+"Christian, Jordan and Hernandez",Snacks,65.64,Jimmystad,2024-06-14,Bike,Grocery Store,8,1.9
+"Brown, Walters and Logan",Grains,67.38,Boydbury,2024-04-02,Van,Farm,9,1.6
+"Tucker, Miller and Smith",Vegetables,6.73,Kimberlyton,2024-08-03,Walk,Grocery Store,7,0.5
+Wilkinson Ltd,Snacks,28.26,North Sydney,2024-04-14,Drone,Food Bank,3,0.5
+Jones-Hanson,Meat,68.29,Lake Brandi,2024-01-23,Van,Supermarket,8,0.5
+"Jones, Bell and White",Frozen Food,52.15,Lake Natashaborough,2024-04-23,Walk,Food Bank,7,1.1
+Foster-Gutierrez,Fruits,13.27,Anthonybury,2024-06-13,Walk,Grocery Store,6,2.4
+Dixon-Reyes,Vegetables,93.08,Tyronebury,2024-02-25,Van,Grocery Store,3,2.1
+"Lopez, Lopez and Walker",Meat,27.67,South Savannah,2024-07-09,Drone,Farm,3,2.0
+Vasquez-Young,Vegetables,41.71,New Amanda,2024-11-08,Bike,Farm,7,0.7
+Glover-Wilkins,Dairy,8.44,Lake James,2024-01-05,Drone,Restaurant,8,2.3
+Silva-Smith,Dairy,90.86,North Amy,2024-04-16,Bike,Farm,7,0.6
+Hernandez-Martinez,Bakery,33.27,Debbieton,2024-06-14,Van,Supermarket,7,1.5
+Coleman Inc,Dairy,17.68,Valentinebury,2024-10-13,Walk,Farm,7,1.5
+Lopez LLC,Canned Goods,19.93,South Christineton,2024-01-12,Walk,Supermarket,8,1.7
+Riley Group,Fruits,58.22,South Stephaniemouth,2024-07-14,Van,Farm,9,0.9
+"Adams, Russell and Hill",Dairy,94.07,Mejiafort,2024-03-10,Bike,Supermarket,6,2.8
+Mitchell Inc,Canned Goods,58.37,South Matthewport,2024-08-31,Truck,Grocery Store,4,1.8
+Campbell Inc,Canned Goods,55.26,Jordantown,2024-08-26,Drone,Food Bank,3,1.5
+"Briggs, Williams and Matthews",Grains,13.22,Nicholasland,2024-01-23,Truck,Restaurant,5,2.7
+Wright-Gutierrez,Vegetables,13.27,Chaseland,2024-09-04,Walk,Farm,4,1.2
+"Jones, Parrish and Wilson",Snacks,75.39,Grayton,2023-12-31,Walk,Supermarket,6,2.0
+Peck Inc,Vegetables,33.8,Millerville,2024-10-22,Walk,Grocery Store,8,1.1
+Zuniga Ltd,Fruits,33.62,New Emmaland,2024-08-25,Bike,Supermarket,6,1.0
+Morgan-Porter,Fruits,26.32,Knightchester,2024-07-06,Bike,Restaurant,5,2.9
+"Manning, Johnson and Kim",Meat,52.96,New Williamburgh,2024-10-03,Walk,Supermarket,2,2.6
+Martinez Ltd,Frozen Food,62.33,Coletown,2024-08-14,Bike,Food Bank,4,1.5
+Cruz-Garcia,Dairy,79.86,Brandonland,2023-11-27,Bike,Supermarket,7,3.0
+Lewis-Escobar,Grains,47.0,New Maureenport,2024-07-19,Walk,Restaurant,7,2.0
+"Smith, Weber and Patterson",Canned Goods,98.99,Jamesbury,2024-11-04,Walk,Farm,1,1.3
+"Duncan, Berry and Barton",Bakery,27.35,North Steven,2024-01-05,Truck,Grocery Store,3,2.9
+Stewart-Christian,Fruits,52.8,West Melanie,2024-08-15,Van,Food Bank,4,2.5
+Wright Group,Grains,37.51,New Michaelborough,2024-09-05,Walk,Farm,6,1.2
+Tucker Group,Frozen Food,76.03,Conradview,2023-12-24,Drone,Grocery Store,1,2.7
+Barrera PLC,Dairy,57.28,South Robert,2023-11-24,Bike,Supermarket,2,1.1
+Escobar Group,Frozen Food,35.88,Frankfurt,2024-09-01,Van,Farm,5,1.2
+Cook-Ross,Canned Goods,52.65,Wongstad,2024-02-07,Bike,Food Bank,2,0.7
+"Sanchez, Williamson and Nunez",Canned Goods,89.3,Reneeberg,2024-04-27,Drone,Restaurant,8,1.2
+"Rodriguez, Parker and Jacobs",Fruits,29.9,East Jaclyn,2024-01-31,Walk,Supermarket,2,0.7
+Patterson-Boyd,Frozen Food,32.39,East Charles,2023-11-18,Van,Food Bank,1,1.3
+"Scott, Bryant and Johnson",Snacks,57.73,North Brandonshire,2024-01-05,Truck,Supermarket,8,1.3
+Garrett Group,Vegetables,83.17,Port Micheleland,2024-04-19,Drone,Food Bank,7,1.3
+Berry Ltd,Dairy,18.09,Mosesburgh,2024-09-16,Bike,Supermarket,5,1.9
+"Stevens, Rodriguez and Owen",Meat,74.1,Gomezbury,2023-12-18,Drone,Grocery Store,2,1.0
+Li-Clark,Snacks,68.46,Sherryfort,2024-09-27,Walk,Food Bank,6,1.4
+"Acevedo, Wallace and Moon",Meat,11.71,Lake Kimberly,2024-06-25,Bike,Farm,4,2.8
+Tate-Holmes,Frozen Food,88.48,New Eric,2024-05-24,Truck,Farm,5,1.3
+"Rosario, Fisher and Sparks",Bakery,72.71,Johnport,2024-09-17,Walk,Food Bank,5,2.5
+Roberts PLC,Vegetables,12.26,Jessemouth,2023-11-30,Truck,Restaurant,1,2.8
+Williams Inc,Bakery,49.53,Obrienmouth,2024-01-20,Bike,Food Bank,6,1.0
+"Baldwin, Hoover and Ward",Meat,11.76,Anthonyview,2024-05-13,Bike,Farm,5,2.5
+Beltran Ltd,Bakery,93.89,Davidmouth,2024-05-21,Drone,Food Bank,3,1.0
+"Holloway, Rivera and Aguilar",Snacks,22.86,Masseyville,2024-03-26,Walk,Farm,2,2.5
+"Gonzalez, Stone and Rodriguez",Canned Goods,26.19,New Julie,2024-03-01,Truck,Grocery Store,6,0.8
+Alexander PLC,Frozen Food,54.17,Jordanfurt,2023-12-08,Drone,Restaurant,8,1.3
+Skinner-Lee,Vegetables,63.71,Port Timborough,2023-12-02,Walk,Supermarket,5,2.5
+Walker Ltd,Bakery,66.86,Hodgesberg,2024-07-09,Drone,Grocery Store,6,3.0
+"Pratt, Daniel and Williams",Canned Goods,70.98,New Joseph,2024-09-19,Drone,Supermarket,5,2.1
+Thomas Inc,Bakery,27.55,Edwardston,2024-10-27,Truck,Restaurant,5,1.2
+Gardner-Hawkins,Fruits,54.62,Allenton,2024-10-25,Drone,Farm,8,1.2
+Hanson-Roth,Fruits,52.59,Bennetttown,2024-02-11,Walk,Restaurant,4,0.9
+"Meyer, Morgan and Robinson",Bakery,82.28,Garciastad,2023-11-26,Drone,Supermarket,5,0.8
+"Miller, Jones and Hughes",Vegetables,82.25,Mitchellmouth,2024-06-01,Bike,Grocery Store,2,2.5
+Dunn Ltd,Dairy,98.94,West Christopher,2024-11-01,Drone,Farm,7,0.9
+"Farley, Smith and Butler",Fruits,45.42,Lake Mason,2024-07-08,Truck,Restaurant,1,2.4
+"Kennedy, Jones and Bailey",Meat,75.4,Michelleland,2023-12-01,Truck,Restaurant,8,0.6
+Johnson LLC,Vegetables,15.68,North Marychester,2024-07-10,Bike,Farm,6,0.9
+Arnold-Pruitt,Meat,54.87,Port Lisaland,2024-09-21,Drone,Grocery Store,8,0.7
+Mcconnell-Williams,Vegetables,76.29,Christophertown,2024-02-05,Drone,Grocery Store,3,1.5
+Garcia-Reese,Dairy,81.28,North Susan,2023-12-13,Bike,Supermarket,6,1.1
+Hicks LLC,Dairy,12.59,Port Crystalville,2024-01-13,Drone,Food Bank,4,1.3
+"Yu, Fisher and Cook",Canned Goods,23.05,North Jennyton,2023-11-20,Truck,Restaurant,5,2.7
+Munoz Ltd,Bakery,68.1,Joeborough,2024-05-13,Walk,Restaurant,1,0.8
+Bennett Group,Vegetables,19.25,Dicksontown,2024-02-27,Truck,Farm,8,1.4
+Johnson LLC,Dairy,42.72,Maldonadoberg,2024-02-14,Walk,Grocery Store,6,2.7
+Rubio-Watkins,Bakery,21.76,Kennethhaven,2023-11-27,Drone,Supermarket,3,1.8
+Duncan-Nelson,Frozen Food,83.62,Stephanieborough,2024-07-04,Drone,Farm,8,2.5
+"Chambers, Williams and Haley",Vegetables,92.97,West Michelle,2024-04-18,Bike,Food Bank,9,3.0
+Jones-Carson,Snacks,90.07,New Jeffreyborough,2024-06-17,Walk,Farm,8,1.9
+"Willis, Hernandez and Powers",Bakery,99.87,North Melinda,2023-11-19,Walk,Farm,3,0.8
+"Green, Griffith and David",Canned Goods,98.06,East Richardland,2023-12-27,Van,Supermarket,4,2.3
+"Cervantes, Young and English",Bakery,98.08,North Katherine,2023-11-16,Drone,Supermarket,1,1.5
+Holmes Ltd,Grains,62.57,Jameston,2024-02-01,Walk,Supermarket,1,0.6
+Harris-Thompson,Grains,5.81,Coltonview,2023-12-09,Truck,Grocery Store,8,2.3
+Dickerson-Koch,Dairy,40.74,Aprilfort,2024-08-26,Walk,Food Bank,9,1.9
+Mcintyre-White,Fruits,57.27,North Dustinberg,2024-02-04,Van,Grocery Store,1,2.3
+"Hahn, Murillo and Blevins",Dairy,18.77,Lake Thomasstad,2024-03-06,Bike,Food Bank,8,1.9
+Harris LLC,Frozen Food,53.32,North Reginastad,2024-06-28,Bike,Grocery Store,2,1.9
+"Welch, Hammond and Williams",Grains,87.5,New Richard,2024-05-09,Drone,Farm,1,1.4
+Huff-Murillo,Canned Goods,92.09,South Michelle,2024-09-12,Van,Farm,3,1.0
+Kelly-Crawford,Fruits,61.46,East Johnville,2024-01-16,Van,Farm,8,1.4
+Barron-Marshall,Bakery,21.22,New Brianton,2024-02-27,Truck,Supermarket,1,2.2
+"Anderson, Roberts and Smith",Meat,58.13,Port Kristenport,2024-10-13,Truck,Restaurant,1,0.6
+King LLC,Canned Goods,84.76,East Jamesport,2024-02-02,Truck,Restaurant,4,1.8
+"Medina, Wood and Young",Canned Goods,94.3,East Wyatt,2024-07-02,Bike,Restaurant,7,1.2
+Harper-Jones,Bakery,13.18,Stricklandport,2024-07-31,Truck,Supermarket,4,1.7
+Woods-Peck,Dairy,97.25,Lake James,2024-06-28,Truck,Farm,3,1.3
+"Carroll, Walker and Parker",Snacks,64.75,Kristopherport,2023-11-19,Truck,Supermarket,7,1.2
+Arnold-Rodriguez,Snacks,38.86,New Reneefort,2024-04-16,Truck,Supermarket,3,1.1
+Thomas Group,Frozen Food,87.92,Lake Johnport,2024-01-24,Walk,Restaurant,7,1.7
+"Rodriguez, Lopez and Rocha",Meat,72.78,New Brian,2024-07-19,Bike,Restaurant,3,1.0
+Ray LLC,Vegetables,33.89,Rodriguezhaven,2023-12-02,Bike,Farm,9,2.4
+"Ellis, Brown and Garza",Frozen Food,54.14,East Amyton,2023-12-25,Truck,Restaurant,5,2.9
+Navarro-Lowery,Bakery,34.43,Jeffreyport,2024-09-24,Truck,Farm,8,2.8
+Gordon Ltd,Vegetables,45.62,North Teresa,2024-01-09,Drone,Grocery Store,3,0.9
+Irwin PLC,Dairy,54.75,Chaveztown,2024-03-10,Walk,Supermarket,4,1.2
+Vincent-Tucker,Fruits,34.71,Lopezburgh,2024-09-02,Truck,Supermarket,8,2.3
+Harris-Davis,Canned Goods,31.31,Gregoryhaven,2024-02-13,Bike,Farm,4,2.2
+"Howell, Parsons and Smith",Meat,69.93,West Joseshire,2024-07-14,Truck,Farm,1,0.8
+Cox-Tyler,Vegetables,31.35,Russellstad,2023-12-23,Walk,Food Bank,5,2.6
+Barajas LLC,Frozen Food,80.12,New Kathleenland,2024-01-30,Walk,Farm,8,0.7
+"Luna, Williams and Lee",Fruits,80.85,New Kristin,2024-01-24,Bike,Food Bank,8,2.6
+Sanchez-Cooper,Canned Goods,98.66,Griffinport,2024-11-14,Bike,Food Bank,1,0.7
+"Decker, Bullock and Simpson",Bakery,24.11,New David,2024-07-06,Truck,Food Bank,8,0.8
+Anderson PLC,Canned Goods,28.74,Brooksmouth,2024-07-20,Bike,Supermarket,4,2.5
+Sanders PLC,Snacks,36.39,Edwardsburgh,2024-03-24,Truck,Grocery Store,5,1.8
+Carlson LLC,Dairy,9.47,Chavezstad,2024-08-09,Truck,Supermarket,7,1.4
+"Lee, Brown and Atkins",Grains,67.56,North Christopherview,2024-10-08,Drone,Supermarket,5,1.2
+Wilkerson-Lewis,Vegetables,79.95,Gilmorestad,2023-12-03,Drone,Food Bank,3,2.1
+"Hernandez, Hebert and Torres",Meat,78.73,Hollowayburgh,2024-10-15,Bike,Supermarket,3,2.0
+"Robinson, Collins and Cherry",Bakery,94.64,Andrewbury,2024-01-07,Truck,Grocery Store,4,2.5
+Stephens and Sons,Snacks,28.52,Carterville,2024-03-12,Bike,Grocery Store,6,1.2
+Williamson-Edwards,Frozen Food,34.07,Morganshire,2024-08-15,Truck,Grocery Store,8,2.7
+Rodriguez Ltd,Dairy,66.06,Hobury,2024-05-24,Truck,Farm,7,2.0
+House-Berg,Canned Goods,8.59,North Rickyshire,2023-11-28,Bike,Supermarket,9,2.6
+Murphy-Greene,Vegetables,10.03,Lake Lisa,2024-05-20,Truck,Food Bank,9,2.5
+Mercado-Arellano,Dairy,57.92,East Williamport,2024-04-11,Walk,Supermarket,7,2.1
+Malone-Lopez,Meat,94.83,Tiffanyborough,2024-11-09,Bike,Farm,1,2.5
+"Brooks, Robertson and Roth",Dairy,79.95,Normanland,2023-12-15,Walk,Farm,4,2.2
+"Jones, Schroeder and Matthews",Snacks,71.58,New Connorside,2024-08-11,Van,Farm,9,1.9
+Martinez and Sons,Frozen Food,96.32,Jameston,2024-02-04,Truck,Food Bank,4,2.7
+"Washington, Hill and Cole",Vegetables,95.33,New Shane,2024-08-01,Walk,Restaurant,5,2.4
+"Jenkins, Mann and Holt",Fruits,81.95,West Michael,2024-08-11,Van,Grocery Store,2,2.2
+"Mcgrath, Garcia and Martinez",Meat,41.98,Arnoldmouth,2024-01-25,Walk,Restaurant,8,2.6
+Brown and Sons,Vegetables,40.71,Lake Jennifer,2024-05-15,Truck,Grocery Store,6,2.6
+Tucker PLC,Meat,25.48,Carlytown,2024-06-05,Walk,Farm,4,2.9
+Mccoy PLC,Canned Goods,52.41,Williefort,2023-12-23,Van,Restaurant,6,0.5
+"Park, Lozano and Flores",Vegetables,12.66,New Ashley,2024-09-25,Walk,Farm,4,2.1
+"Kennedy, Ruiz and Wagner",Frozen Food,88.73,Scottborough,2024-11-04,Truck,Supermarket,7,1.0
+Price-Webb,Vegetables,92.16,New Jamesbury,2024-07-23,Drone,Farm,1,2.9
+Smith-Roberts,Meat,50.96,New Alexisside,2024-03-06,Truck,Grocery Store,7,0.5
+"Adams, Leonard and Mills",Bakery,66.16,Lake Kim,2024-08-02,Truck,Farm,9,1.3
+White Inc,Fruits,98.7,Daniellestad,2024-04-19,Bike,Grocery Store,6,1.6
+"Williams, Young and Farrell",Grains,24.81,East Veronicaburgh,2024-03-03,Walk,Food Bank,2,2.9
+"Howard, Mendez and Ferguson",Canned Goods,10.33,Donaldland,2024-06-15,Walk,Food Bank,6,2.3
+Wheeler-Jones,Grains,64.3,North Sarahfort,2024-03-25,Drone,Grocery Store,8,2.7
+"Aguirre, Blevins and Newman",Vegetables,8.98,East Darrell,2024-05-23,Walk,Farm,6,2.3
+Brown Ltd,Dairy,23.59,Fryestad,2024-03-20,Van,Grocery Store,4,2.1
+"Walsh, Mcdaniel and Payne",Grains,28.64,West Cindyview,2024-11-12,Bike,Restaurant,4,1.8
+Pena and Sons,Snacks,68.65,Petersonburgh,2024-06-17,Drone,Food Bank,8,2.0
+Pratt-Shepherd,Dairy,30.09,Sierraville,2024-03-12,Drone,Supermarket,4,2.8
+Carpenter Ltd,Meat,7.14,Lyonstown,2024-02-11,Van,Farm,3,1.4
+"Davis, Brock and Harrison",Fruits,58.92,South Josephland,2024-06-05,Walk,Grocery Store,7,1.6
+Brown-Summers,Bakery,50.07,South Joseph,2024-10-08,Bike,Farm,5,0.9
+Coleman Group,Frozen Food,99.9,New Karen,2024-06-17,Truck,Supermarket,1,3.0
+"Rollins, Oconnor and Rangel",Grains,67.92,North Kyleport,2024-04-22,Drone,Grocery Store,6,0.6
+Vasquez-Price,Grains,93.69,Johnsonbury,2024-07-03,Walk,Food Bank,7,2.2
+Knox and Sons,Snacks,38.23,Port Roberto,2024-01-22,Bike,Farm,9,1.0
+Reilly-Crosby,Fruits,54.45,Meghanberg,2024-07-23,Walk,Restaurant,2,1.7
+"Ruiz, Wilson and Walker",Dairy,29.97,Lake Seth,2024-03-03,Bike,Farm,3,2.4
+Wallace and Sons,Snacks,50.45,Lesliebury,2024-08-07,Bike,Supermarket,4,0.7
+Reyes Inc,Snacks,95.25,Josephborough,2024-06-07,Truck,Farm,4,1.6
+Phillips-Haynes,Fruits,65.0,Michelletown,2024-02-15,Van,Restaurant,5,1.6
+Taylor and Sons,Fruits,16.67,North Lorraine,2023-12-31,Bike,Supermarket,5,2.0
+Wise Ltd,Meat,76.2,Lake Anthonybury,2024-07-01,Bike,Supermarket,4,2.0
+Potter-Newman,Grains,60.51,North Wesley,2024-09-19,Truck,Restaurant,8,2.8
+Schmidt LLC,Snacks,57.41,North Jenniferburgh,2024-06-11,Walk,Supermarket,8,2.0
+"Bell, Flowers and Nelson",Vegetables,48.5,Timothytown,2024-03-11,Truck,Grocery Store,5,2.6
+Pena PLC,Meat,6.72,North Adam,2024-04-09,Van,Supermarket,2,2.8
+Heath-Villa,Dairy,63.95,Lake Marktown,2024-03-14,Truck,Food Bank,5,2.7
+"Cole, Fisher and Wilson",Grains,12.38,South Johnton,2024-01-10,Van,Restaurant,3,1.3
+Jensen-Webb,Dairy,71.6,New Vanessa,2023-11-18,Walk,Farm,3,0.6
+Jackson-Richards,Grains,84.32,Lake Jennifertown,2024-02-19,Truck,Farm,1,1.2
+Keith Group,Vegetables,15.3,Hardingville,2024-03-08,Van,Supermarket,5,2.8
+Russell-Robinson,Meat,31.71,North Lisaport,2024-08-23,Walk,Food Bank,1,0.6
+"Gilbert, Gibson and Smith",Meat,27.42,Port Bradley,2024-04-29,Walk,Food Bank,4,1.1
+Briggs-Fox,Vegetables,86.67,North Christopher,2023-12-02,Bike,Supermarket,2,1.7
+Pope LLC,Canned Goods,5.84,North Markview,2024-11-05,Walk,Grocery Store,8,2.6
+"Soto, Hoffman and Pugh",Grains,36.92,Timothyhaven,2024-04-19,Drone,Supermarket,8,2.7
+"Sanchez, Willis and Vazquez",Vegetables,20.72,Lake Danielleborough,2024-10-14,Drone,Farm,6,2.9
+Bradley-Daniel,Vegetables,26.4,South Tammy,2024-09-01,Drone,Farm,3,0.8
+Mills Ltd,Fruits,94.52,Kentland,2023-12-17,Truck,Grocery Store,7,1.7
+Williams PLC,Fruits,46.35,Fitzgeraldbury,2024-07-16,Bike,Food Bank,1,0.7
+Mcgrath Ltd,Grains,6.88,East Annmouth,2024-10-03,Walk,Supermarket,2,3.0
+Rowe LLC,Meat,45.59,Katieborough,2024-07-05,Walk,Farm,5,1.5
+Harris and Sons,Canned Goods,76.66,Douglasside,2024-01-31,Truck,Supermarket,1,2.2
+Jacobson Ltd,Dairy,46.87,Jeffreystad,2024-09-11,Walk,Supermarket,4,0.5
+Murillo-Blackwell,Dairy,34.27,Russellland,2024-04-07,Drone,Farm,6,3.0
+Nguyen-Adams,Canned Goods,99.6,Lake Rachel,2023-12-12,Drone,Restaurant,2,2.4
+Smith-Taylor,Snacks,89.31,Robinsonstad,2024-01-11,Bike,Farm,7,2.0
+"Young, Ramsey and Garcia",Fruits,36.93,New Williammouth,2024-09-01,Walk,Food Bank,2,2.6
+"Paul, Green and Graham",Fruits,84.83,North Lynnfurt,2024-10-28,Drone,Supermarket,1,1.1
+Hester Group,Canned Goods,93.61,East Maryport,2024-05-26,Walk,Farm,1,1.6
+Rowe Ltd,Bakery,56.51,Natalieburgh,2024-05-26,Truck,Grocery Store,9,1.6
+"Russo, Rogers and Odom",Meat,35.81,Garnerstad,2024-06-13,Drone,Grocery Store,5,2.3
+Black-Montgomery,Vegetables,21.73,East Alicia,2024-04-28,Van,Food Bank,2,0.8
+Shepard LLC,Grains,39.92,Alexandermouth,2023-12-15,Truck,Restaurant,1,1.7
+Tate Ltd,Frozen Food,78.29,Kristinaburgh,2024-09-24,Walk,Grocery Store,4,0.6
+Villanueva-Byrd,Fruits,46.91,Caitlynmouth,2023-11-16,Truck,Food Bank,2,1.9
+"Smith, Olsen and Nelson",Frozen Food,53.21,Jamesberg,2024-09-21,Truck,Food Bank,7,2.7
+"Brooks, Parker and Morrow",Frozen Food,72.07,North Johnathanbury,2024-08-29,Walk,Restaurant,5,2.4
+Thomas-Navarro,Fruits,49.27,Dianestad,2024-10-15,Van,Food Bank,6,0.5
+"Shah, Rodriguez and Leonard",Dairy,43.76,Sandyport,2024-10-28,Walk,Grocery Store,8,1.4
+Walker-Walsh,Meat,70.52,Carterburgh,2024-03-04,Truck,Grocery Store,1,1.6
+Hughes-Martinez,Grains,20.32,Davisborough,2024-11-07,Walk,Supermarket,7,2.9
+"Owens, Hawkins and Gibson",Bakery,54.32,East Stephenberg,2024-07-21,Truck,Supermarket,2,1.3
+Burnett-Brennan,Meat,48.72,New Tammyfort,2024-07-01,Van,Restaurant,8,2.8
+"Johnson, Mcdonald and Wallace",Vegetables,77.23,New Meganside,2024-08-07,Van,Grocery Store,1,2.9
+"Garcia, Wood and Roman",Grains,85.4,Port Anthony,2024-06-22,Truck,Grocery Store,9,1.1
+Allison-Peterson,Canned Goods,38.88,New Zachary,2024-08-15,Truck,Food Bank,7,1.4
+Dickerson Ltd,Dairy,10.76,Brownport,2024-05-16,Drone,Farm,1,0.7
+Branch Ltd,Snacks,84.52,Keithside,2024-03-17,Bike,Farm,6,0.6
+"Burton, Sutton and Morgan",Snacks,27.29,Lake Michael,2024-07-05,Truck,Grocery Store,7,2.1
+Porter-Edwards,Frozen Food,66.72,East Jessica,2024-01-24,Van,Grocery Store,1,1.7
+"Burke, Russell and Schmidt",Frozen Food,76.35,East Erica,2024-10-10,Drone,Grocery Store,3,1.8
+Hull-Orozco,Meat,92.88,Patrickchester,2024-01-15,Van,Food Bank,9,2.4
+"Harper, Green and Rodriguez",Fruits,88.14,New Diana,2024-10-25,Truck,Supermarket,4,0.8
+Lopez PLC,Canned Goods,53.76,Kyleport,2024-10-05,Drone,Supermarket,4,0.7
+"Rice, Peters and Allen",Snacks,43.4,Flynnside,2024-03-03,Drone,Grocery Store,7,2.8
+Caldwell-White,Meat,47.45,Port Bruce,2024-11-08,Bike,Grocery Store,8,0.6
+Anderson-Patton,Frozen Food,77.73,Danielleberg,2024-10-16,Truck,Farm,5,0.9
+Gilbert-Cook,Dairy,65.77,West Brittneyton,2023-12-10,Drone,Supermarket,5,2.3
+Johnson Ltd,Snacks,50.98,Mariafort,2024-03-14,Bike,Food Bank,5,2.4
+Melendez PLC,Dairy,62.85,Rodriguezfurt,2024-09-25,Truck,Supermarket,5,0.7
+Lawrence LLC,Meat,79.53,Lake Bretthaven,2024-04-08,Van,Restaurant,1,2.6
+White Inc,Grains,95.5,Patriciastad,2024-07-10,Walk,Farm,1,0.9
+Buck-Alvarado,Snacks,81.25,Mannport,2024-07-07,Walk,Farm,5,0.8
+"Taylor, Jones and Dillon",Canned Goods,89.8,Rebeccafort,2024-09-17,Truck,Grocery Store,8,0.5
+"Hernandez, Hall and Bailey",Dairy,75.63,Port James,2024-03-25,Truck,Restaurant,6,1.6
+Gay and Sons,Meat,67.65,Fordport,2023-12-18,Drone,Farm,1,1.0
+Zavala-Cook,Vegetables,14.6,South Thomasfort,2024-10-16,Drone,Farm,1,1.1
+Dixon-Singleton,Dairy,90.19,Port David,2024-03-15,Bike,Food Bank,7,2.4
+Evans LLC,Snacks,83.11,New Christopherfort,2024-09-21,Van,Supermarket,7,2.6
+"Black, Davis and Houston",Fruits,27.83,West Reginamouth,2024-07-24,Drone,Supermarket,1,1.7
+"Newton, Gay and Fuller",Snacks,49.0,Lake Brandonfurt,2024-11-13,Van,Supermarket,2,2.4
+"Waller, Armstrong and Taylor",Frozen Food,13.17,Mendozatown,2024-03-17,Bike,Food Bank,7,0.8
+"Anderson, Ware and Newton",Fruits,93.07,West Benjaminton,2024-02-28,Bike,Supermarket,8,1.0
+"Jacobson, Miller and Howard",Dairy,34.23,Baileyshire,2024-11-13,Van,Food Bank,1,2.8
+Wilson LLC,Dairy,55.29,South Emma,2024-08-30,Drone,Farm,7,2.8
+"Miller, Myers and Johnson",Bakery,57.3,South Annshire,2024-04-05,Drone,Food Bank,8,2.6
+Lewis LLC,Grains,32.06,Hernandezside,2024-07-24,Truck,Farm,9,0.8
+Flores PLC,Fruits,36.85,Pattersontown,2024-11-05,Bike,Farm,4,2.8
+"Wise, Patterson and Gallagher",Fruits,35.8,Christinaport,2024-02-06,Drone,Grocery Store,1,1.2
+West PLC,Bakery,73.42,Sarahfurt,2024-08-18,Van,Farm,4,2.0
+Lewis PLC,Dairy,98.7,South Debbie,2024-06-07,Van,Supermarket,3,2.6
+"Adams, Moore and Porter",Vegetables,69.47,Edwardsview,2024-02-17,Walk,Supermarket,2,1.7
+Garcia LLC,Meat,35.11,West Terry,2024-10-17,Bike,Restaurant,8,1.1
+"Freeman, Harrison and Weber",Grains,66.25,Johnsonhaven,2024-02-08,Truck,Restaurant,2,2.9
+Lopez-Mcintosh,Fruits,30.09,New Robert,2024-08-28,Truck,Supermarket,1,1.9
+Johnson-Jones,Meat,43.45,Brooksside,2024-08-10,Van,Supermarket,7,1.3
+Forbes Group,Snacks,60.57,Wallschester,2024-01-12,Van,Food Bank,5,2.6
+Carroll PLC,Grains,33.16,Tomberg,2024-07-20,Bike,Farm,2,0.9
+"Roach, Norris and Rodriguez",Frozen Food,47.6,West David,2024-10-22,Bike,Restaurant,5,1.8
+Valdez-Wallace,Grains,41.96,Mcguireport,2024-05-16,Truck,Restaurant,2,2.5
+Harper Inc,Grains,80.1,Russellview,2024-04-18,Truck,Farm,9,2.9
+Wallace-Carter,Dairy,45.48,Caitlinburgh,2024-07-16,Bike,Supermarket,6,0.8
+"Patterson, Adams and Fuller",Snacks,29.71,Joshuaton,2024-05-01,Van,Food Bank,6,1.7
+Murray-Peterson,Bakery,33.88,Staceybury,2024-06-13,Van,Grocery Store,2,1.7
+"Morgan, Wagner and Schneider",Meat,7.1,Clarkfurt,2023-11-22,Truck,Supermarket,8,0.6
+Lewis-Hernandez,Vegetables,10.56,Nealstad,2023-12-14,Bike,Supermarket,5,2.2
+Martin LLC,Grains,91.34,Kellyshire,2024-05-15,Bike,Farm,5,2.1
+Cherry Group,Fruits,73.99,Tonyton,2024-07-22,Van,Restaurant,9,2.5
+"Kelley, Castro and Zimmerman",Canned Goods,58.28,Thomasview,2024-08-18,Walk,Restaurant,7,0.5
+Navarro PLC,Vegetables,35.19,Cisnerosport,2024-10-06,Bike,Grocery Store,6,2.5
+"Phillips, Johnson and Smith",Frozen Food,66.95,Robinsonland,2024-01-01,Truck,Grocery Store,2,1.0
+Chase-Duke,Frozen Food,44.99,Tylerside,2024-03-01,Truck,Food Bank,8,2.6
+Bowen-Arnold,Fruits,35.2,Ericland,2024-05-07,Van,Farm,1,0.9
+Robinson-Perry,Canned Goods,10.82,Amyfurt,2024-07-05,Van,Supermarket,7,2.5
+Hunter-Roberts,Fruits,30.64,Danahaven,2023-11-26,Walk,Supermarket,1,1.1
+White-Franco,Meat,89.18,West Josephstad,2024-04-26,Drone,Farm,3,2.1
+"Sullivan, Friedman and Clements",Snacks,38.87,Sarahchester,2024-05-11,Walk,Supermarket,8,0.8
+Myers-Hoffman,Grains,40.69,Mariastad,2024-10-03,Bike,Supermarket,4,0.8
+Li-Bush,Grains,11.87,New Dawnland,2024-09-15,Bike,Farm,9,1.2
+Evans Ltd,Dairy,56.51,Schneiderhaven,2024-08-19,Bike,Supermarket,8,1.3
+Reed-Rodgers,Vegetables,30.43,Lake Christina,2023-12-21,Van,Food Bank,9,1.6
+Swanson-Dixon,Vegetables,97.11,North Kelli,2024-06-30,Truck,Grocery Store,4,0.8
+Wallace Inc,Canned Goods,93.82,East Tiffanyview,2024-08-09,Drone,Restaurant,2,1.3
+Watkins-Taylor,Dairy,96.73,Lake Anna,2024-10-05,Walk,Farm,1,0.8
+Holden-Mendoza,Fruits,47.03,Cameronberg,2024-01-14,Bike,Grocery Store,9,0.6
+Brown Ltd,Snacks,62.92,Manningchester,2023-12-16,Van,Restaurant,9,2.8
+Wilson-Campbell,Grains,64.23,East Matthewton,2023-11-21,Van,Restaurant,7,2.1
+Gutierrez-Galloway,Fruits,70.51,Lake Angelaside,2024-04-06,Walk,Restaurant,7,2.8
+"Ritter, Terry and Carson",Canned Goods,36.93,East Samuel,2024-07-27,Van,Food Bank,6,2.6
+Mcfarland and Sons,Bakery,84.89,East Lisa,2024-06-25,Walk,Food Bank,4,1.5
+Simpson Group,Meat,57.48,Andrestad,2024-07-06,Bike,Food Bank,5,2.0
+Warren Inc,Grains,38.43,North Melvin,2024-09-10,Walk,Supermarket,4,1.3
+"Sanchez, Gomez and Williams",Snacks,97.86,Benjaminfurt,2023-12-19,Bike,Supermarket,9,1.3
+Atkinson-Green,Canned Goods,42.96,Andrademouth,2024-01-25,Truck,Farm,2,1.8
+"Fernandez, Camacho and Garcia",Meat,32.88,New Derek,2024-05-02,Drone,Grocery Store,5,2.9
+Leblanc-Miller,Canned Goods,54.15,Elizabethstad,2024-02-07,Truck,Restaurant,9,1.5
+Gray-Lynn,Meat,86.93,Santosstad,2023-12-22,Drone,Grocery Store,1,1.3
+Jordan-Aguilar,Frozen Food,88.34,North Rebecca,2024-05-23,Bike,Farm,2,1.1
+"Morris, Espinoza and Evans",Grains,6.37,New Sarahville,2023-11-28,Bike,Supermarket,7,0.9
+"Moore, Alvarez and Garcia",Meat,15.2,Lake Tylerfort,2024-04-29,Drone,Supermarket,5,1.3
+Johnson Group,Fruits,9.96,South Alexanderville,2024-03-24,Bike,Food Bank,6,2.3
+Hester-Robinson,Snacks,73.71,Blevinsmouth,2024-02-23,Van,Food Bank,7,2.8
+Murray and Sons,Canned Goods,7.5,New Gary,2024-09-10,Truck,Farm,5,2.1
+Martinez Group,Meat,32.29,Jeffreymouth,2024-04-07,Truck,Supermarket,6,2.3
+Brady-Allen,Bakery,20.44,Port Tonyland,2024-02-14,Walk,Grocery Store,6,2.8
+Burke-Anderson,Snacks,54.06,North Amandaton,2024-09-14,Van,Farm,4,1.3
+Phillips Inc,Vegetables,66.33,West Nicholas,2024-05-30,Truck,Grocery Store,8,2.8
+Martinez Inc,Frozen Food,78.76,Tracybury,2024-07-31,Truck,Restaurant,8,2.6
+"Jones, Peterson and Rivera",Snacks,12.14,West Jesusburgh,2024-02-11,Van,Farm,1,2.3
+Ellis-Howard,Meat,76.42,South Tiffanyville,2024-07-06,Drone,Food Bank,4,0.9
+Martinez PLC,Meat,32.6,Paultown,2024-04-05,Drone,Farm,4,2.0
+Hancock-Oneal,Vegetables,36.52,Lauraview,2024-07-29,Walk,Farm,2,1.0
+Lee PLC,Bakery,27.7,South Michaelfurt,2024-07-03,Walk,Supermarket,6,2.2
+Miller-Mercado,Frozen Food,15.61,South Stephaniechester,2024-08-21,Bike,Supermarket,9,0.9
+Valencia Inc,Meat,99.14,Torresview,2024-09-22,Van,Supermarket,4,1.4
+Taylor-Strickland,Grains,26.84,New Scott,2024-10-29,Truck,Grocery Store,8,1.5
+"Yates, Kemp and Allen",Canned Goods,36.09,Michelleborough,2024-02-22,Van,Farm,7,3.0
+Jacobson-Franklin,Grains,23.37,Hobbsmouth,2024-06-29,Bike,Restaurant,3,1.4
+Compton-Lynch,Grains,88.88,Port Alison,2024-01-08,Van,Farm,3,2.1
+"Young, Franco and Garcia",Canned Goods,36.65,Owensbury,2024-06-27,Walk,Grocery Store,6,1.0
+Mills Group,Grains,50.81,Tammyton,2024-07-14,Walk,Restaurant,6,0.8
+Watson PLC,Vegetables,56.89,North Hunter,2024-06-08,Truck,Farm,7,1.9
+"Cline, Jacobs and Fritz",Vegetables,7.63,Richstad,2024-06-29,Drone,Restaurant,6,1.3
+"Knapp, Tucker and Collins",Vegetables,73.41,Myerschester,2024-04-17,Van,Restaurant,6,1.5
+Martin-Miller,Bakery,31.6,Lake Tracy,2024-01-05,Van,Food Bank,5,0.9
+"Winters, Newton and Robinson",Canned Goods,14.62,Lake Edward,2024-09-30,Bike,Grocery Store,5,1.5
+Parker-Martin,Vegetables,86.28,Adamsfurt,2024-02-16,Van,Restaurant,1,1.5
+Sharp PLC,Bakery,75.72,Port Rickystad,2024-08-16,Truck,Grocery Store,3,0.8
+Johnson-Gonzalez,Dairy,18.63,Lake Justinmouth,2024-07-06,Walk,Food Bank,6,1.3
+Thomas-Owens,Dairy,77.32,Stevenmouth,2024-02-20,Walk,Farm,1,2.4
+Palmer-Henderson,Snacks,54.83,North Samuel,2024-03-12,Bike,Grocery Store,3,2.7
+Knapp Ltd,Frozen Food,93.3,East Tommyside,2024-04-30,Drone,Grocery Store,8,1.0
+"Farmer, Garcia and Rodriguez",Vegetables,85.21,East Michaelborough,2024-01-27,Bike,Restaurant,6,1.6
+Warren Inc,Snacks,23.01,East Riley,2024-03-10,Truck,Food Bank,9,1.8
+Howard PLC,Vegetables,29.44,Garrettport,2024-02-07,Bike,Food Bank,4,0.8
+Delgado-Ray,Frozen Food,99.69,East Geoffrey,2024-02-05,Truck,Food Bank,6,2.3
+Black-Reese,Meat,8.56,Port Karl,2023-12-26,Drone,Grocery Store,2,2.3
+Logan Group,Canned Goods,71.83,East Brendanfurt,2024-03-06,Van,Restaurant,6,3.0
+English Ltd,Fruits,45.49,Lake Ashley,2024-05-15,Bike,Restaurant,4,2.3
+Brown-Kidd,Meat,40.21,East Kyle,2024-10-03,Van,Grocery Store,5,1.9
+"Thompson, Morgan and Fletcher",Canned Goods,58.04,Vickiton,2024-03-09,Van,Supermarket,6,0.6
+Powers-Chavez,Grains,6.85,East Angela,2024-04-08,Drone,Farm,3,2.7
+Jefferson-Harvey,Fruits,59.72,North Charles,2024-09-20,Drone,Restaurant,2,1.1
+"Gibson, Wright and Johnson",Meat,56.19,Lake Desiree,2024-07-09,Van,Grocery Store,4,2.6
+Guzman-Dunn,Frozen Food,82.27,Lake Christina,2023-12-16,Truck,Supermarket,7,2.3
+Hill-Grant,Snacks,45.28,Michaelshire,2023-12-04,Van,Food Bank,4,0.8
+"Turner, Scott and Roberts",Canned Goods,34.74,East Aliciaborough,2023-11-22,Drone,Supermarket,3,2.5
+Brown-Rangel,Frozen Food,14.77,North Bethfort,2023-12-10,Bike,Restaurant,8,2.8
+Miller Ltd,Vegetables,8.54,Davidsonburgh,2024-09-13,Drone,Restaurant,2,1.8
+Anderson Group,Grains,71.58,Erikashire,2024-11-09,Truck,Restaurant,3,1.4
+"Ramirez, Burns and Mason",Snacks,52.31,New Brianna,2023-11-26,Walk,Farm,9,0.9
+Olsen-Rodriguez,Meat,73.58,East Brett,2024-01-08,Bike,Supermarket,8,0.8
+Murillo Inc,Grains,70.2,Christopherchester,2023-12-13,Walk,Restaurant,5,0.7
+"Gomez, Arnold and Reilly",Dairy,58.59,Lake Chris,2024-07-26,Walk,Supermarket,3,1.8
+"Jackson, Stokes and Mason",Fruits,35.75,Rivasmouth,2024-05-26,Walk,Farm,4,1.3
+"Ellis, Griffin and Smith",Canned Goods,10.02,Jodiburgh,2024-09-29,Walk,Food Bank,3,2.2
+"Alvarado, Mathis and Brown",Dairy,7.65,Port Thomas,2024-03-28,Bike,Food Bank,9,2.9
+Wilson-Anderson,Frozen Food,55.82,Taraborough,2024-02-27,Walk,Farm,9,1.2
+Thompson-Dominguez,Bakery,11.68,South Juanhaven,2024-06-28,Van,Restaurant,1,1.4
+Hayes-Green,Canned Goods,12.57,Matthewport,2024-03-25,Bike,Restaurant,8,1.3
+Young LLC,Bakery,36.57,Lake Edwinport,2024-01-31,Bike,Grocery Store,5,2.0
+Rivera-Zimmerman,Meat,98.88,Danielfurt,2024-08-31,Walk,Food Bank,2,2.6
+"Thompson, Wilson and Simmons",Vegetables,73.36,South Tiffanytown,2024-09-09,Truck,Grocery Store,3,2.4
+"Powell, Cooke and Mckay",Frozen Food,6.73,North Eric,2024-08-06,Drone,Supermarket,4,0.8
+Lee-Russell,Meat,20.93,East Sandraton,2024-05-14,Van,Supermarket,4,0.5
+Williams Inc,Dairy,30.69,Charlesport,2024-11-12,Bike,Farm,7,1.4
+Meza Group,Meat,95.22,Georgestad,2024-04-11,Van,Restaurant,1,1.2
+Clayton Ltd,Dairy,16.37,Valdezville,2024-10-01,Van,Grocery Store,5,2.5
+Mcclure Group,Snacks,68.04,East Sarahhaven,2024-04-30,Walk,Farm,7,2.6
+Murphy and Sons,Canned Goods,15.27,Lake Jonathanside,2024-09-08,Drone,Supermarket,7,2.1
+Fox-Newton,Canned Goods,20.47,New Davidborough,2023-12-22,Van,Grocery Store,1,1.6
+"Ford, Salazar and Ruiz",Vegetables,37.04,Samanthaport,2024-03-13,Van,Supermarket,5,1.0
+Wall-Johnson,Canned Goods,67.66,New Heather,2024-05-21,Walk,Grocery Store,7,1.8
+"Scott, Trujillo and Ayala",Dairy,31.51,South Duane,2024-07-19,Drone,Supermarket,1,1.2
+Williams and Sons,Canned Goods,22.2,North Jenniferport,2024-08-25,Van,Restaurant,2,2.5
+Chase Group,Dairy,10.46,Longmouth,2024-10-10,Van,Supermarket,5,2.5
+Griffin-Riley,Meat,10.81,Julianshire,2024-10-21,Truck,Grocery Store,6,2.4
+"Robinson, Juarez and Clayton",Dairy,22.35,West Erin,2024-04-21,Drone,Food Bank,1,1.3
+"Oliver, Diaz and Murphy",Snacks,67.01,East Michaelville,2024-01-22,Truck,Farm,5,0.7
+"Gonzalez, Jenkins and Glass",Fruits,68.31,Jasonland,2024-03-17,Walk,Grocery Store,2,2.2
+Contreras Group,Frozen Food,35.35,Ortizview,2024-09-19,Van,Farm,3,0.6
+Smith-Harmon,Snacks,96.36,Holmesville,2023-12-05,Drone,Food Bank,3,0.9
+"Wilson, Whitehead and Turner",Dairy,5.95,East Angelica,2024-03-13,Truck,Grocery Store,5,0.7
+Thompson LLC,Canned Goods,64.26,New Lauraburgh,2024-08-24,Walk,Grocery Store,8,1.9
+Yang-Campbell,Dairy,36.91,South Alexanderbury,2024-04-18,Drone,Grocery Store,7,0.6
+"Martinez, Rios and Anderson",Canned Goods,20.5,Lake Shari,2024-05-24,Truck,Farm,1,0.8
+"Short, Fitzgerald and Salazar",Dairy,10.32,Lake Tinaland,2024-01-17,Van,Farm,3,1.4
+"Johnson, Hunt and Black",Vegetables,22.08,New Shelbyfurt,2024-06-19,Truck,Farm,6,0.7
+"Chase, Fields and Huang",Snacks,19.13,Amandaberg,2024-05-07,Bike,Food Bank,2,1.3
+"Schwartz, Jennings and Johnson",Dairy,43.14,Waltonstad,2023-12-07,Drone,Supermarket,9,1.7
+"James, Clark and Butler",Bakery,29.53,Aaronside,2023-11-22,Walk,Food Bank,9,0.6
+Garcia-Lucero,Frozen Food,18.38,Charlesfort,2024-10-20,Drone,Food Bank,3,1.2
+Wright Group,Meat,96.51,Dawntown,2024-01-11,Truck,Grocery Store,2,1.8
+Harper-Cross,Frozen Food,32.16,Taylorstad,2023-11-28,Van,Restaurant,9,3.0
+"Riley, Brown and Robertson",Frozen Food,69.4,North Carly,2024-09-22,Truck,Restaurant,2,2.6
+Hendrix-Wilson,Frozen Food,16.72,Robertshire,2024-02-01,Van,Grocery Store,8,1.8
+Cameron-Lyons,Vegetables,41.02,West Allenborough,2023-12-14,Bike,Food Bank,2,2.2
+Peterson-Myers,Bakery,91.23,West Alexville,2024-05-24,Bike,Farm,9,1.3
+Nelson LLC,Dairy,99.26,Douglasport,2024-02-02,Bike,Farm,5,0.7
+Peterson-Ferguson,Fruits,57.31,Lake Amy,2024-03-30,Truck,Food Bank,2,2.1
+"Mccann, Rowe and Jenkins",Meat,15.76,Taylorland,2024-10-30,Truck,Restaurant,7,2.0
+"Payne, Collins and Anderson",Fruits,89.64,East Carlos,2024-09-29,Bike,Farm,7,2.0
+"Potts, Robinson and Torres",Frozen Food,34.32,Port Pamelatown,2024-05-08,Drone,Farm,4,0.6
+Davis and Sons,Snacks,54.85,Moorefort,2024-09-04,Walk,Supermarket,4,1.4
+Romero and Sons,Snacks,85.54,Troyfort,2024-10-02,Van,Restaurant,2,1.0
+Stewart and Sons,Bakery,78.26,Scottshire,2024-05-25,Bike,Grocery Store,3,0.9
+Herrera-Hammond,Bakery,67.66,Nicoleburgh,2024-11-07,Truck,Restaurant,1,2.6
+Morris-Montoya,Dairy,90.42,East Wyatt,2024-08-11,Bike,Grocery Store,3,2.2
+Greene-Bridges,Vegetables,54.29,Theresachester,2024-11-02,Bike,Food Bank,4,2.1
+Thomas and Sons,Dairy,48.54,Johnsonmouth,2024-08-05,Van,Grocery Store,1,1.2
+Fisher-Taylor,Frozen Food,72.01,Fisherfort,2024-03-19,Van,Food Bank,9,1.5
+"Mcmillan, Jenkins and Hodge",Snacks,8.59,North Dorothy,2024-08-26,Van,Grocery Store,7,2.4
+Mata LLC,Snacks,66.75,North Kristyside,2024-04-28,Van,Grocery Store,6,1.1
+"Reese, Bell and Cook",Fruits,34.47,Tiffanyside,2024-09-12,Van,Restaurant,1,1.4
+Clark Inc,Vegetables,76.21,West Duanechester,2024-02-14,Bike,Farm,6,1.4
+"Levine, Guerrero and White",Bakery,8.78,Michaelville,2024-06-14,Truck,Farm,7,1.8
+Hamilton LLC,Grains,81.38,South Joshuaport,2023-11-16,Van,Supermarket,8,2.7
+Farrell-Crawford,Vegetables,86.88,South Gregory,2023-11-26,Walk,Grocery Store,6,1.6
+Price PLC,Vegetables,28.8,Saraville,2024-01-31,Truck,Grocery Store,3,2.3
+Wallace-Davis,Bakery,34.01,East Noahport,2024-03-03,Van,Farm,7,2.7
+Flynn PLC,Meat,67.28,Lake Monique,2024-06-29,Walk,Farm,1,2.2
+Welch PLC,Dairy,26.41,Port Emilyhaven,2024-03-07,Truck,Farm,1,1.3
+Jones-Smith,Fruits,53.9,East Kevinton,2024-04-08,Truck,Farm,8,1.3
+Garcia-Swanson,Dairy,73.07,Grimestown,2024-07-30,Drone,Supermarket,6,2.8
+"White, Turner and Cox",Fruits,41.96,Sarachester,2024-02-04,Bike,Food Bank,3,1.2
+"Weber, Logan and Powell",Meat,71.18,Staceyville,2024-02-05,Truck,Farm,8,2.3
+"Long, Wilson and Hinton",Meat,99.76,Cobbchester,2024-09-16,Walk,Restaurant,8,0.8
+Medina-White,Dairy,27.29,Nguyenville,2024-06-08,Drone,Grocery Store,3,0.5
+"Wilson, Jones and Thompson",Frozen Food,47.56,Petersonton,2024-08-13,Bike,Farm,3,1.7
+Young-Thompson,Vegetables,20.43,East Johnside,2024-05-15,Van,Restaurant,5,0.7
+Smith and Sons,Dairy,12.04,Lake Kathleenport,2024-03-02,Drone,Grocery Store,1,0.6
+"Ferguson, Savage and Garcia",Snacks,22.36,Floresside,2024-03-15,Walk,Grocery Store,8,0.7
+"Finley, Dixon and Brown",Fruits,15.89,Lake Kaylaport,2024-10-16,Truck,Supermarket,1,2.9
+"Ruiz, Diaz and Reynolds",Frozen Food,36.74,Richardberg,2024-09-30,Bike,Farm,5,1.9
+Murray-Williams,Grains,29.85,Port Noahbury,2024-10-20,Truck,Supermarket,9,2.2
+"Roberson, Blair and Norton",Meat,11.66,Stoutburgh,2024-04-15,Van,Restaurant,7,0.7
+Bennett PLC,Fruits,38.86,Lake Nicolefurt,2024-04-06,Truck,Supermarket,2,2.2
+Carpenter and Sons,Bakery,41.9,East Julieshire,2024-01-24,Truck,Food Bank,1,2.1
+"Johnson, Miller and Williams",Snacks,60.44,North Patrick,2024-03-24,Drone,Farm,5,2.1
+"French, Rodriguez and Griffin",Bakery,34.76,Port Lindsay,2024-01-27,Van,Grocery Store,7,1.6
+Hogan-Barry,Bakery,74.83,East Brian,2024-05-07,Truck,Farm,8,2.3
+Miller Inc,Snacks,91.72,Davidport,2024-10-13,Drone,Grocery Store,2,2.5
+"Garcia, Johnson and Parrish",Grains,43.76,Martinberg,2024-07-25,Walk,Restaurant,2,1.0
+Thompson and Sons,Dairy,92.75,Ronaldhaven,2024-08-01,Bike,Food Bank,9,2.7
+Burke-Pena,Bakery,92.54,Jonland,2024-09-20,Drone,Supermarket,2,1.4
+Garcia Ltd,Dairy,32.52,Nancytown,2024-10-30,Walk,Grocery Store,4,1.9
+Sharp PLC,Grains,32.39,East Jonathanchester,2024-07-06,Walk,Farm,2,2.4
+Lopez-Johnson,Dairy,18.81,East Ashleyland,2023-11-28,Van,Farm,5,2.6
+Gray Inc,Canned Goods,63.44,West Barry,2024-01-01,Van,Grocery Store,3,0.8
+"Cooper, Robinson and Wilson",Fruits,8.34,West Bretthaven,2024-07-23,Walk,Restaurant,8,2.6
+Silva-Smith,Snacks,14.13,Michaelville,2023-12-15,Drone,Food Bank,2,2.9
+"Campbell, Hernandez and Huffman",Frozen Food,59.08,Amyshire,2024-10-29,Van,Farm,6,0.7
+"Lawrence, Villanueva and Stephenson",Vegetables,70.18,Lisamouth,2024-02-21,Truck,Restaurant,7,2.1
+Williamson LLC,Dairy,30.41,West Joshuaton,2024-07-18,Drone,Grocery Store,7,2.4
+Joyce-Jimenez,Canned Goods,9.73,North Jasonville,2024-07-04,Bike,Supermarket,4,1.0
+Williamson Group,Bakery,45.21,Derrickshire,2024-06-19,Truck,Supermarket,5,0.9
+Wright LLC,Snacks,9.47,Martinmouth,2024-04-07,Van,Supermarket,3,1.3
+Jackson-Wallace,Bakery,89.14,South Danielfort,2023-11-17,Bike,Restaurant,6,1.1
+Cortez and Sons,Meat,29.17,North Keith,2024-07-21,Walk,Restaurant,6,2.6
+"Russell, Jones and Brown",Bakery,28.88,Castilloville,2024-10-25,Truck,Farm,2,0.8
+"Sullivan, Bridges and Ramirez",Snacks,35.98,Tyronemouth,2024-04-15,Drone,Supermarket,7,2.4
+Horn Group,Bakery,45.7,Mcguireville,2024-08-09,Drone,Restaurant,2,1.1
+Lee and Sons,Snacks,34.62,Lake Holly,2024-07-05,Bike,Grocery Store,5,1.6
+Middleton Group,Snacks,80.5,Powellfort,2024-06-08,Bike,Farm,3,1.8
+Graham-Gibson,Bakery,9.59,North John,2024-03-10,Bike,Grocery Store,2,0.8
+Stevens-Navarro,Dairy,45.86,North Carl,2024-04-15,Drone,Food Bank,7,0.6
+"Garcia, Lawson and Diaz",Snacks,55.76,Rachelstad,2023-12-12,Van,Restaurant,8,1.1
+Thomas-Banks,Vegetables,89.09,New Richard,2023-12-28,Truck,Food Bank,9,0.9
+Prince-Weber,Fruits,36.28,West Pamela,2024-01-12,Bike,Restaurant,6,1.0
+"Rodriguez, Hernandez and Thomas",Fruits,19.92,Thorntonfort,2024-08-12,Truck,Farm,9,0.6
+Wilson LLC,Dairy,16.69,Garciatown,2024-08-31,Van,Grocery Store,6,1.0
+Russo Group,Bakery,91.6,New Cynthia,2024-06-09,Drone,Farm,6,2.9
+"Perez, Cole and Duncan",Frozen Food,33.01,Port Jamesstad,2024-01-30,Truck,Farm,2,0.9
+Frey Inc,Fruits,30.96,Martinezville,2023-11-30,Truck,Food Bank,7,2.7
+"Rosales, Willis and Barr",Dairy,17.66,Stewartville,2024-05-08,Truck,Supermarket,2,2.5
+"Lopez, Myers and Adams",Vegetables,9.7,Roberthaven,2024-11-09,Walk,Farm,3,0.9
+"Parker, Cole and Cook",Dairy,57.13,Ethanberg,2024-10-19,Drone,Farm,9,2.0
+Jones and Sons,Fruits,77.61,North Davidshire,2024-10-05,Bike,Grocery Store,4,1.1
+"Davis, Howard and Adams",Dairy,44.93,Lake Tammy,2024-09-04,Walk,Supermarket,3,2.0
+Perez-Shaw,Snacks,40.34,South Kellyborough,2024-11-07,Truck,Food Bank,5,1.2
+"Hurst, Lozano and Villanueva",Grains,55.74,Kevinton,2024-06-19,Drone,Restaurant,1,0.9
+Perez Ltd,Dairy,71.07,Marktown,2024-08-22,Drone,Supermarket,9,1.7
+"Webb, Chen and Holt",Snacks,34.78,North Jasonfurt,2024-11-11,Drone,Restaurant,3,1.3
+Reilly PLC,Dairy,19.68,West Sarahbury,2024-08-06,Walk,Food Bank,9,2.4
+Paul-Brooks,Fruits,25.42,North Jonathanland,2024-07-07,Van,Farm,7,1.9
+"Graham, Barber and Howard",Bakery,78.25,South Shannonville,2023-12-10,Walk,Grocery Store,8,1.2
+Davis PLC,Grains,93.48,Antonioville,2024-09-28,Bike,Farm,5,1.1
+Long-Hall,Dairy,26.21,Lake William,2023-11-15,Bike,Food Bank,5,1.6
+"Tate, Gonzalez and Russell",Vegetables,17.54,West Tony,2024-08-09,Van,Food Bank,1,0.8
+Carlson PLC,Fruits,87.86,Andreaside,2024-05-14,Truck,Grocery Store,1,2.2
+Stein LLC,Fruits,63.77,East Marisa,2024-10-25,Van,Supermarket,8,2.1
+Garcia-Fischer,Canned Goods,98.5,West Martinfurt,2024-07-11,Bike,Restaurant,7,2.6
+Fowler-Davis,Canned Goods,54.09,East Matthew,2023-11-27,Drone,Restaurant,3,2.5
+Dixon and Sons,Snacks,71.7,Port Patrick,2024-07-19,Drone,Grocery Store,4,2.5
+"Henry, Dawson and Morrison",Grains,88.53,South Maria,2024-01-01,Truck,Food Bank,8,2.3
+Parker-Lewis,Frozen Food,6.8,Turnerport,2024-01-25,Truck,Grocery Store,1,1.2
+Le-Stanley,Grains,6.4,South Priscilla,2023-12-07,Van,Food Bank,2,1.5
+Harris Group,Snacks,59.75,Port Danielville,2024-03-31,Walk,Food Bank,8,0.6
+Lee-Francis,Vegetables,80.86,Brianfort,2024-01-29,Truck,Farm,9,2.6
+Carroll and Sons,Bakery,81.05,Port Dylanmouth,2024-08-21,Walk,Food Bank,1,1.4
+Jimenez-Abbott,Bakery,58.28,East Douglas,2024-04-30,Truck,Farm,1,3.0
+Dominguez PLC,Bakery,56.12,Justinberg,2024-01-15,Walk,Supermarket,2,1.9
+Downs-Sexton,Dairy,43.97,Maciasfort,2024-02-22,Bike,Grocery Store,5,2.6
+"Cruz, Hart and Wall",Dairy,40.38,Nealside,2024-02-18,Walk,Grocery Store,9,1.3
+Phillips LLC,Canned Goods,78.03,Kimburgh,2024-01-02,Van,Food Bank,8,2.2
+Coffey and Sons,Bakery,96.08,Lake Ryanshire,2023-12-17,Drone,Farm,6,1.6
+"Parker, Moore and Thompson",Snacks,68.2,West Shelbyfurt,2024-07-24,Drone,Food Bank,5,1.1
+"Fletcher, Davis and Spencer",Meat,7.07,Cherryton,2024-05-27,Truck,Farm,1,0.5
+"Kim, Adams and Mann",Fruits,58.04,Farleyland,2024-02-12,Drone,Restaurant,9,2.8
+Wright-Porter,Dairy,60.02,Nancyport,2024-06-05,Drone,Grocery Store,7,1.4
+Lawrence Ltd,Dairy,20.35,North Jeremy,2024-11-01,Walk,Restaurant,2,2.1
+Davis Group,Meat,30.9,Williamston,2024-02-03,Walk,Restaurant,5,0.6
+Burton Ltd,Snacks,88.53,Martinezland,2024-01-19,Bike,Food Bank,9,2.8
+"Smith, Obrien and Rodriguez",Meat,22.29,Danielberg,2024-09-01,Walk,Food Bank,4,2.9
+"Stewart, Fox and Lewis",Fruits,51.25,Fisherstad,2024-04-02,Walk,Supermarket,1,1.2
+Roberts Group,Frozen Food,18.4,South Justin,2024-08-06,Walk,Supermarket,1,0.6
+Lewis Ltd,Frozen Food,84.98,Peterville,2024-11-02,Drone,Farm,8,0.6
+Mitchell Group,Bakery,24.58,Donaldburgh,2024-05-05,Truck,Supermarket,2,2.2
+"Solomon, Johnson and Phillips",Bakery,37.14,Torresbury,2024-05-24,Van,Restaurant,8,1.8
+"Stone, Romero and Frye",Snacks,14.39,Figueroamouth,2024-09-11,Truck,Supermarket,3,2.3
+"Stout, Robinson and Randall",Canned Goods,23.78,Sarahshire,2024-04-20,Walk,Food Bank,5,0.8
+Meyer Ltd,Vegetables,92.31,Williamville,2024-04-07,Bike,Supermarket,8,1.7
+Wallace Inc,Snacks,97.1,New Margaret,2024-08-25,Truck,Food Bank,5,2.9
+Oliver LLC,Vegetables,14.96,East Ashleyland,2024-03-25,Van,Food Bank,2,2.1
+Harris-Richardson,Frozen Food,79.21,Lake Robertmouth,2024-09-24,Drone,Farm,4,2.2
+"Rios, Green and Brown",Canned Goods,71.28,Lake Melissa,2024-06-09,Van,Grocery Store,6,2.1
+"Nguyen, Shaw and Gill",Snacks,16.81,New Karina,2024-01-26,Walk,Food Bank,2,1.8
+"Crane, Oliver and Fleming",Bakery,10.07,Port Jane,2024-07-18,Truck,Food Bank,3,1.5
+Smith PLC,Grains,51.92,Sharistad,2024-05-26,Van,Farm,4,2.2
+Perry-Watts,Bakery,89.1,North Jeffery,2024-09-28,Van,Food Bank,4,1.1
+Chavez and Sons,Vegetables,51.22,Robinfort,2024-03-23,Bike,Supermarket,6,1.7
+Webb Ltd,Fruits,64.5,Jacksonport,2024-09-16,Van,Farm,7,1.0
+Turner-Graham,Fruits,42.98,South Aliciaborough,2024-10-07,Walk,Restaurant,2,2.6
+"Smith, Donovan and Anderson",Dairy,32.66,Adamland,2024-02-18,Van,Grocery Store,2,2.4
+"Williams, Gomez and Jones",Meat,85.99,Edwardstad,2023-12-30,Walk,Grocery Store,2,1.7
+Washington and Sons,Frozen Food,35.53,West Jordan,2024-08-25,Bike,Farm,6,3.0
+Thomas-Howell,Canned Goods,58.95,Robinmouth,2024-10-19,Van,Food Bank,8,0.8
+Shelton-Black,Canned Goods,37.36,Sonyaton,2023-12-18,Truck,Restaurant,6,2.8
+Clark and Sons,Vegetables,31.95,West Randyland,2024-02-26,Drone,Grocery Store,2,1.3
+Norman-Welch,Vegetables,70.88,Snowbury,2023-12-03,Walk,Supermarket,1,1.9
+"Maldonado, Arellano and Lee",Dairy,24.38,Bradfordshire,2024-09-15,Bike,Grocery Store,3,2.8
+Garcia-Gray,Grains,58.94,Markfurt,2024-04-05,Walk,Supermarket,6,1.8
+Olson-Blankenship,Vegetables,99.56,Williamberg,2023-12-21,Truck,Farm,5,1.3
+Parrish Group,Grains,36.42,Newmanside,2023-12-18,Truck,Grocery Store,1,2.5
+Hernandez-Webb,Frozen Food,81.92,Williamshaven,2024-05-10,Walk,Food Bank,4,0.8
+Mcguire-Choi,Snacks,74.98,Alvaradoport,2024-06-04,Bike,Farm,1,3.0
+Obrien Inc,Vegetables,45.88,New Jamesville,2024-03-25,Drone,Restaurant,5,2.4
+Alvarado-Franklin,Meat,58.43,Joannfurt,2024-01-03,Bike,Restaurant,6,0.6
+Salas-Goodman,Grains,68.54,New Monica,2024-05-04,Walk,Supermarket,6,1.2
+"Stafford, Holmes and Ford",Vegetables,54.48,Allentown,2024-03-18,Drone,Grocery Store,4,0.8
+Torres PLC,Meat,50.49,New Alexanderchester,2024-05-04,Truck,Food Bank,6,1.6
+Henry-Henry,Grains,81.97,South Danielle,2024-10-12,Van,Supermarket,4,1.5
+Gray-Tucker,Grains,43.78,South Brian,2024-02-23,Truck,Grocery Store,8,2.0
+"Smith, Davis and Mendoza",Vegetables,32.53,North Raymondfurt,2024-08-16,Bike,Restaurant,3,1.8
+Gordon-Hopkins,Fruits,32.4,New Kathrynport,2024-04-24,Walk,Supermarket,4,1.7
+Becker-Lawson,Frozen Food,55.78,Jordanstad,2024-08-19,Van,Restaurant,7,1.7
+"Oliver, Miller and Mcneil",Dairy,95.75,South Matthew,2024-01-04,Drone,Supermarket,3,1.6
+Carter Inc,Snacks,91.48,East Christopher,2024-02-20,Bike,Grocery Store,7,2.1
+Irwin and Sons,Canned Goods,9.48,North Michellemouth,2024-06-21,Walk,Grocery Store,7,1.1
+"Friedman, Booker and Black",Grains,6.27,Alexanderchester,2023-11-20,Truck,Restaurant,5,1.4
+Chan Ltd,Snacks,10.11,East Roger,2024-10-03,Walk,Restaurant,7,1.1
+Nelson-Davis,Dairy,55.68,Garciastad,2024-09-03,Walk,Restaurant,1,2.2
+Odom PLC,Meat,5.45,Hensleyport,2024-09-28,Van,Food Bank,9,2.5
+Tucker Ltd,Canned Goods,76.11,Angelatown,2024-01-29,Drone,Grocery Store,6,2.4
+"Dudley, Greene and Murray",Vegetables,67.73,South Aprilport,2024-04-30,Bike,Restaurant,8,2.6
+Freeman Ltd,Bakery,10.1,Brownborough,2023-12-01,Truck,Restaurant,4,1.8
+"Bates, Ortiz and Johnson",Fruits,74.34,Port Marissashire,2024-08-08,Bike,Farm,5,2.8
+Vang Group,Vegetables,48.66,Courtneyport,2024-08-08,Walk,Farm,5,1.8
+Fernandez-Welch,Dairy,44.76,Andersonburgh,2024-09-03,Drone,Supermarket,9,2.5
+Gutierrez-Alvarado,Canned Goods,54.92,East Robertburgh,2024-10-09,Walk,Farm,1,2.9
+Wood-Wright,Meat,47.01,Lake Danielle,2024-06-26,Drone,Restaurant,7,1.1
+Daniel-Pope,Meat,7.43,East Cynthia,2024-03-09,Truck,Food Bank,8,1.5
+Farley-Palmer,Grains,40.83,Stephaniemouth,2024-07-07,Walk,Supermarket,7,1.0
+Cook-Hart,Vegetables,66.98,New Elizabeth,2024-03-19,Bike,Restaurant,3,2.3
+"Schroeder, Gonzalez and Saunders",Fruits,42.12,West Jeffrey,2024-05-31,Truck,Food Bank,5,0.7
+Ramirez-Young,Meat,95.43,Port Christinafurt,2024-08-15,Bike,Grocery Store,8,2.9
+Anderson LLC,Bakery,7.85,Williamsbury,2024-01-03,Van,Food Bank,7,1.5
+"Abbott, Richardson and White",Grains,23.88,Caldwellmouth,2024-05-27,Van,Farm,2,2.8
+Hughes and Sons,Canned Goods,80.31,Sarahmouth,2024-10-16,Truck,Grocery Store,5,2.5
+Nunez and Sons,Canned Goods,10.81,Maryborough,2024-07-22,Drone,Supermarket,4,1.9
+"Garrett, Hamilton and Price",Dairy,28.83,Samanthaview,2024-04-18,Truck,Restaurant,1,2.2
+Ray Ltd,Frozen Food,13.76,Mooreton,2024-11-07,Walk,Supermarket,7,1.0
+Ramos-Porter,Bakery,65.72,Monroeton,2024-05-02,Drone,Restaurant,6,1.4
+"Freeman, Hendricks and Dunn",Snacks,70.12,Dunnburgh,2024-01-18,Bike,Supermarket,9,2.1
+Reese PLC,Vegetables,44.96,Michelechester,2024-06-06,Truck,Restaurant,2,0.7
+Nelson-Abbott,Grains,30.67,East James,2024-04-21,Drone,Farm,8,1.0
+Griffin PLC,Bakery,90.9,Stevenshire,2024-07-05,Walk,Grocery Store,1,3.0
+Gonzales-Johnson,Vegetables,87.11,Ginafurt,2024-11-01,Truck,Food Bank,4,2.0
+Walters LLC,Canned Goods,32.43,Jacobfurt,2024-06-01,Truck,Food Bank,2,1.4
+Hahn-Page,Meat,57.76,Gutierrezfort,2024-04-13,Van,Food Bank,2,1.1
+"Sparks, Cox and Cox",Fruits,53.72,New Alyssamouth,2024-02-07,Drone,Restaurant,3,2.0
+"Boyd, Stewart and Martin",Bakery,20.64,Mauricetown,2024-10-11,Van,Supermarket,9,1.6
+Holland-Hall,Fruits,11.1,Aprilfurt,2024-07-16,Walk,Supermarket,5,1.9
+"Clark, Taylor and Silva",Fruits,86.57,Parkshire,2024-02-03,Van,Farm,6,2.1
+"Fritz, Martin and Smith",Vegetables,62.13,South Willie,2024-09-25,Van,Farm,9,0.8
+"Wilson, Brown and Harris",Canned Goods,59.33,Williamberg,2024-06-12,Bike,Food Bank,8,0.8
+Williamson PLC,Grains,44.7,New Kirstenbury,2024-05-19,Drone,Supermarket,3,2.0
+Smith-Clayton,Grains,98.9,Port Laurenton,2023-12-26,Truck,Grocery Store,9,2.1
+Shaffer-Massey,Meat,75.71,Lake Johnfurt,2024-07-04,Van,Supermarket,3,2.5
+Oneal and Sons,Snacks,6.29,Peggyfurt,2024-03-23,Drone,Restaurant,6,1.1
+Moore-Martinez,Canned Goods,82.47,Williamsport,2024-05-22,Van,Farm,9,1.4
+"Miller, Martinez and King",Meat,14.48,Port Spencerton,2024-07-25,Walk,Restaurant,3,2.3
+Stevens and Sons,Vegetables,34.86,Cooperside,2024-10-02,Truck,Supermarket,5,1.4
+Baker-Frost,Grains,74.34,South Jessicaport,2023-11-15,Bike,Farm,3,1.3
+Peters Inc,Bakery,64.02,Jamesstad,2024-04-09,Walk,Grocery Store,4,2.2
+Wright LLC,Grains,95.64,West Kevin,2024-06-26,Van,Grocery Store,5,0.9
+"Sosa, Ball and Massey",Grains,23.16,Melissaborough,2024-11-03,Walk,Grocery Store,8,0.9
+Jackson PLC,Grains,82.37,North Markberg,2024-06-12,Truck,Farm,3,1.1
+Wilson PLC,Dairy,69.76,East Samuel,2024-05-11,Drone,Farm,6,2.5
+Burke-Martin,Canned Goods,44.2,South David,2024-01-03,Van,Restaurant,2,1.1
+"Bradshaw, Smith and Diaz",Meat,76.03,New Carol,2024-07-23,Truck,Farm,8,2.2
+"Baker, Mata and Irwin",Frozen Food,83.19,East Taylor,2024-01-06,Bike,Restaurant,8,2.7
+Rogers and Sons,Bakery,63.35,West Codyport,2024-05-18,Bike,Restaurant,8,1.8
+Jones-Lopez,Bakery,99.44,Kristichester,2023-12-16,Drone,Grocery Store,6,3.0
+Roberts Inc,Dairy,93.23,Port Carriechester,2023-12-20,Drone,Farm,7,1.7
+Love-White,Meat,92.41,Powellstad,2024-10-24,Truck,Grocery Store,2,0.7
+"Rivas, Gallagher and Curry",Meat,17.61,North Shelleystad,2023-12-31,Van,Restaurant,9,3.0
+Lowery-Mueller,Vegetables,63.19,Santoshaven,2024-10-15,Bike,Food Bank,5,2.1
+Warner and Sons,Dairy,62.55,Hannahberg,2023-11-19,Bike,Grocery Store,8,1.8
+Hess-Benton,Canned Goods,53.11,Melissahaven,2024-01-24,Drone,Food Bank,8,1.0
+Cisneros Inc,Vegetables,56.55,Lake Ashley,2024-07-07,Van,Supermarket,3,2.5
+Baker-Reyes,Grains,85.18,North Cynthiamouth,2024-11-14,Walk,Grocery Store,2,0.5
+Alvarez-Reese,Grains,39.74,Laurenchester,2024-07-16,Bike,Grocery Store,1,2.2
+Montoya Group,Vegetables,51.28,West Edwardchester,2024-02-10,Van,Farm,1,2.7
+Cowan-Phillips,Bakery,99.49,North Jennifer,2024-03-03,Walk,Grocery Store,6,1.7
+Sanders-Lutz,Snacks,12.46,Lynchfort,2024-09-19,Drone,Grocery Store,5,0.8
+"Kelly, Davenport and Williams",Frozen Food,37.74,South Dominique,2024-06-27,Bike,Grocery Store,8,2.1
+Jackson-Thompson,Bakery,22.28,North Karenton,2024-05-12,Walk,Farm,9,2.8
+"Avila, Page and Ellis",Grains,33.51,North Paulview,2024-04-09,Drone,Restaurant,4,2.7
+"Peck, Mcdonald and Taylor",Bakery,31.95,New Amber,2024-10-13,Drone,Supermarket,1,0.9
+Brewer-Davis,Grains,18.27,Gibsonville,2024-04-05,Walk,Grocery Store,8,1.2
+Ward LLC,Meat,19.96,East Chris,2024-06-29,Bike,Grocery Store,5,1.4
+"Sanford, Hart and Huber",Canned Goods,48.83,Lisafurt,2024-03-17,Drone,Supermarket,2,2.3
+Cohen-Brock,Frozen Food,5.81,Melissafort,2023-11-17,Bike,Food Bank,9,1.5
+Cobb-Jones,Vegetables,64.52,East Mark,2024-06-10,Walk,Supermarket,4,1.3
+Fields PLC,Fruits,11.24,Murrayberg,2023-12-23,Walk,Restaurant,2,1.8
+Peterson and Sons,Snacks,39.08,Emilyland,2024-04-24,Van,Food Bank,9,1.5
+"Tran, Shannon and Hopkins",Fruits,81.07,New Deborahbury,2023-11-28,Walk,Farm,5,2.6
+Cox-Mueller,Vegetables,28.13,West Tina,2024-03-09,Van,Grocery Store,2,2.5
+Wilson-Campbell,Fruits,39.22,South Laura,2024-01-06,Truck,Restaurant,1,2.5
+Hall-Burns,Canned Goods,94.72,Lake Cynthia,2024-09-09,Walk,Food Bank,2,0.9
+"White, Miller and Scott",Snacks,92.26,Westshire,2024-08-26,Van,Food Bank,6,1.5
+Hernandez PLC,Vegetables,31.3,Hughesborough,2024-10-25,Walk,Farm,9,2.9
+"Kelly, Mckinney and Marshall",Snacks,71.32,Wilkersonmouth,2024-04-17,Walk,Restaurant,3,2.3
+Rhodes and Sons,Meat,78.28,Port Jose,2024-06-22,Truck,Restaurant,2,1.2
+Lucas and Sons,Canned Goods,18.77,Hillfort,2024-07-10,Bike,Grocery Store,3,0.7
+Mcfarland PLC,Bakery,43.58,Lake Kelsey,2024-04-14,Drone,Grocery Store,8,1.2
+Herrera-Smith,Fruits,63.1,Adamsbury,2024-09-06,Truck,Food Bank,2,0.8
+Atkinson-Snow,Canned Goods,27.68,Port Joetown,2024-09-08,Drone,Restaurant,6,1.9
+Russo Group,Dairy,65.55,East Catherine,2023-11-28,Walk,Restaurant,2,1.6
+Jones-Montoya,Bakery,99.22,Lake Ryanfurt,2024-02-02,Bike,Grocery Store,7,1.2
+"Brock, Conway and Rice",Grains,49.72,Jeffside,2024-06-10,Van,Supermarket,3,2.6
+"Weaver, Lynch and Stewart",Dairy,90.2,East Meredith,2024-06-24,Truck,Food Bank,6,1.9
+Clarke Group,Fruits,17.42,Padillaport,2024-08-05,Van,Grocery Store,4,2.9
+"Velazquez, Martinez and Stephenson",Grains,62.05,South Elizabethtown,2024-03-03,Truck,Food Bank,3,1.3
+"Coleman, Baker and Peck",Bakery,74.29,Johnchester,2024-07-25,Truck,Farm,4,0.8
+"Brown, Reid and Pena",Fruits,45.25,East David,2023-12-29,Van,Supermarket,6,1.1
+Ford PLC,Fruits,62.87,East Teresa,2024-07-14,Van,Supermarket,9,1.2
+Stafford-Hansen,Canned Goods,25.47,New Juanland,2023-11-27,Walk,Supermarket,3,0.8
+"Spencer, Love and Clark",Dairy,85.92,South Sandraville,2024-10-16,Bike,Grocery Store,2,1.1
+Cameron LLC,Bakery,69.62,South Anthonyport,2024-01-29,Walk,Farm,5,2.9
+Johnson PLC,Snacks,49.91,North Douglas,2024-08-30,Truck,Supermarket,7,1.9
+Baker-Ross,Bakery,28.65,New Raymondburgh,2024-03-25,Drone,Restaurant,9,1.9
+White-Gregory,Bakery,79.62,East Gwendolynside,2024-02-23,Bike,Grocery Store,9,2.3
+Dorsey Inc,Vegetables,73.36,Port Stacy,2024-03-22,Van,Supermarket,8,1.9
+Fleming-Bryant,Bakery,5.99,Krauseview,2024-10-06,Drone,Supermarket,3,1.4
+"Cole, Smith and Harris",Vegetables,67.58,Donnaside,2024-02-12,Walk,Food Bank,2,2.5
+"Leonard, Warren and Miller",Bakery,62.68,Stephaniechester,2024-09-01,Van,Restaurant,9,1.2
+Mccoy-Bauer,Dairy,93.97,East Markside,2024-06-05,Drone,Grocery Store,1,1.9
+Palmer LLC,Frozen Food,15.32,Woodburgh,2024-02-12,Walk,Grocery Store,3,3.0
+"Trujillo, Gallegos and Jackson",Grains,61.28,Lake Melissa,2024-04-06,Truck,Restaurant,4,1.6
+Gilmore-Joseph,Bakery,55.01,New Blake,2024-04-03,Drone,Supermarket,2,0.6
+Butler Group,Frozen Food,75.64,Robertfort,2024-05-12,Bike,Restaurant,7,1.2
+"Ramos, Black and Griffin",Canned Goods,72.41,West Brian,2024-01-07,Walk,Supermarket,2,1.1
+Gutierrez-Dean,Snacks,77.13,West Jennifertown,2024-04-10,Van,Grocery Store,4,1.9
+Jones-Davis,Frozen Food,76.9,Kellyborough,2024-08-09,Drone,Grocery Store,9,0.7
+"Wagner, Hooper and Gonzalez",Vegetables,57.22,Davisview,2024-07-30,Walk,Food Bank,5,2.0
+Watson-Meyers,Frozen Food,59.84,Meganland,2024-02-21,Drone,Supermarket,9,1.4
+"Matthews, Barnett and Brewer",Bakery,12.61,North Gilbert,2024-06-05,Bike,Food Bank,2,1.0
+Black PLC,Fruits,32.93,Wagnerstad,2024-03-30,Drone,Supermarket,4,2.0
+"Chen, Wright and Nixon",Grains,48.2,Tylerberg,2024-05-15,Truck,Restaurant,8,2.2
+Boyd and Sons,Frozen Food,47.33,Lake Emily,2024-10-07,Drone,Food Bank,9,0.6
+"Spencer, Burns and Williams",Grains,55.71,Ginaland,2024-03-26,Van,Food Bank,1,2.5
+"Morris, Wood and Armstrong",Canned Goods,30.41,Millerport,2023-12-18,Van,Supermarket,4,2.4
+Johnson-Kelly,Frozen Food,13.25,Hernandezton,2024-05-31,Bike,Supermarket,6,1.3
+Franklin PLC,Fruits,46.63,East Mariabury,2024-04-29,Bike,Supermarket,1,1.9
+"Lewis, Bryan and Cortez",Fruits,5.34,Johnmouth,2024-06-21,Van,Food Bank,9,2.8
+"Wright, Boyle and Palmer",Frozen Food,23.28,Brownberg,2023-12-07,Drone,Grocery Store,8,1.2
+"Williams, Hoffman and Snyder",Snacks,85.05,Nicolefurt,2024-10-23,Bike,Supermarket,4,2.9
+Mendez-Flores,Meat,6.5,Hodgeville,2024-10-26,Truck,Farm,5,1.8
+Harrison and Sons,Vegetables,67.47,Brownchester,2024-10-10,Drone,Restaurant,8,0.6
+Zavala PLC,Canned Goods,50.55,East Wendy,2023-11-28,Drone,Food Bank,2,2.8
+Lang PLC,Fruits,57.14,Desireeville,2023-11-17,Truck,Grocery Store,4,2.2
+Jones Inc,Vegetables,32.55,East Amyport,2024-04-28,Van,Supermarket,3,0.9
+Sherman-Salas,Canned Goods,53.29,Port Sherry,2024-06-21,Van,Food Bank,6,3.0
+"Ramirez, Johnson and Coleman",Snacks,73.5,Payneside,2024-05-04,Truck,Supermarket,1,1.6
+"Todd, Martin and Hines",Snacks,77.84,Barajasport,2024-08-13,Walk,Farm,1,0.7
+Peters LLC,Snacks,25.58,South Joseph,2024-02-07,Walk,Supermarket,9,2.1
+Anderson-Anderson,Meat,90.64,New Sergio,2023-11-27,Bike,Food Bank,7,2.3
+Morris-Brady,Canned Goods,19.43,Juliefurt,2024-08-26,Walk,Farm,7,1.1
+Allen-Gardner,Grains,32.3,Port Lauraborough,2024-11-02,Drone,Food Bank,5,1.3
+"Yates, Esparza and Duncan",Fruits,9.87,South Teresamouth,2024-02-03,Drone,Grocery Store,2,2.1
+"Richards, Stephens and Gibson",Grains,12.3,Lake Lauraborough,2024-05-11,Drone,Supermarket,4,0.7
+"Price, Ramirez and Nguyen",Frozen Food,83.84,Port Aaron,2024-03-16,Van,Food Bank,7,1.6
+Brown-Lee,Fruits,33.21,Lake Wandaland,2024-02-13,Bike,Food Bank,7,1.7
+Dickson Ltd,Frozen Food,68.72,Rosefort,2024-10-27,Bike,Supermarket,2,1.8
+Baker-Edwards,Canned Goods,45.91,Edwardmouth,2024-07-28,Drone,Supermarket,9,0.6
+West Inc,Grains,98.85,North Ryanton,2024-03-30,Truck,Grocery Store,7,2.2
+Washington and Sons,Snacks,72.39,Rivasshire,2024-03-02,Drone,Food Bank,3,0.8
+Lang-Russell,Canned Goods,36.8,North Audrey,2024-03-20,Bike,Restaurant,3,1.9
+Harris Inc,Grains,85.36,Mitchellfurt,2024-01-24,Bike,Grocery Store,2,1.6
+Stevenson Ltd,Dairy,56.37,Hooverside,2024-06-18,Van,Restaurant,1,2.1
+Miller LLC,Bakery,16.49,East Gregoryland,2024-02-28,Truck,Supermarket,3,1.4
+"Luna, Olson and Martin",Bakery,79.43,Lake Zachary,2024-10-08,Bike,Farm,6,1.1
+Thomas Group,Fruits,57.34,Lewisland,2024-07-12,Van,Grocery Store,2,2.3
+Barrett-Nelson,Fruits,53.89,Port Danielle,2023-12-18,Truck,Restaurant,3,1.3
+Mcbride-Obrien,Dairy,99.31,Welchtown,2024-03-02,Bike,Food Bank,7,1.0
+Farley Inc,Canned Goods,74.97,West James,2024-08-16,Truck,Restaurant,9,1.8
+"Eaton, Norton and Harper",Vegetables,28.62,East Christophermouth,2024-09-28,Drone,Supermarket,8,1.0
+"Phillips, Villegas and Smith",Dairy,87.89,Rickeyside,2024-09-29,Truck,Farm,7,1.3
+Fleming Inc,Dairy,23.52,Woodfort,2024-08-30,Van,Restaurant,7,1.9
+Hernandez PLC,Fruits,85.81,Brendachester,2024-11-08,Truck,Food Bank,3,1.8
+Coleman Ltd,Bakery,54.12,Hollandshire,2024-06-21,Bike,Farm,1,1.6
+Valenzuela PLC,Frozen Food,81.96,East Arianaton,2024-08-31,Bike,Grocery Store,4,1.8
+"Taylor, Thompson and Hancock",Fruits,62.27,Lake Edwardfurt,2024-01-26,Bike,Grocery Store,3,1.7
+"Turner, Reed and Reyes",Fruits,52.06,Jamesbury,2024-04-17,Drone,Grocery Store,1,1.8
+"Johnson, Howard and Johnson",Bakery,40.2,Carolside,2024-05-19,Van,Farm,7,1.2
+Ferguson-Woods,Meat,59.71,South Elizabethtown,2024-08-22,Drone,Food Bank,2,1.4
+Lucas-Stevens,Fruits,97.84,Lisaland,2023-12-13,Van,Restaurant,8,1.2
+"Atkinson, Smith and Evans",Frozen Food,20.63,West Michaelville,2024-05-13,Truck,Grocery Store,6,1.8
+"Hunt, Valenzuela and Russell",Dairy,24.81,Carolynside,2024-01-01,Walk,Supermarket,8,0.6
+"Lee, Phillips and Smith",Snacks,27.21,Kristenmouth,2024-03-27,Truck,Grocery Store,5,1.5
+Mejia Group,Frozen Food,10.05,Kathleenhaven,2024-03-28,Walk,Restaurant,7,2.3
+"Mann, Mccoy and Hicks",Grains,99.97,East Paulland,2024-07-03,Bike,Grocery Store,5,1.4
+"Lloyd, Wright and Martinez",Frozen Food,80.45,New Melindamouth,2024-09-05,Bike,Farm,5,1.5
+"Huang, Pollard and Davis",Fruits,31.71,West Danielland,2024-05-24,Walk,Grocery Store,6,2.7
+"Willis, Hoffman and Mcclain",Vegetables,31.53,Mooreborough,2024-08-12,Truck,Food Bank,8,1.5
+Flynn-Brown,Dairy,72.29,North Elizabethview,2024-05-15,Bike,Farm,8,0.8
+Campbell-Brown,Frozen Food,81.19,Harperberg,2024-09-15,Walk,Supermarket,2,1.5
+Ford Ltd,Meat,31.7,North Justinport,2023-11-27,Drone,Supermarket,7,2.7
+Chambers-Chan,Canned Goods,96.67,Port Sarahton,2024-07-16,Drone,Supermarket,4,0.9
+"Shea, Mccoy and Morgan",Snacks,22.95,New Russellview,2024-07-14,Drone,Restaurant,5,2.6
+Maldonado-Savage,Grains,46.66,Roseville,2024-07-28,Van,Farm,4,2.2
+Mayo-Carroll,Fruits,51.72,Gabriellestad,2024-03-17,Walk,Grocery Store,7,2.0
+"Oliver, Henry and Davis",Meat,70.66,Katherineburgh,2024-07-06,Truck,Supermarket,3,1.0
+Johnson and Sons,Meat,30.54,Mossbury,2024-06-05,Drone,Food Bank,3,2.4
+"Hensley, Hutchinson and Hayden",Frozen Food,62.88,East James,2024-02-17,Walk,Grocery Store,6,1.9
+Hernandez Group,Snacks,96.51,Martinchester,2024-04-12,Walk,Supermarket,6,2.9
+"Cox, Williams and Murphy",Vegetables,18.9,East Adam,2024-03-18,Walk,Farm,4,1.1
+"Cox, Mendoza and Villanueva",Fruits,38.41,West Manuel,2024-06-05,Bike,Farm,8,2.1
+Hogan-Dominguez,Vegetables,79.51,Lake Joseph,2024-01-04,Van,Grocery Store,7,2.5
+Watkins and Sons,Fruits,51.04,South Carol,2023-12-31,Truck,Supermarket,5,1.6
+Mcdaniel and Sons,Dairy,61.67,Adamside,2024-08-26,Walk,Grocery Store,9,1.2
+Tanner-Wolf,Vegetables,19.07,New Dakotafurt,2024-09-24,Drone,Food Bank,8,1.2
+Duran-Ellis,Snacks,65.01,Lake Marie,2023-12-07,Walk,Farm,6,1.4
+"Small, Meyer and Mcdaniel",Frozen Food,71.46,Michaelshire,2024-01-08,Walk,Farm,1,1.2
+Miller Group,Grains,43.59,New Thomasland,2024-01-14,Bike,Grocery Store,5,1.9
+"Duncan, Mullins and Sanchez",Fruits,96.37,Copelandhaven,2024-10-04,Drone,Restaurant,8,1.3
+Torres-Howard,Bakery,46.8,Port Paul,2024-03-08,Drone,Supermarket,3,1.5
+Davis Ltd,Canned Goods,47.22,North Emily,2024-06-05,Walk,Restaurant,7,1.1
+Underwood-Wheeler,Snacks,50.81,Williamside,2024-07-12,Truck,Grocery Store,2,1.4
+Diaz-Keith,Grains,13.14,Martinview,2024-02-13,Truck,Restaurant,3,2.3
+"Frederick, Bishop and Johnson",Meat,84.64,Johnsonview,2023-11-17,Drone,Farm,5,2.8
+Anderson Group,Meat,14.01,Wardshire,2024-07-18,Truck,Farm,7,2.2
+Williamson-Caldwell,Canned Goods,28.95,Dixonfort,2024-10-14,Truck,Food Bank,5,1.9
+Schneider-Durham,Fruits,84.74,Port Christopher,2023-11-19,Drone,Farm,7,0.6
+Wilson and Sons,Meat,23.74,Russellland,2024-06-17,Walk,Supermarket,2,0.8
+Suarez-Turner,Dairy,90.22,New Cassandra,2024-03-10,Walk,Farm,9,1.2
+Cuevas-Cross,Vegetables,18.13,Kristenburgh,2024-11-05,Van,Grocery Store,7,2.7
+Banks Ltd,Fruits,68.42,Mariefort,2024-03-11,Bike,Food Bank,1,3.0
+"Alvarez, Hall and Mitchell",Dairy,90.61,East Josephborough,2024-08-19,Walk,Supermarket,3,0.6
+Moore and Sons,Meat,29.49,Chavezchester,2024-06-13,Truck,Supermarket,5,2.6
+Smith PLC,Canned Goods,86.93,East James,2024-05-21,Drone,Farm,9,1.3
+Tran-Jenkins,Frozen Food,21.3,Nashburgh,2024-11-01,Drone,Farm,3,2.7
+Morgan-Sheppard,Grains,29.92,West Kevinview,2024-02-21,Van,Grocery Store,8,1.1
+Sullivan LLC,Snacks,67.47,South Barbara,2024-04-22,Van,Grocery Store,3,1.3
+"Mccoy, Wells and Wilkins",Meat,98.32,Heidiburgh,2024-11-11,Drone,Farm,4,1.7
+Brooks-Sandoval,Snacks,15.3,Lisahaven,2024-08-12,Drone,Food Bank,6,2.6
+Salas-Mckay,Snacks,83.23,New Shirley,2024-10-24,Walk,Restaurant,6,2.4
+"Johns, Shaw and Ross",Dairy,20.91,South Dakotamouth,2024-08-31,Bike,Restaurant,6,1.6
+Fischer-Miller,Canned Goods,60.32,Port James,2024-06-10,Walk,Supermarket,2,1.5
+Wilson-Fields,Vegetables,54.6,Janethaven,2024-08-20,Truck,Food Bank,4,1.0
+Lee and Sons,Canned Goods,54.3,Holmesview,2024-02-25,Van,Grocery Store,2,2.2
+"Bates, Anthony and Roberts",Snacks,33.95,West Linda,2024-11-08,Bike,Restaurant,8,0.5
+Davis PLC,Dairy,99.58,East Kent,2024-10-12,Van,Grocery Store,6,1.3
+Johnson Group,Vegetables,88.36,Sotoville,2024-07-07,Walk,Grocery Store,9,2.6
+Miller-Jackson,Snacks,28.14,East Kayleeville,2024-04-18,Walk,Restaurant,5,2.1
+"James, Ortiz and Espinoza",Snacks,13.16,Adamstad,2024-08-03,Van,Supermarket,1,0.6
+Brown LLC,Bakery,36.53,Sparksmouth,2024-02-23,Drone,Farm,6,2.0
+"Henry, Lee and Collins",Grains,66.14,North Sheilafurt,2024-10-27,Drone,Farm,3,1.6
+Black PLC,Fruits,90.34,North Michael,2024-10-31,Truck,Farm,2,2.1
+"Santana, Hood and Hodge",Canned Goods,62.47,Lake Michael,2024-05-29,Drone,Grocery Store,8,1.9
+Mitchell PLC,Frozen Food,29.88,Alexanderberg,2024-08-06,Drone,Farm,1,2.6
+"Carrillo, Shepherd and Murphy",Vegetables,93.62,North Catherineland,2024-04-18,Bike,Restaurant,8,0.8
+Dawson Ltd,Dairy,63.56,Ginaburgh,2024-10-01,Van,Restaurant,1,0.6
+Russell-Vargas,Bakery,41.82,Port Gina,2024-04-10,Bike,Restaurant,1,2.5
+"Donovan, Scott and Allen",Meat,57.34,Romerofort,2024-04-07,Drone,Food Bank,3,0.6
+Jordan-Murray,Frozen Food,33.22,New Thomas,2024-01-20,Bike,Restaurant,4,2.8
+Ochoa and Sons,Dairy,34.16,New Drewchester,2024-09-26,Drone,Grocery Store,3,1.6
+"Stanton, Richards and Jones",Frozen Food,36.0,Dawnstad,2024-08-29,Van,Grocery Store,1,0.8
+Mitchell Inc,Fruits,51.03,Lake Lori,2024-07-26,Bike,Food Bank,2,2.0
+Sandoval-Acosta,Vegetables,63.39,West Kelseyshire,2024-02-19,Walk,Restaurant,2,1.6
+Walter Ltd,Dairy,65.0,Josephville,2024-09-12,Bike,Restaurant,6,3.0
+"Bradley, Arnold and Gonzalez",Grains,69.37,Lake Patriciaville,2024-08-10,Walk,Grocery Store,3,1.9
+"Anderson, Steele and Adams",Grains,13.88,North Kaylee,2023-12-25,Drone,Restaurant,9,2.2
+Lane-Freeman,Vegetables,23.07,West Anthonyburgh,2024-05-14,Walk,Restaurant,1,0.7
+Johnson Group,Bakery,46.34,New Brittanyborough,2024-08-01,Bike,Restaurant,6,0.7
+Ruiz LLC,Meat,67.2,Kaylafurt,2024-08-30,Bike,Restaurant,8,2.5
+Rhodes PLC,Meat,24.86,East Frances,2024-01-02,Drone,Restaurant,6,1.7
+Hardy-Ali,Frozen Food,41.23,Lake Diana,2024-08-04,Bike,Grocery Store,9,0.8
+Powell and Sons,Snacks,20.08,Brendabury,2024-03-09,Bike,Restaurant,6,1.6
+Washington-Lopez,Meat,24.48,Arnoldbury,2024-06-12,Van,Farm,1,0.9
+Allen-King,Fruits,29.93,New Amy,2024-10-25,Van,Grocery Store,5,1.3
+Sanchez Ltd,Dairy,20.25,West Sean,2024-08-14,Truck,Supermarket,5,0.9
+Nguyen Ltd,Vegetables,70.86,Jameston,2024-10-07,Truck,Restaurant,8,2.4
+Kelley-Ray,Vegetables,72.75,Gloverberg,2024-10-21,Bike,Supermarket,9,2.3
+"Shannon, Taylor and Hess",Grains,45.46,Kathyville,2023-12-29,Truck,Grocery Store,8,2.1
+Johnson-Williams,Grains,7.81,East Jesse,2024-04-04,Walk,Grocery Store,9,0.5
+Miller-Rivera,Fruits,93.91,South George,2024-01-19,Bike,Supermarket,3,2.0
+Ryan LLC,Bakery,37.89,Edwardside,2024-06-06,Truck,Food Bank,8,1.0
+Ball Inc,Frozen Food,56.96,Hernandezport,2024-03-11,Truck,Grocery Store,3,1.7
+"Lane, Trevino and Johnston",Frozen Food,35.75,South Sarahbury,2024-10-23,Bike,Grocery Store,8,0.9
+Keith Group,Canned Goods,61.77,Tuckerport,2023-12-01,Van,Restaurant,9,2.6
+"Avila, Mora and Clark",Bakery,5.94,Garcialand,2024-04-09,Truck,Grocery Store,6,2.0
+Conner LLC,Snacks,59.57,South Amyhaven,2024-09-15,Drone,Food Bank,5,0.8
+"Duncan, Hanson and Clark",Vegetables,77.86,Alanfurt,2024-08-21,Van,Restaurant,9,2.8
+Gardner Group,Bakery,33.45,North Jason,2024-07-15,Truck,Grocery Store,9,2.2
+Vance Group,Bakery,39.26,Adamside,2024-09-30,Truck,Grocery Store,3,1.5
+"Scott, Perez and Parks",Fruits,16.85,Michaelberg,2024-07-02,Bike,Food Bank,5,1.7
+Hamilton LLC,Bakery,43.78,South Samanthaville,2024-07-22,Walk,Restaurant,1,1.6
+Moore-Johnson,Grains,77.26,North Stacyberg,2024-07-26,Drone,Farm,2,1.2
+Butler Inc,Bakery,34.3,Weeksview,2024-10-22,Drone,Supermarket,4,1.6
+Mendoza Group,Fruits,56.87,Gonzalezton,2024-09-04,Bike,Restaurant,7,1.9
+Walton-Wright,Snacks,86.12,West Alexandriamouth,2024-09-11,Drone,Supermarket,9,1.7
+Jones-Mejia,Meat,62.38,West Michaelhaven,2024-04-23,Van,Restaurant,7,0.8
+Cline-English,Fruits,43.99,Williamsmouth,2024-06-28,Walk,Supermarket,1,1.3
+Harding Ltd,Grains,92.36,South Jeffery,2023-12-10,Van,Grocery Store,8,2.9
+"Grant, Craig and Reyes",Frozen Food,42.29,Coleborough,2024-09-10,Bike,Restaurant,8,1.8
+Smith-Camacho,Frozen Food,31.42,Andersonburgh,2024-11-10,Bike,Supermarket,4,1.7
+Long and Sons,Dairy,59.89,New Robert,2024-01-21,Drone,Farm,4,2.5
+Mack Inc,Frozen Food,20.76,Dianeshire,2023-12-30,Walk,Grocery Store,5,2.1
+"Rivas, Young and Robbins",Vegetables,65.26,Parkerburgh,2024-02-10,Van,Farm,9,2.8
+"Nelson, Mitchell and Williams",Snacks,81.72,Jonesview,2024-11-02,Truck,Supermarket,9,2.3
+Martinez-Brown,Snacks,91.43,Rossland,2024-05-04,Walk,Restaurant,1,1.1
+Goodwin-Kaufman,Vegetables,67.08,Drakeview,2024-03-19,Bike,Farm,8,1.4
+"Hayes, Owens and Anthony",Grains,67.63,Port Jared,2024-01-13,Bike,Supermarket,4,1.0
+Bell Inc,Dairy,21.86,Jasonside,2024-07-02,Walk,Food Bank,6,1.3
+Woods-Brewer,Dairy,81.58,New Cliffordmouth,2024-01-23,Truck,Food Bank,5,1.3
+Wheeler Group,Meat,76.78,South Aliceville,2024-03-11,Bike,Supermarket,8,2.5
+"Guerra, Hanson and Murphy",Grains,54.88,Port Charlesview,2023-11-16,Walk,Supermarket,3,1.5
+Hicks PLC,Dairy,92.82,New Katherine,2024-06-23,Drone,Food Bank,9,2.7
+"Miller, Riley and Cisneros",Vegetables,62.37,Port Kara,2024-01-13,Bike,Supermarket,2,0.8
+Clark-Saunders,Grains,52.47,Grayport,2024-07-24,Bike,Grocery Store,2,2.5
+Rodriguez-Mitchell,Grains,20.53,Millerfort,2024-01-09,Truck,Farm,6,2.9
+Rodriguez-Clark,Grains,30.09,Gloriaton,2024-09-13,Van,Grocery Store,5,1.0
+Richard-Matthews,Frozen Food,64.53,Mullenfurt,2024-06-29,Truck,Supermarket,8,2.3
+Johnson-Mayo,Snacks,21.71,Riverahaven,2024-03-20,Drone,Farm,6,0.7
+Stevens PLC,Frozen Food,19.09,Dayborough,2024-07-13,Drone,Farm,6,2.2
+Evans LLC,Grains,16.13,Turnerton,2024-04-28,Van,Food Bank,4,0.5
+Robertson and Sons,Snacks,22.27,Port Richardton,2024-05-13,Van,Farm,2,0.9
+Briggs-Henry,Vegetables,33.76,New Kristen,2024-11-11,Van,Restaurant,8,2.6
+"Simpson, Gonzalez and Griffin",Frozen Food,85.89,Lake Johnhaven,2024-08-18,Bike,Grocery Store,8,1.2
+"Mccullough, Gallagher and Barber",Canned Goods,40.86,South Jamesberg,2024-09-28,Truck,Food Bank,6,1.7
+"Deleon, Castaneda and Lee",Meat,10.21,East Laurenchester,2024-07-08,Bike,Grocery Store,8,2.6
+"Curry, Nelson and Robinson",Fruits,39.97,Kimberlyfurt,2024-06-03,Van,Grocery Store,5,2.6
+Villarreal-Roach,Canned Goods,96.75,Christianshire,2024-06-09,Truck,Food Bank,2,2.9
+Brown-Saunders,Grains,77.42,Karenside,2024-08-29,Walk,Restaurant,3,2.2
+"Murray, Torres and Phillips",Bakery,79.35,South Toddberg,2023-12-03,Drone,Supermarket,7,2.0
+"Alvarez, Harper and Griffin",Frozen Food,51.26,West Alejandra,2024-02-10,Van,Restaurant,1,0.7
+Obrien LLC,Dairy,10.59,Melanietown,2023-12-23,Bike,Food Bank,8,0.8
+Lopez PLC,Frozen Food,67.96,South Jonathan,2024-10-26,Drone,Supermarket,1,1.6
+Bowen-Williams,Fruits,64.16,Ryanmouth,2023-12-28,Van,Supermarket,9,1.7
+Oconnor PLC,Fruits,35.71,Port Susanburgh,2024-09-12,Walk,Supermarket,8,1.8
+Bishop PLC,Vegetables,98.05,South Larrytown,2024-07-10,Bike,Food Bank,7,2.3
+"Pittman, Rodriguez and Taylor",Vegetables,90.92,Calebland,2024-07-01,Bike,Supermarket,7,2.2
+Petty-Howard,Snacks,82.38,Robertberg,2024-04-21,Truck,Restaurant,8,1.1
+Anderson-Pitts,Frozen Food,63.18,East Amber,2023-12-07,Van,Food Bank,5,1.7
+Davis Ltd,Meat,63.13,Port Carl,2024-01-25,Van,Farm,8,2.1
+"Chung, Fitzgerald and Montgomery",Vegetables,91.0,Chadborough,2024-02-04,Van,Grocery Store,4,2.9
+Chang-Paul,Bakery,66.08,Bryantmouth,2024-11-10,Van,Restaurant,1,0.9
+"Cole, Floyd and Smith",Fruits,5.88,Theresaville,2023-12-22,Drone,Supermarket,2,2.9
+"Smith, Townsend and Peck",Dairy,91.14,South Aliciaborough,2024-10-03,Truck,Food Bank,1,1.2
+Lang PLC,Meat,34.14,Mitchellmouth,2024-06-18,Truck,Supermarket,5,2.4
+"Rios, Harrington and Kelly",Snacks,69.93,South Heather,2024-01-27,Walk,Grocery Store,7,2.9
+"Martinez, Lopez and Dillon",Vegetables,20.1,Jennifermouth,2024-01-23,Walk,Food Bank,5,0.8
+Cox PLC,Frozen Food,25.13,Lake Williamfurt,2024-04-10,Bike,Supermarket,4,1.9
+Williams Inc,Fruits,88.47,New Patriciafort,2024-03-05,Walk,Grocery Store,5,2.5
+"Martin, Richardson and Hunter",Fruits,30.75,Melissabury,2024-02-03,Drone,Food Bank,2,2.6
+Wolfe and Sons,Vegetables,35.88,Harrisburgh,2024-06-20,Walk,Restaurant,1,0.5
+Haley-Baxter,Bakery,50.51,New Tanner,2024-11-07,Van,Farm,6,1.9
+"Porter, Estes and Lane",Dairy,28.48,Josephtown,2024-10-18,Truck,Food Bank,7,1.2
+"Young, Pacheco and Chavez",Vegetables,82.08,Port Kristinastad,2024-06-30,Van,Grocery Store,3,1.9
+"Ryan, Saunders and Palmer",Meat,39.37,Dianashire,2024-07-30,Walk,Food Bank,1,0.7
+"Coleman, Garcia and Lewis",Meat,6.97,New Monicamouth,2024-05-23,Walk,Food Bank,4,1.5
+Zimmerman Group,Canned Goods,35.76,Davishaven,2023-12-27,Bike,Food Bank,6,1.3
+Reynolds-Lambert,Fruits,9.6,Port Robertborough,2024-05-31,Drone,Supermarket,3,1.0
+Thomas-Mack,Snacks,65.68,Robinsonport,2024-02-28,Bike,Grocery Store,2,2.8
+"Adams, Brown and Allen",Dairy,18.74,New Joshua,2024-03-11,Walk,Supermarket,5,1.4
+"Collins, David and Leon",Grains,90.24,Terryport,2024-03-04,Drone,Supermarket,8,1.3
+"Wong, Cooke and Mitchell",Frozen Food,79.73,Paulahaven,2024-07-23,Truck,Restaurant,5,1.2
+"Bailey, Barnes and Lopez",Snacks,20.28,Kellyside,2023-11-19,Walk,Food Bank,5,2.3
+Murray LLC,Fruits,89.45,Port James,2024-11-05,Truck,Farm,6,0.9
+"Salas, Zimmerman and Hardin",Frozen Food,17.47,Thomasport,2024-05-21,Van,Supermarket,8,0.9
+Munoz-Wilson,Frozen Food,10.19,Nguyenchester,2024-06-08,Bike,Farm,4,2.3
+Butler Ltd,Snacks,86.74,North Heatherbury,2024-05-22,Van,Restaurant,3,1.1
+Orr Ltd,Snacks,20.83,New John,2024-06-09,Bike,Grocery Store,8,1.8
+Johnson Inc,Fruits,52.16,Port Amy,2024-01-23,Walk,Food Bank,9,1.6
+"Bennett, Brady and Jones",Snacks,65.39,Kristenstad,2024-07-18,Walk,Food Bank,8,1.7
+Stone-Harris,Grains,40.3,South Stevenborough,2024-05-26,Walk,Farm,9,1.6
+Dennis-Matthews,Bakery,90.58,East Jeffrey,2024-02-05,Drone,Supermarket,6,1.4
+"Hunt, Chavez and Jones",Canned Goods,41.61,Madelineberg,2024-05-15,Walk,Food Bank,4,1.5
+Anderson-Gillespie,Grains,42.98,New Eric,2024-01-10,Bike,Supermarket,3,2.7
+"Pope, Cooley and Gutierrez",Frozen Food,31.18,Contrerasberg,2024-04-18,Drone,Farm,2,2.2
+Castillo LLC,Snacks,88.66,Mccarthytown,2024-01-20,Van,Restaurant,1,2.3
+Torres Group,Canned Goods,87.19,Rossport,2024-05-07,Walk,Farm,8,3.0
+Estrada Inc,Meat,8.98,South Rebeccaborough,2024-02-12,Bike,Restaurant,3,2.9
+Smith Inc,Grains,46.2,Cookestad,2024-03-24,Truck,Restaurant,5,1.5
+"Spencer, Webb and Payne",Snacks,56.33,Port Nicholasborough,2024-09-30,Drone,Food Bank,2,1.6
+Rice-Scott,Canned Goods,43.95,West Laura,2024-08-21,Drone,Supermarket,8,1.2
+Taylor-Cole,Snacks,51.2,Rossland,2024-02-13,Truck,Restaurant,3,0.8
+Hess Group,Snacks,82.11,West Larry,2024-05-31,Walk,Farm,7,2.9
+"Thompson, Carey and Benson",Meat,24.81,Jennifermouth,2024-01-28,Bike,Supermarket,3,1.8
+Tucker PLC,Frozen Food,30.7,Onealmouth,2024-06-14,Bike,Grocery Store,3,0.8
+Robinson-Watson,Meat,86.35,East Richardfort,2024-01-08,Van,Restaurant,3,1.9
+"Spears, Robles and Black",Fruits,35.63,North Mariomouth,2023-11-17,Drone,Grocery Store,9,2.3
+"Vincent, Jenkins and Robertson",Canned Goods,15.89,New Stephenport,2024-06-10,Walk,Farm,6,1.8
+Lee-Brown,Canned Goods,75.55,Andrewville,2024-01-30,Drone,Farm,1,1.3
+"Harmon, Paul and Willis",Fruits,78.84,Smithville,2023-12-12,Drone,Farm,8,0.6
+Elliott Ltd,Meat,62.13,New Dylanbury,2024-05-04,Van,Grocery Store,4,1.7
+Hull and Sons,Grains,36.49,Dayfurt,2023-11-24,Bike,Supermarket,6,2.1
+Potter and Sons,Frozen Food,17.66,Donaldville,2024-06-07,Drone,Grocery Store,4,2.7
+Ramsey Ltd,Snacks,28.63,Baileyview,2024-04-21,Van,Grocery Store,3,1.5
+"Mckinney, Barnes and Rodriguez",Vegetables,22.1,West Christine,2024-06-10,Walk,Food Bank,4,1.3
+Watson Inc,Canned Goods,81.84,Janetton,2024-05-20,Van,Supermarket,9,1.9
+Newton-Hunt,Bakery,80.44,Mariahborough,2024-05-19,Drone,Food Bank,1,2.9
+"May, Olson and Bell",Meat,21.96,Port Patrick,2024-06-07,Walk,Grocery Store,3,2.5
+Freeman-Simmons,Meat,65.33,Gibsontown,2024-05-09,Drone,Food Bank,9,1.2
+Jimenez LLC,Grains,78.4,Smithville,2024-10-24,Bike,Supermarket,6,0.8
+Ware and Sons,Canned Goods,17.28,Jacobsport,2024-01-30,Drone,Grocery Store,8,2.7
+"Santana, Jones and Koch",Grains,39.97,East Richardfort,2024-11-06,Walk,Farm,6,2.2
+"Brown, Thomas and Levine",Fruits,49.68,Antoniobury,2024-08-14,Truck,Farm,1,2.4
+Smith Group,Canned Goods,90.74,Lake Andrew,2024-05-19,Walk,Supermarket,2,3.0
+Murphy and Sons,Dairy,58.85,Lake Theresafurt,2024-07-11,Van,Farm,6,1.2
+Dillon PLC,Dairy,89.71,West Karenport,2024-10-27,Walk,Food Bank,4,2.3
+"Lynch, Robinson and Wheeler",Grains,69.54,West Paulview,2024-08-15,Drone,Food Bank,1,2.2
+"White, Williams and Bates",Meat,99.4,New Michael,2023-12-13,Walk,Grocery Store,9,1.3
+Khan-Anderson,Snacks,5.78,Bryanberg,2023-12-14,Van,Food Bank,6,1.1
+"Becker, Peters and Levine",Meat,18.1,Jimenezport,2024-05-11,Truck,Supermarket,1,0.9
+Rose Ltd,Vegetables,53.87,Gardnerberg,2024-04-26,Walk,Food Bank,7,2.3
+Campbell LLC,Fruits,12.22,Kevinchester,2024-03-18,Truck,Farm,3,1.1
+"Wheeler, Burke and Price",Snacks,59.89,Melissahaven,2024-03-20,Van,Restaurant,2,2.2
+Owens PLC,Snacks,17.78,Jeromefurt,2024-04-20,Van,Restaurant,5,2.9
+"Parker, Schneider and Dodson",Snacks,71.68,Reynoldstown,2024-02-06,Walk,Grocery Store,3,1.2
+Kirby-Hodges,Bakery,23.81,Anthonyport,2024-01-10,Drone,Food Bank,4,1.1
+Reed-Reyes,Bakery,22.69,Hoodfort,2023-12-27,Truck,Grocery Store,8,1.6
+Raymond LLC,Canned Goods,40.94,East Rebekah,2023-11-21,Drone,Supermarket,8,1.8
+"Cook, Sampson and Ali",Snacks,36.4,Jonathanburgh,2024-02-25,Drone,Farm,7,1.6
+Morgan-Smith,Meat,87.6,South Chelsey,2023-12-04,Truck,Food Bank,6,2.7
+Turner Inc,Canned Goods,68.09,New Matthewfurt,2024-01-23,Drone,Grocery Store,6,2.2
+Edwards-Goodwin,Grains,20.63,North Kentbury,2024-05-23,Bike,Food Bank,5,0.5
+"Garcia, Price and Cohen",Frozen Food,88.55,Fowlerview,2024-07-30,Bike,Supermarket,1,1.9
+"Fritz, Hogan and Gordon",Grains,62.13,Port Briannabury,2024-06-30,Walk,Food Bank,2,1.5
+Miller Ltd,Vegetables,46.38,West Susan,2024-06-26,Truck,Grocery Store,9,2.9
+Marshall Inc,Vegetables,42.73,New John,2024-09-07,Truck,Supermarket,8,0.8
+Robinson-Mckinney,Fruits,94.61,Hoffmanberg,2024-11-01,Van,Food Bank,3,1.1
+Wilson and Sons,Frozen Food,21.17,West Jefferyview,2024-09-20,Drone,Restaurant,8,1.1
+Daniel-Hamilton,Vegetables,33.17,Patriciaborough,2024-06-20,Walk,Restaurant,3,2.2
+"Davis, Ingram and Hess",Meat,31.55,Williamfort,2024-10-08,Drone,Restaurant,9,2.3
+"Morrison, Thompson and Peterson",Frozen Food,73.14,Seanberg,2024-03-30,Truck,Food Bank,8,1.3
+"Miller, Martinez and Diaz",Bakery,58.72,Alexport,2024-10-10,Bike,Restaurant,7,1.6
+Reynolds PLC,Frozen Food,52.05,Hallfurt,2024-07-30,Walk,Farm,5,2.4
+"Johnson, Smith and Jimenez",Grains,9.43,Samuelbury,2024-07-25,Drone,Supermarket,5,2.7
+Perez Ltd,Snacks,61.54,South Douglasfurt,2023-12-13,Truck,Grocery Store,9,2.1
+"Wilcox, Harris and Peterson",Snacks,58.02,East Bonnieton,2023-11-18,Drone,Restaurant,5,2.9
+Harris PLC,Fruits,61.64,Alexisborough,2023-12-25,Bike,Supermarket,2,0.9
+Herring-Wilson,Vegetables,94.12,Ramseymouth,2024-06-27,Van,Food Bank,4,2.6
+"Aguilar, Vaughan and Watson",Canned Goods,23.17,Bryanview,2024-01-30,Drone,Restaurant,8,2.1
+Smith Ltd,Grains,38.41,North Maria,2024-01-17,Drone,Farm,8,1.2
+Davis LLC,Snacks,59.78,North Jessicaport,2023-11-29,Walk,Supermarket,5,1.2
+Richmond PLC,Canned Goods,14.59,Amyville,2024-03-24,Bike,Restaurant,8,0.8
+Ruiz Group,Meat,91.73,Paulberg,2024-08-06,Van,Grocery Store,1,2.6
+Montgomery-Miller,Vegetables,83.42,South Ronnie,2024-07-05,Walk,Supermarket,7,2.7
+Johnson Group,Grains,16.91,East Marcus,2024-10-26,Bike,Farm,9,1.4
+"Henderson, Anderson and Le",Canned Goods,25.36,East Catherine,2024-10-13,Bike,Restaurant,6,1.7
+"Krause, Harris and Roman",Snacks,63.43,East Casey,2023-12-21,Walk,Farm,8,1.6
+"Reese, Mercer and Mccullough",Frozen Food,38.59,South Jose,2023-12-11,Walk,Supermarket,8,1.2
+Smith Ltd,Meat,67.71,West Jacqueline,2024-02-13,Truck,Restaurant,2,1.3
+"Martin, Nguyen and Calderon",Vegetables,8.71,Alanstad,2024-09-28,Bike,Farm,4,0.9
+"Harris, Vasquez and Reyes",Fruits,61.44,Mcintyreville,2024-09-07,Van,Grocery Store,1,2.4
+"Hurley, Reid and Harper",Canned Goods,68.95,North Georgestad,2024-03-09,Van,Food Bank,1,2.6
+"Maxwell, Holt and Lane",Frozen Food,11.86,Kristinchester,2024-02-29,Truck,Restaurant,7,2.1
+Ross Ltd,Fruits,59.49,Gregorystad,2024-07-15,Truck,Food Bank,1,2.6
+Gonzalez-Lee,Fruits,78.56,Bryanborough,2024-11-10,Bike,Supermarket,1,2.0
+"Jones, Owens and Luna",Fruits,87.3,Simpsonton,2023-12-23,Bike,Grocery Store,3,0.5
+Alvarez LLC,Fruits,68.9,New Charles,2024-09-18,Bike,Supermarket,9,1.6
+Fisher Inc,Dairy,70.19,Port Johnfort,2024-02-07,Walk,Restaurant,2,0.6
+Welch-Campbell,Vegetables,60.47,North Carrieburgh,2024-11-08,Truck,Restaurant,2,2.8
+Green and Sons,Vegetables,45.67,Jamestown,2024-02-18,Bike,Food Bank,8,2.9
+Palmer-Lopez,Bakery,93.21,Khanmouth,2024-03-23,Drone,Food Bank,1,2.5
+Porter-Ballard,Meat,6.37,South Walter,2023-12-23,Drone,Food Bank,8,1.5
+"Rodriguez, Bradley and Wade",Canned Goods,30.3,North Denisetown,2024-10-24,Truck,Farm,7,2.6
+Fritz Inc,Fruits,96.94,East Davidmouth,2024-07-11,Van,Food Bank,7,2.4
+Brooks-Cochran,Meat,54.62,North Andrew,2024-05-26,Walk,Farm,3,2.8
+Barrett-Smith,Grains,56.12,Pamelatown,2024-04-21,Drone,Food Bank,8,2.9
+"Ford, Smith and Hatfield",Dairy,19.11,Port Matthewborough,2024-06-13,Walk,Grocery Store,9,2.1
+"Henry, Rice and White",Frozen Food,42.39,Lake Charleschester,2024-05-12,Truck,Grocery Store,6,0.8
+Maldonado-Lopez,Bakery,22.91,Phelpsland,2024-04-30,Truck,Supermarket,6,0.6
+"Anderson, Blair and Wilkinson",Frozen Food,65.75,North Brianville,2023-11-27,Bike,Grocery Store,6,1.1
+"Peterson, Sellers and Perez",Frozen Food,59.17,Sawyertown,2024-01-16,Walk,Restaurant,1,0.7
+Fitzgerald-Torres,Fruits,68.74,Maciasville,2024-06-21,Van,Farm,7,1.4
+Mendez Inc,Bakery,51.52,Michelleton,2023-11-29,Drone,Food Bank,5,1.2
+"Reed, Lynch and Frank",Dairy,94.97,West Ryan,2024-08-30,Van,Food Bank,5,1.7
+Hamilton LLC,Snacks,91.9,North Joshuabury,2024-10-15,Truck,Supermarket,3,2.1
+Clark PLC,Snacks,53.67,Torreschester,2024-04-15,Bike,Restaurant,8,1.3
+"Gutierrez, Conley and Brown",Fruits,69.7,West Jessica,2024-04-04,Truck,Grocery Store,3,0.8
+Willis-Sweeney,Canned Goods,10.65,Adamland,2024-08-30,Van,Farm,9,2.1
+Brown-Richmond,Bakery,18.08,South Jason,2024-01-24,Walk,Farm,2,2.6
+Campbell PLC,Meat,36.23,Lake Amy,2024-07-24,Bike,Grocery Store,7,1.5
+Martin Ltd,Bakery,16.03,Lake Steven,2024-01-17,Truck,Supermarket,7,1.4
+Brown-Stein,Snacks,49.69,Port Josephview,2024-01-16,Bike,Farm,7,0.7
+"Gay, Hines and Le",Vegetables,37.48,Port Victor,2024-01-09,Truck,Food Bank,6,2.8
+"Johnson, Williams and Bass",Canned Goods,81.87,New Bridget,2024-08-08,Truck,Grocery Store,2,1.5
+Henry-Lopez,Bakery,47.0,Ryanview,2024-08-03,Truck,Food Bank,2,1.5
+Skinner Ltd,Dairy,59.59,Michaelchester,2024-05-29,Truck,Food Bank,1,1.0
+Welch-Moore,Fruits,56.29,East Abigail,2023-11-25,Bike,Restaurant,3,3.0
+"Miranda, Hays and Hawkins",Fruits,9.44,East Stevemouth,2024-05-22,Drone,Farm,4,1.7
+Reeves and Sons,Bakery,55.44,Kristinton,2024-11-03,Van,Farm,7,1.7
+Adams-Santiago,Canned Goods,60.13,Jamesfort,2024-05-26,Bike,Food Bank,5,1.5
+Rose-Oliver,Snacks,96.34,Russellville,2024-08-05,Van,Farm,7,2.5
+"Watkins, Adkins and Mitchell",Meat,80.86,Heatherberg,2024-07-06,Bike,Grocery Store,2,2.6
+Smith-Arnold,Vegetables,45.64,Lake Paulstad,2024-10-20,Truck,Restaurant,6,0.9
+Johnson-Richardson,Dairy,27.3,Wileyview,2024-01-03,Bike,Restaurant,6,1.3
+Hood-Singleton,Meat,14.05,Petersshire,2024-02-23,Drone,Supermarket,8,1.8
+Garcia-Navarro,Meat,73.51,New William,2024-09-12,Truck,Farm,8,1.8
+"Holland, Gonzalez and Price",Snacks,25.22,Port Jaredville,2024-02-29,Bike,Farm,1,1.1
+Davis PLC,Frozen Food,11.21,Port Ronaldfort,2024-03-18,Truck,Farm,1,2.4
+Contreras PLC,Grains,39.79,Michaelstad,2023-12-01,Bike,Food Bank,3,0.6
+Davis LLC,Grains,26.42,West Morgan,2023-12-11,Truck,Restaurant,9,1.9
+Cortez-Anderson,Canned Goods,23.38,East Josephland,2024-08-27,Drone,Farm,7,1.4
+Nunez and Sons,Vegetables,96.25,Millerport,2024-02-29,Truck,Grocery Store,5,1.7
+Patterson and Sons,Canned Goods,99.57,Port Timothy,2024-10-07,Drone,Farm,8,1.7
+"Richards, Aguilar and Williams",Snacks,53.8,Port Lisamouth,2024-02-09,Walk,Restaurant,4,1.0
+Morales-Wright,Canned Goods,29.32,Kimberlystad,2024-10-02,Drone,Grocery Store,4,2.5
+Warren-Vazquez,Meat,65.22,West Aaron,2023-11-28,Truck,Grocery Store,2,2.8
+Hawkins LLC,Dairy,38.94,Spencerbury,2024-01-11,Van,Food Bank,7,1.9
+Mckinney LLC,Grains,68.67,North Sherryfurt,2023-11-20,Van,Restaurant,4,2.8
+Ford Inc,Vegetables,54.64,Ramseyborough,2024-05-16,Van,Grocery Store,2,0.9
+Ramirez-Fields,Vegetables,52.26,Castroside,2023-12-12,Truck,Farm,3,1.1
+Barber LLC,Fruits,78.3,Keithhaven,2024-03-16,Truck,Food Bank,7,2.2
+Johnson-Lawrence,Vegetables,11.9,South David,2024-08-04,Drone,Restaurant,5,2.1
+Cowan-Charles,Vegetables,78.28,Port Patrickville,2024-09-02,Truck,Food Bank,8,2.7
+Zuniga-Medina,Dairy,24.1,Thomashaven,2024-07-25,Walk,Farm,3,1.4
+Wells-Kent,Vegetables,83.58,West Michael,2023-11-17,Drone,Restaurant,1,1.2
+Bruce-Smith,Canned Goods,66.44,Lake Dianafort,2023-12-15,Van,Food Bank,4,0.8
+Rivera Ltd,Meat,92.28,Lake Heather,2024-04-05,Drone,Supermarket,2,2.6
+"Garcia, Rich and Morris",Dairy,61.83,Matthewstad,2024-09-07,Bike,Grocery Store,7,1.0
+Hicks Ltd,Bakery,65.51,Brianview,2024-06-30,Van,Grocery Store,7,2.1
+Anderson Ltd,Canned Goods,27.83,Madelinebury,2024-08-04,Walk,Grocery Store,7,1.8
+"Camacho, Hardin and Nicholson",Meat,15.97,New Jake,2024-07-31,Walk,Grocery Store,3,2.6
+Thompson LLC,Dairy,14.47,Jimmybury,2023-12-08,Truck,Farm,6,2.5
+"Rojas, Hamilton and Dominguez",Frozen Food,67.78,East Jadechester,2024-01-13,Van,Farm,6,1.2
+"Griffin, Lang and Ray",Snacks,37.83,Jerryfurt,2024-10-24,Bike,Supermarket,9,2.8
+Pierce Ltd,Fruits,86.58,Lanestad,2024-02-26,Truck,Restaurant,2,2.9
+"Davis, Watson and Ryan",Canned Goods,65.91,Wongchester,2024-05-12,Bike,Supermarket,3,1.1
+Reid-Garcia,Dairy,22.01,North Jane,2024-06-25,Walk,Farm,1,2.0
+Sparks-Cook,Bakery,80.5,West Shannon,2024-04-29,Drone,Farm,8,0.7
+Kline Group,Meat,17.65,Dwayneberg,2024-10-27,Van,Supermarket,8,1.8
+Burton-Miller,Snacks,40.45,Lake Crystalburgh,2024-09-02,Van,Restaurant,8,2.8
+"Jones, Morales and Morris",Bakery,24.72,New Christophermouth,2024-05-26,Van,Restaurant,7,1.4
+Moody-Johnson,Dairy,73.82,Barryhaven,2024-08-11,Bike,Food Bank,4,2.8
+Reeves-Mosley,Bakery,6.16,Port Kathrynberg,2024-02-17,Bike,Grocery Store,4,1.8
+Hopkins Ltd,Meat,34.8,Lake Robinberg,2024-02-01,Truck,Grocery Store,4,1.4
+"Gonzalez, Warren and Logan",Canned Goods,36.2,North Jason,2024-05-22,Truck,Food Bank,7,2.5
+"Moore, Hart and Morrison",Grains,46.46,Port Crystalstad,2024-06-07,Drone,Farm,8,0.7
+Glass PLC,Meat,78.81,Port Linda,2024-03-07,Bike,Food Bank,7,3.0
+"Brown, Davis and Garcia",Fruits,15.95,Dianebury,2024-10-13,Van,Grocery Store,3,1.9
+"Humphrey, Brown and Nguyen",Bakery,12.16,Williamview,2024-05-24,Drone,Restaurant,2,1.4
+"Moore, Carson and Hawkins",Frozen Food,81.04,West Steven,2024-09-22,Walk,Farm,3,1.9
+"Ramos, Randall and Woods",Grains,58.3,Stewartstad,2024-10-08,Drone,Grocery Store,5,1.0
+Sherman-Frey,Frozen Food,15.59,New Coreyshire,2024-02-05,Drone,Farm,3,1.5
+"Ross, Wright and Flynn",Canned Goods,46.47,Catherinestad,2024-10-22,Drone,Grocery Store,3,2.5
+Bryan Group,Snacks,36.72,Port Samuelchester,2024-10-16,Truck,Supermarket,4,2.5
+Harris-Hurley,Dairy,11.04,East Taraside,2024-01-09,Walk,Grocery Store,2,0.9
+Hendricks and Sons,Frozen Food,18.58,Lake Jasmine,2024-10-21,Drone,Grocery Store,6,2.7
+Lowery Inc,Dairy,79.66,East Marvin,2024-07-16,Van,Farm,8,1.0
+Bailey-Olson,Meat,89.2,Franklinhaven,2024-05-27,Truck,Grocery Store,1,1.4
+Vasquez-Li,Grains,38.28,Lake Brandyburgh,2024-05-03,Van,Grocery Store,2,1.3
+Martinez-Ortega,Grains,76.78,Websterton,2024-02-11,Van,Farm,2,1.2
+Newman-Gallagher,Dairy,90.94,South Carla,2024-11-10,Bike,Farm,1,2.3
+"Miller, Schmidt and Perez",Bakery,78.64,West Richard,2024-08-25,Truck,Supermarket,1,0.6
+"Garcia, Richards and Macias",Fruits,92.98,Dianamouth,2024-06-25,Truck,Restaurant,8,1.8
+Rios LLC,Vegetables,58.58,Shirleystad,2024-02-12,Van,Farm,2,1.1
+"Sanchez, Brooks and Nelson",Dairy,92.42,Port David,2024-06-24,Van,Farm,2,1.5
+"Conway, Leblanc and Bryant",Vegetables,66.15,Petersside,2023-11-27,Truck,Grocery Store,7,1.6
+Padilla Group,Frozen Food,88.54,East Johnberg,2024-03-06,Truck,Farm,7,2.8
+Warren Ltd,Bakery,67.96,Shannonmouth,2024-05-27,Drone,Food Bank,5,1.7
+Lawrence Inc,Snacks,17.51,Anthonyhaven,2024-06-06,Van,Food Bank,7,1.2
+Hammond-Woodard,Frozen Food,39.63,East Leslie,2024-10-19,Drone,Grocery Store,1,1.3
+"Wilson, Munoz and Mitchell",Canned Goods,71.6,Aaronmouth,2024-06-01,Truck,Food Bank,1,2.0
+Higgins and Sons,Vegetables,30.38,Stephenville,2024-10-10,Truck,Supermarket,2,1.3
+Joseph-Lopez,Fruits,34.4,Ayalaburgh,2024-02-12,Walk,Supermarket,6,1.7
+"Arnold, Morales and Torres",Vegetables,57.71,Stephanieshire,2024-11-05,Bike,Supermarket,4,0.8
+Fitzgerald-Hart,Frozen Food,39.77,Jesseland,2024-08-16,Drone,Food Bank,3,0.6
+Jensen-Paul,Frozen Food,96.23,Ambermouth,2024-05-19,Truck,Food Bank,9,2.8
+Mcpherson Inc,Meat,44.08,West Vanessamouth,2024-09-06,Truck,Restaurant,4,0.6
+Moody Inc,Meat,65.96,West Dawn,2024-05-06,Drone,Farm,7,2.2
+Garcia-Williams,Bakery,35.63,Richardberg,2023-12-18,Walk,Food Bank,4,0.6
+"Johnson, Campbell and Faulkner",Vegetables,38.47,Cuevasborough,2024-04-08,Truck,Food Bank,8,1.0
+Stephens-Lane,Dairy,86.1,Johnshire,2024-08-01,Bike,Restaurant,5,0.8
+"Lopez, Jones and Sanchez",Snacks,47.73,South Paigemouth,2024-05-15,Drone,Food Bank,3,2.8
+Allen-Martinez,Grains,91.25,Padillaberg,2024-10-02,Bike,Supermarket,3,0.6
+Mcdaniel Group,Dairy,31.46,North Virginiastad,2024-02-12,Bike,Restaurant,4,2.4
+Woods Inc,Dairy,92.28,West Dawntown,2024-08-29,Walk,Grocery Store,2,2.6
+Smith-Howe,Frozen Food,70.23,Lake Erinchester,2024-06-07,Walk,Restaurant,2,2.7
+Ramos Group,Fruits,47.93,Ramseybury,2024-09-15,Truck,Restaurant,5,0.7
+Morris-Livingston,Meat,57.33,Curtiston,2024-01-01,Drone,Supermarket,7,1.1
+Johnson LLC,Snacks,29.77,Johnsonburgh,2024-10-24,Van,Food Bank,1,1.7
+Dean PLC,Vegetables,21.35,East Jacqueline,2024-05-21,Bike,Farm,5,1.1
+"Mendoza, Bridges and Hurley",Snacks,87.04,Marshallland,2024-08-16,Van,Restaurant,7,1.1
+Case-Valdez,Dairy,66.48,Phillipsbury,2024-01-06,Walk,Farm,9,2.7
+Edwards PLC,Fruits,37.98,New Cynthia,2024-09-15,Bike,Supermarket,9,0.8
+"Martinez, Blair and Wallace",Fruits,22.96,Courtneymouth,2024-05-16,Bike,Grocery Store,5,2.1
+Hernandez-Fowler,Snacks,58.89,West Lauren,2024-02-27,Van,Farm,7,2.2
+"Lindsey, Golden and Mejia",Frozen Food,46.08,North Tiffany,2024-07-15,Walk,Supermarket,2,1.8
+Villegas LLC,Vegetables,18.84,Michaelville,2024-09-12,Truck,Farm,1,2.9
+Simmons Ltd,Meat,23.33,South Jamiemouth,2024-08-17,Bike,Supermarket,8,2.8
+Edwards-Munoz,Vegetables,90.73,Victoriabury,2024-01-01,Bike,Food Bank,8,2.2
+Bruce-Haley,Vegetables,92.41,West Christineshire,2024-05-10,Van,Food Bank,4,3.0
+Peterson LLC,Vegetables,25.43,New Sherryborough,2024-03-03,Van,Farm,2,2.2
+Howard-Krueger,Meat,37.73,North Patrickstad,2024-03-24,Bike,Restaurant,4,2.3
+Stanley-Fernandez,Frozen Food,70.17,South Sarah,2024-11-01,Walk,Supermarket,7,1.9
+Reeves-Swanson,Grains,28.66,West Isaactown,2024-10-03,Drone,Supermarket,3,1.7
+Arnold and Sons,Vegetables,35.51,New Josephville,2024-07-10,Van,Grocery Store,2,2.0
+Brown-Carlson,Grains,30.82,West Gilberthaven,2024-08-14,Drone,Supermarket,5,2.5
+Davis Ltd,Vegetables,69.21,Lake Brian,2024-05-27,Truck,Food Bank,2,1.9
+Martin Inc,Fruits,61.24,South Charles,2024-08-18,Walk,Restaurant,3,2.3
+"Montgomery, Rodriguez and Drake",Vegetables,47.04,Rebeccastad,2024-10-17,Bike,Supermarket,8,2.9
+Thomas Inc,Grains,84.36,West Christopherville,2024-06-15,Bike,Supermarket,3,0.5
+"Stevenson, Williams and Lee",Bakery,22.28,West Jennifer,2024-09-11,Drone,Restaurant,8,0.7
+Stephens-Cook,Dairy,20.63,Jamestown,2024-07-03,Truck,Supermarket,1,1.7
+Wilson Ltd,Canned Goods,61.69,Kevintown,2024-02-18,Walk,Supermarket,2,1.8
+Johnson-Smith,Dairy,49.16,South Diana,2023-12-23,Drone,Restaurant,9,2.8
+"Jones, Rogers and Tapia",Snacks,88.98,West Nicoleburgh,2024-05-11,Bike,Supermarket,7,1.9
+Salinas Group,Fruits,50.77,North Bradleyton,2024-09-15,Van,Food Bank,8,2.2
+Miller-Haynes,Bakery,89.5,Lake Gina,2024-08-21,Bike,Supermarket,2,1.0
+Smith Ltd,Frozen Food,62.35,North Robert,2024-02-20,Drone,Grocery Store,8,0.6
+"Barnes, Hernandez and Smith",Bakery,71.88,Port Jaimeland,2024-06-28,Walk,Restaurant,5,0.7
+"Tapia, Porter and Quinn",Fruits,50.2,Amandaland,2023-12-30,Truck,Restaurant,9,1.8
+Scott-Eaton,Meat,55.66,New Julianberg,2023-12-24,Van,Farm,4,0.6
+"Garrett, Wright and Davis",Fruits,92.11,Bakerburgh,2024-02-21,Truck,Farm,9,2.3
+Trevino-Lopez,Meat,87.51,East Sharon,2024-03-23,Van,Food Bank,8,1.3
+Shaw-Lopez,Vegetables,9.52,Lake Davidview,2024-06-16,Drone,Food Bank,7,0.8
+House-Allen,Canned Goods,22.94,Ricemouth,2023-12-07,Drone,Food Bank,4,1.8
+"Acosta, Casey and Davis",Vegetables,77.29,Glendaberg,2023-12-12,Truck,Restaurant,9,2.6
+"Silva, Mendoza and Martinez",Fruits,62.33,East Danabury,2024-01-16,Bike,Restaurant,8,1.4
+Smith Group,Bakery,76.89,Valenzuelaborough,2024-02-21,Truck,Food Bank,5,0.9
+"Johnson, Stewart and Buchanan",Bakery,50.65,Lake Sheri,2024-01-26,Walk,Restaurant,5,1.8
+Neal-House,Bakery,74.91,Angelaborough,2023-12-16,Walk,Farm,3,2.8
+Mccann Group,Grains,99.56,Philipton,2024-10-03,Walk,Supermarket,1,1.5
+Martinez LLC,Fruits,33.53,Stoneland,2024-05-25,Truck,Restaurant,8,2.5
+Miller-Williams,Grains,6.01,East Michael,2024-09-10,Drone,Farm,6,2.6
+"Leonard, Ruiz and Mosley",Grains,61.12,Castanedachester,2024-05-24,Van,Farm,3,2.0
+Simmons Inc,Grains,56.26,Nixonport,2024-01-25,Bike,Supermarket,7,1.9
+Sanchez and Sons,Meat,13.4,Port Jaredmouth,2024-07-31,Truck,Farm,3,0.8
+"Chavez, Hale and Thomas",Dairy,60.07,West Michael,2024-02-26,Van,Supermarket,7,1.1
+"Hayes, Perkins and Collins",Snacks,53.57,Sullivanport,2024-06-07,Bike,Grocery Store,6,1.9
+Mccarthy Ltd,Grains,28.47,West Pamelaberg,2024-05-27,Walk,Grocery Store,8,1.3
+"Hernandez, Stewart and Wheeler",Vegetables,29.43,Maldonadotown,2024-09-07,Walk,Food Bank,5,1.0
+Barnes-Rosales,Dairy,52.46,Caseytown,2023-12-21,Bike,Food Bank,1,1.5
+Carlson LLC,Canned Goods,90.37,Port Alisonport,2024-08-03,Walk,Food Bank,5,2.9
+Lowe-Harris,Frozen Food,28.13,New Michael,2024-04-16,Van,Farm,8,1.1
+Torres-Graves,Bakery,97.49,Jacksonland,2024-01-31,Walk,Grocery Store,2,2.1
+"Campbell, Moyer and Allen",Canned Goods,6.71,South Steven,2024-06-01,Truck,Grocery Store,4,2.9
+Fletcher Group,Fruits,78.64,South Melanieberg,2024-03-08,Truck,Restaurant,3,2.8
+"Gibbs, Martin and Romero",Meat,23.57,New Terriburgh,2024-11-02,Bike,Food Bank,9,2.3
+Ferguson PLC,Grains,73.01,Jamesberg,2024-08-16,Walk,Grocery Store,2,2.3
+Henry-Reeves,Vegetables,5.59,East Christopher,2024-05-06,Bike,Restaurant,3,1.4
+"Reyes, Preston and Sanders",Vegetables,33.62,Amberville,2024-04-22,Van,Supermarket,6,2.8
+"Kelly, Harper and Perez",Canned Goods,68.84,Duranberg,2024-04-30,Truck,Farm,8,2.8
+Marshall Ltd,Bakery,55.27,Lisaville,2024-10-30,Van,Food Bank,6,2.5
+Hammond and Sons,Frozen Food,52.64,Washingtonfurt,2024-01-06,Walk,Farm,7,1.0
+Robinson-Brown,Snacks,78.56,East Susan,2024-11-10,Truck,Restaurant,7,0.8
+"Gomez, Bishop and Whitehead",Canned Goods,23.63,Michelemouth,2024-06-29,Truck,Supermarket,5,1.2
+"Savage, Clark and Martinez",Dairy,49.68,Lake Zachary,2023-12-10,Walk,Farm,6,2.4
+Patrick PLC,Frozen Food,36.32,Lake Brandi,2023-12-08,Drone,Food Bank,6,1.3
+"Gentry, Best and Baldwin",Meat,11.44,Lake Carlosfort,2024-07-11,Truck,Food Bank,8,1.2
+Carter-Turner,Vegetables,94.51,West Claytonville,2024-07-16,Truck,Food Bank,7,2.0
+"Potts, Morrow and Singh",Bakery,32.71,East Daniel,2023-12-26,Drone,Restaurant,4,2.8
+Mcclain Group,Frozen Food,53.07,Annton,2024-07-14,Walk,Food Bank,9,1.2
+Ortiz-Wood,Bakery,89.39,Youngberg,2023-11-18,Truck,Restaurant,8,1.9
+Johnson-Banks,Vegetables,43.44,West Andrea,2024-09-25,Bike,Food Bank,8,2.2
+"Dunn, Pena and Lewis",Fruits,17.29,West Bruceton,2023-12-17,Bike,Grocery Store,2,1.5
+"Guzman, Lee and Hawkins",Vegetables,33.65,Norrismouth,2023-12-15,Truck,Farm,2,2.9
+Becker PLC,Canned Goods,16.94,West Traceystad,2024-06-28,Bike,Farm,9,0.7
+"Farrell, Lee and Johnson",Snacks,52.03,Samuelstad,2023-11-25,Drone,Food Bank,2,1.2
+"Taylor, Patrick and Soto",Vegetables,56.33,South Kaylaland,2024-03-04,Bike,Restaurant,9,2.4
+Jones-Williams,Canned Goods,67.02,Stevenside,2024-07-18,Truck,Grocery Store,9,2.6
+Gonzalez PLC,Frozen Food,11.1,South Melissaberg,2024-05-12,Walk,Farm,8,1.7
+Schneider LLC,Bakery,80.52,South Randallfort,2023-12-31,Bike,Food Bank,9,2.3
+Robinson-Rodriguez,Dairy,85.43,Port Deborah,2024-02-16,Bike,Grocery Store,3,1.5
+"Walters, Murphy and Fischer",Grains,21.22,Lake Andrewmouth,2024-08-20,Bike,Supermarket,5,2.3
+Clay-Perez,Snacks,81.62,New Nancy,2024-04-02,Bike,Farm,3,1.7
+"Kelly, Stokes and Davis",Bakery,74.98,New Scott,2024-08-10,Walk,Grocery Store,9,1.1
+Hernandez-Carter,Grains,41.68,South Julie,2024-04-23,Bike,Restaurant,5,1.0
+Spencer-Vasquez,Snacks,5.56,South Craig,2024-10-13,Van,Supermarket,4,1.0
+Lucas-Bailey,Vegetables,9.36,Jonesstad,2023-11-29,Truck,Grocery Store,8,1.2
+"Nicholson, Lee and Holt",Bakery,40.9,North Richard,2024-04-11,Truck,Grocery Store,1,2.3
+"Johnson, Maxwell and Vargas",Meat,99.59,Tashaborough,2024-09-21,Drone,Supermarket,5,1.5
+"Castillo, Dunn and Fields",Canned Goods,8.62,East Whitneymouth,2023-12-08,Truck,Supermarket,8,1.7
+Cooper-Avila,Bakery,71.15,Lake Dianafurt,2024-11-09,Van,Supermarket,7,2.6
+"Davis, Bentley and Roth",Dairy,92.92,West Aprilville,2024-08-31,Truck,Grocery Store,5,1.2
+"Pugh, Young and Sanchez",Fruits,85.61,West Tommystad,2023-12-28,Bike,Food Bank,4,1.4
+Stafford-Richardson,Meat,17.61,New Michelle,2024-04-26,Bike,Restaurant,4,2.9
+Zimmerman-Hansen,Fruits,51.04,New Joshua,2024-10-18,Truck,Grocery Store,8,1.9
+Allen-Villanueva,Vegetables,45.59,Brendashire,2024-07-22,Truck,Restaurant,7,1.8
+"Johnson, Preston and Webster",Frozen Food,57.59,Johnville,2024-07-05,Drone,Farm,9,1.3
+Allen-Cox,Frozen Food,99.9,Nelsonside,2023-12-04,Truck,Restaurant,3,1.3
+Berry Group,Vegetables,42.05,North Victoria,2024-03-07,Bike,Supermarket,4,0.5
+Stewart Ltd,Dairy,89.32,Nicholasview,2024-09-13,Truck,Restaurant,9,2.9
+Holloway-Bell,Vegetables,73.46,South Alexshire,2024-06-08,Walk,Food Bank,8,1.3
+Bradley Group,Bakery,26.56,South Matthew,2023-12-02,Van,Grocery Store,4,1.3
+Andrews Group,Fruits,30.73,East Robertfort,2024-09-30,Walk,Supermarket,1,1.8
+Hayes-West,Grains,81.88,West George,2024-03-21,Bike,Restaurant,7,1.5
+Gonzalez-Hebert,Grains,36.47,South Andreaside,2024-08-01,Drone,Restaurant,8,1.7
+"Reyes, Mclaughlin and Mora",Frozen Food,17.17,West Fernando,2024-05-31,Walk,Supermarket,3,1.0
+"Kelley, Davis and Bryan",Fruits,60.63,North Dawn,2024-03-10,Truck,Grocery Store,4,1.2
+Bass Inc,Bakery,74.61,Holtshire,2024-08-23,Van,Grocery Store,5,0.9
+"Macias, King and Little",Meat,47.14,East Jason,2024-04-20,Walk,Restaurant,4,2.0
+Johnson-Nunez,Snacks,13.77,South Ericport,2024-02-21,Drone,Supermarket,8,0.8
+Owens Group,Dairy,64.75,Lewisport,2024-06-04,Walk,Restaurant,3,2.0
+Hall-Johnson,Bakery,72.92,Lisaview,2024-06-20,Walk,Grocery Store,4,2.4
+Jenkins LLC,Fruits,43.79,Sharpside,2024-01-03,Truck,Farm,8,1.1
+Martin-Taylor,Grains,97.84,Port Christine,2024-02-05,Van,Restaurant,1,2.4
+Sullivan PLC,Meat,56.23,New Ashley,2024-06-16,Walk,Farm,2,1.7
+"Cooper, Warner and Walker",Fruits,98.03,East Karenhaven,2024-09-12,Drone,Grocery Store,5,2.8
+"Higgins, Hughes and Morgan",Bakery,6.94,Hillburgh,2024-09-23,Truck,Grocery Store,8,2.1
+Farley-Frazier,Frozen Food,86.2,Longside,2024-04-11,Van,Farm,4,0.7
+"Lawson, Jackson and Garcia",Vegetables,43.65,South Natalie,2024-08-20,Van,Supermarket,6,1.0
+Wilson PLC,Dairy,14.4,Mcdonaldmouth,2023-12-24,Drone,Farm,7,2.8
+Pope LLC,Meat,53.3,East Meganport,2024-03-18,Van,Farm,3,2.6
+Harrison-Wallace,Dairy,49.74,Woodsmouth,2024-01-23,Drone,Restaurant,9,2.7
+Parks Inc,Grains,57.07,South Candacefurt,2024-01-19,Drone,Restaurant,6,1.2
+Gomez and Sons,Vegetables,27.95,Ryanview,2023-11-19,Truck,Food Bank,9,1.3
+"Rasmussen, Garrison and Thomas",Canned Goods,5.56,Tracyton,2024-08-06,Walk,Restaurant,1,1.3
+Smith-Mercado,Frozen Food,42.73,Rodriguezmouth,2023-12-10,Drone,Supermarket,5,0.6
+Padilla-Young,Bakery,73.33,South Andreashire,2024-04-27,Drone,Food Bank,6,1.4
+Garcia-Ramirez,Frozen Food,94.08,South Suzanneville,2024-05-29,Truck,Grocery Store,4,2.7
+"Ramirez, Ibarra and Green",Frozen Food,63.42,West Crystalfurt,2024-09-25,Van,Restaurant,9,2.3
+Pearson-Macdonald,Meat,52.28,Hallberg,2024-06-08,Drone,Food Bank,7,2.5
+Ruiz Inc,Dairy,67.14,New Dustinport,2024-01-04,Van,Food Bank,3,1.4
+Rodriguez-Lane,Canned Goods,72.22,Grahamchester,2024-09-04,Truck,Grocery Store,9,2.3
+"Castro, Johnson and Pope",Bakery,97.11,Williamstad,2024-04-13,Bike,Food Bank,9,2.9
+"Ponce, Lynch and Gomez",Frozen Food,95.88,Stewartberg,2024-06-11,Truck,Food Bank,5,2.2
+Aguirre Inc,Meat,90.2,East Josephbury,2024-04-19,Van,Grocery Store,3,1.1
+Bradshaw-Foster,Dairy,46.09,Davefurt,2024-08-20,Bike,Restaurant,4,0.6
+Nelson LLC,Fruits,90.31,Jonesville,2024-11-03,Walk,Grocery Store,9,2.0
+Hicks and Sons,Vegetables,49.77,Lindaside,2024-03-23,Van,Grocery Store,5,2.0
+King Inc,Fruits,35.07,Brookeland,2024-08-30,Walk,Farm,3,1.7
+"Alvarado, Castillo and Meyer",Vegetables,15.93,Bonniechester,2024-07-26,Bike,Grocery Store,9,2.7
+Webb-Webb,Vegetables,44.57,East Ashleyton,2024-01-18,Bike,Supermarket,8,1.5
+"Matthews, Lee and Moore",Grains,9.13,Port Kristaburgh,2024-02-09,Van,Restaurant,3,1.8
+"Russell, Mahoney and Henry",Fruits,94.73,East Jaimefurt,2024-09-06,Walk,Grocery Store,3,3.0
+Morris Group,Dairy,47.44,Josephport,2024-11-01,Van,Supermarket,6,2.7
+Baker Ltd,Bakery,21.14,North Heather,2024-11-03,Van,Supermarket,6,1.7
+Ferguson-Logan,Frozen Food,11.38,Vasquezview,2024-03-10,Truck,Farm,7,1.3
+Mcbride LLC,Frozen Food,53.17,Port Patriciabury,2024-03-20,Bike,Food Bank,7,1.5
+Murphy LLC,Snacks,55.48,Paulburgh,2024-08-10,Van,Supermarket,6,1.5
+Cowan PLC,Fruits,20.86,Port Michelleland,2024-09-16,Drone,Supermarket,2,1.1
+Benitez-Nunez,Grains,53.72,Wadeborough,2023-12-08,Drone,Grocery Store,5,0.9
+English LLC,Dairy,45.6,Wheelertown,2024-09-16,Van,Farm,5,1.8
+Brown-Ruiz,Snacks,14.17,South Lisa,2024-03-21,Drone,Food Bank,2,0.6
+"Kennedy, Clark and Jimenez",Frozen Food,40.08,South Nancybury,2024-07-03,Walk,Restaurant,6,2.2
+Avery-Lopez,Frozen Food,63.59,Port Andrewshire,2024-10-03,Truck,Grocery Store,3,2.9
+Mitchell LLC,Frozen Food,6.34,Kingmouth,2024-06-20,Truck,Food Bank,2,1.9
+"Garcia, Mccall and Maxwell",Meat,58.31,West Valeriestad,2024-07-31,Bike,Restaurant,5,1.7
+Rodriguez-Evans,Snacks,96.24,Timothymouth,2024-06-14,Van,Supermarket,7,1.4
+Rogers-Hinton,Snacks,42.58,West Diana,2024-06-10,Walk,Restaurant,2,2.4
+Stafford Inc,Grains,97.45,North Ericland,2023-12-31,Bike,Food Bank,8,0.6
+Kelley LLC,Grains,25.66,Schmittbury,2024-01-26,Bike,Restaurant,4,1.2
+Lyons Group,Dairy,50.88,West Amanda,2024-03-15,Van,Food Bank,4,0.8
+Thompson Group,Snacks,98.26,Lake Matthew,2024-07-11,Walk,Farm,4,0.9
+"Fitzgerald, Clark and Collins",Bakery,96.69,Lindaside,2024-11-11,Drone,Restaurant,4,1.2
+Phillips-Esparza,Snacks,74.59,North Johnport,2023-12-03,Bike,Supermarket,6,0.7
+Mills PLC,Fruits,80.96,Patriciatown,2024-03-22,Truck,Restaurant,8,1.9
+Lynch and Sons,Grains,75.03,New Christopherfort,2024-01-29,Van,Farm,3,1.3
+Perry-Brady,Dairy,88.94,Jennifermouth,2024-02-11,Truck,Food Bank,3,0.6
+"Gonzalez, Vazquez and Curtis",Dairy,35.47,Port Tammytown,2024-05-19,Truck,Grocery Store,2,2.5
+Young LLC,Canned Goods,53.71,East Kayla,2024-02-09,Truck,Farm,3,1.5
+"Hartman, Johnson and Miller",Grains,44.61,Josephport,2024-10-13,Drone,Food Bank,3,2.2
+Deleon-Matthews,Bakery,45.5,Jonesmouth,2024-06-05,Truck,Supermarket,1,1.8
+Patterson-Cooke,Dairy,69.29,Elizabethtown,2024-08-11,Drone,Farm,8,2.3
+Arias-Briggs,Grains,52.0,Scottland,2024-01-19,Drone,Farm,2,2.6
+"Schneider, Wolfe and Lambert",Fruits,36.79,Robertborough,2024-03-01,Walk,Food Bank,6,0.9
+Avila LLC,Fruits,51.59,South Samuel,2024-05-05,Truck,Food Bank,7,0.7
+"Webb, Bryant and Santos",Grains,96.41,Marksside,2023-12-12,Bike,Grocery Store,1,2.1
+"Stone, Lopez and Allen",Canned Goods,15.58,East Laura,2024-03-31,Truck,Supermarket,9,2.6
+Wolfe-Bautista,Meat,8.76,Lake Andrew,2024-02-11,Walk,Farm,7,2.6
+Day LLC,Vegetables,79.19,Pamelatown,2024-09-25,Drone,Restaurant,1,1.7
+Smith Group,Fruits,42.32,Stanleyborough,2023-11-17,Truck,Food Bank,6,1.0
+"Murray, Boyd and Pitts",Dairy,68.1,South Emilymouth,2024-05-27,Walk,Restaurant,1,2.5
+Martin Inc,Dairy,81.85,Kevinburgh,2024-06-01,Bike,Food Bank,7,3.0
+Howell-Hudson,Dairy,12.4,Travisside,2024-07-12,Walk,Restaurant,3,1.0
+Brown-Vargas,Vegetables,57.33,Serranoburgh,2024-04-09,Walk,Grocery Store,2,2.7
+"Ferguson, Cooper and Moore",Fruits,94.47,Port Heathertown,2024-06-16,Truck,Food Bank,5,2.7
+Bryant and Sons,Fruits,97.95,West Kristachester,2024-09-04,Van,Farm,2,2.5
+Dean Ltd,Bakery,74.03,Lake Tammyton,2023-12-07,Truck,Grocery Store,9,0.7
+"Harvey, Cole and Hall",Vegetables,93.6,Port Matthew,2023-11-21,Walk,Food Bank,6,1.3
+Christensen-Wright,Snacks,68.38,North Johnburgh,2024-04-19,Truck,Grocery Store,7,2.1
+Richardson Inc,Bakery,19.49,East Michaelview,2024-08-19,Van,Grocery Store,5,2.5
+Flynn PLC,Dairy,78.64,Jasonview,2024-03-24,Walk,Supermarket,9,1.2
+Hodge Ltd,Grains,88.52,Ronaldchester,2023-12-22,Drone,Farm,2,2.0
+Rodriguez LLC,Fruits,67.66,Port Marisa,2024-07-22,Walk,Grocery Store,1,2.6
+Carson LLC,Frozen Food,88.89,North Williamton,2024-02-10,Truck,Supermarket,7,1.6
+"Craig, Adams and Cooper",Canned Goods,69.98,Jamesland,2024-01-19,Bike,Farm,6,1.9
+"Martinez, Williams and Anderson",Dairy,78.98,Port Brianhaven,2024-01-19,Bike,Supermarket,7,2.0
+Vega and Sons,Grains,28.63,Lake Joseph,2024-10-31,Van,Restaurant,5,2.8
+Estrada-Wells,Snacks,99.02,Lake Josephmouth,2024-10-27,Walk,Grocery Store,3,1.4
+"Dennis, Khan and Williams",Canned Goods,92.67,Cruztown,2024-04-28,Truck,Farm,4,1.9
+Walton-Whitaker,Frozen Food,22.23,Garciafurt,2024-05-22,Drone,Grocery Store,7,1.3
+Wang and Sons,Dairy,50.53,South Jessica,2024-01-03,Truck,Food Bank,4,2.0
+"Williams, Green and Steele",Vegetables,53.65,Davidmouth,2024-07-14,Van,Grocery Store,6,1.5
+"Floyd, White and Wheeler",Meat,94.57,Patrickborough,2024-08-01,Drone,Grocery Store,1,1.8
+Grant-Brown,Frozen Food,43.29,Andersonbury,2024-06-11,Bike,Farm,9,2.6
+Hancock and Sons,Grains,11.76,Adamburgh,2024-02-19,Drone,Food Bank,2,1.9
+"Fuller, Green and Logan",Snacks,48.71,Brownmouth,2023-12-21,Truck,Farm,2,1.0
+Schneider Inc,Frozen Food,10.62,New Jade,2024-07-23,Truck,Restaurant,9,2.4
+Hinton Ltd,Bakery,15.97,East Emma,2024-08-05,Bike,Farm,9,1.6
+Wilson-Mann,Meat,66.47,Williamsmouth,2024-06-06,Drone,Food Bank,6,0.9
+"Malone, Clarke and Hamilton",Grains,86.94,Stephanieburgh,2024-11-14,Bike,Supermarket,3,1.5
+Villegas Group,Snacks,56.6,Lake Tyler,2024-03-06,Truck,Restaurant,2,1.5
+Carter-Lowe,Canned Goods,39.23,Savannahside,2024-06-14,Bike,Grocery Store,5,0.6
+"Fields, Quinn and Krause",Canned Goods,60.56,Lake Tyler,2024-07-29,Van,Food Bank,1,2.7
+Huff Inc,Grains,32.97,Reneeton,2023-12-14,Van,Supermarket,5,2.2
+Humphrey-House,Dairy,65.18,Lake Brian,2024-03-17,Van,Restaurant,9,1.9
+Hill-Rivera,Snacks,22.52,Jonesstad,2024-07-08,Walk,Supermarket,3,0.8
+Murphy Ltd,Fruits,87.62,East Noah,2024-06-10,Walk,Farm,1,1.2
+"Bruce, Morris and Franklin",Snacks,98.14,Kathleenchester,2024-01-30,Drone,Supermarket,6,0.6
+"Marsh, Jones and Scott",Bakery,83.09,Mccoyberg,2024-10-14,Truck,Food Bank,4,2.5
+"Coleman, Morales and Dillon",Bakery,34.67,Port Carrieburgh,2024-07-10,Van,Grocery Store,1,1.8
+Russell PLC,Dairy,90.9,Wolfeview,2024-10-22,Van,Food Bank,5,2.0
+"Williams, Lara and Lee",Vegetables,67.65,Spencerfort,2023-12-01,Van,Farm,4,1.9
+"Raymond, Williams and Thomas",Dairy,49.75,Amychester,2024-07-25,Walk,Food Bank,9,1.4
+Le-Bailey,Bakery,69.26,North Kevinchester,2024-08-28,Truck,Supermarket,4,1.8
+Baker-Mclaughlin,Dairy,41.13,Kellyberg,2024-01-15,Walk,Food Bank,5,2.4
+"Cooper, Robinson and Davis",Grains,24.72,Lake Amy,2024-10-27,Van,Food Bank,1,1.3
+"Jones, Malone and Mills",Canned Goods,53.17,South Michaelmouth,2024-06-12,Walk,Restaurant,8,2.4
+Hamilton LLC,Vegetables,31.51,West Jamesborough,2024-03-30,Walk,Grocery Store,1,1.8
+"Johnson, Wilson and Hicks",Canned Goods,19.37,Lake Davidfort,2024-09-28,Drone,Grocery Store,7,2.9
+Anderson LLC,Snacks,62.38,Tammyport,2024-06-05,Van,Supermarket,8,1.2
+Burns-Gomez,Fruits,12.84,Mathewsborough,2024-04-21,Van,Food Bank,5,1.1
+"Holmes, Collier and Cruz",Snacks,55.54,North Courtney,2024-09-20,Walk,Supermarket,4,1.5
+Kennedy-Park,Frozen Food,91.42,North Gerald,2024-04-26,Bike,Grocery Store,3,1.8
+Hutchinson-Brown,Frozen Food,40.09,Paulville,2024-01-05,Drone,Food Bank,3,1.0
+"Jackson, Khan and Jackson",Snacks,37.65,East Mariashire,2024-06-19,Bike,Supermarket,6,1.1
+Alexander Ltd,Grains,84.29,Cruzfurt,2024-06-04,Van,Food Bank,8,1.3
+"Yu, Palmer and Patterson",Bakery,76.86,Mitchellville,2024-09-02,Drone,Supermarket,8,1.7
+"Escobar, Hogan and Owen",Dairy,55.08,North Saraport,2024-09-21,Bike,Restaurant,7,0.6
+Rice and Sons,Vegetables,59.61,West Dennisland,2024-05-05,Walk,Food Bank,4,2.9
+Sherman-Lee,Frozen Food,30.5,Andersenfurt,2024-02-23,Van,Restaurant,3,0.5
+"Baker, Campbell and Perez",Fruits,32.81,Alexandraland,2024-02-12,Drone,Supermarket,7,1.0
+Smith PLC,Snacks,72.83,Jacquelineborough,2024-04-05,Walk,Food Bank,1,1.0
+"Aguirre, Frazier and Gonzalez",Bakery,99.63,East Walterhaven,2024-04-10,Van,Grocery Store,5,1.9
+King Inc,Dairy,56.28,South Andrea,2024-01-10,Bike,Food Bank,2,1.8
+Booth-Swanson,Fruits,32.15,West Jessica,2024-07-27,Walk,Food Bank,6,1.5
+Mora-Klein,Bakery,98.55,Port Lisa,2024-11-09,Drone,Grocery Store,6,0.5
+Parker LLC,Vegetables,11.61,East Jeremyside,2024-07-31,Truck,Food Bank,9,1.9
+"Hardy, Johnson and Delgado",Frozen Food,83.35,North Vincentton,2024-01-12,Van,Restaurant,6,2.9
+Romero-Blair,Bakery,97.2,Stantonmouth,2023-12-04,Drone,Supermarket,4,0.7
+Cole-Watkins,Snacks,15.62,Aaronville,2024-06-30,Drone,Supermarket,8,2.4
+Sanders Group,Frozen Food,58.29,Mooreland,2024-11-07,Drone,Grocery Store,9,2.7
+Cook-Smith,Fruits,63.1,Robertsmouth,2024-02-22,Bike,Grocery Store,4,1.6
+Sharp and Sons,Canned Goods,13.28,Everettchester,2024-06-01,Bike,Grocery Store,2,1.0
+"Mckee, Miller and Hernandez",Bakery,22.5,Port Franciscomouth,2024-02-29,Bike,Food Bank,5,0.9
+"Harris, Garcia and Wolf",Bakery,80.72,East Juliehaven,2024-04-02,Walk,Farm,5,1.4
+Hoffman-White,Vegetables,76.32,Jasonland,2024-07-27,Walk,Restaurant,9,3.0
+Anderson Ltd,Vegetables,68.65,North Amy,2024-05-21,Walk,Supermarket,1,2.2
+"Campbell, Mendoza and Cisneros",Frozen Food,79.27,Lake Kenneth,2024-07-05,Van,Grocery Store,5,1.8
+Rivera Ltd,Vegetables,54.62,Josephview,2024-02-07,Truck,Food Bank,3,1.5
+"Jennings, Jensen and Walters",Snacks,44.88,New Sarah,2024-03-29,Van,Grocery Store,2,2.2
+Scott PLC,Grains,32.69,Smithstad,2024-07-07,Walk,Food Bank,2,0.5
+Hamilton Group,Canned Goods,20.15,Destinyview,2024-06-08,Van,Restaurant,6,2.0
+Thomas-Yang,Dairy,56.31,Mercershire,2023-11-19,Drone,Restaurant,3,0.8
+Contreras Ltd,Canned Goods,43.18,South Dale,2024-08-15,Walk,Food Bank,2,2.6
+"Nixon, Murphy and Valdez",Vegetables,99.2,Mannview,2024-09-27,Walk,Farm,7,1.0
+Morris-Murray,Meat,65.57,Lake Teresaville,2024-11-03,Bike,Grocery Store,5,1.6
+"Reed, Casey and Jackson",Vegetables,7.59,Lake Robert,2024-10-10,Truck,Supermarket,4,2.6
+Conner PLC,Frozen Food,24.91,North Donald,2024-08-08,Walk,Grocery Store,6,2.8
+Davis-Lane,Meat,76.92,Jamesside,2023-11-29,Truck,Supermarket,1,1.9
+Dickerson-Byrd,Meat,67.86,Lake Williamberg,2024-09-24,Walk,Supermarket,3,2.1
+Blake PLC,Canned Goods,25.14,West Brettshire,2024-09-10,Walk,Restaurant,4,1.1
+Joseph-Ballard,Snacks,61.21,Port Timothy,2024-06-18,Walk,Restaurant,6,1.7
+Chen and Sons,Meat,85.13,Lake Brian,2024-09-11,Walk,Restaurant,5,2.2
+Barnett PLC,Bakery,45.78,East Brittanyview,2024-09-19,Van,Supermarket,5,2.3
+Estes-Perez,Meat,89.0,West Kaitlin,2023-12-14,Walk,Restaurant,1,0.8
+Nicholson-Fernandez,Frozen Food,83.48,Ramirezside,2024-07-12,Van,Grocery Store,6,2.1
+"Hernandez, Sheppard and Adams",Dairy,14.25,New Frankmouth,2024-06-07,Bike,Food Bank,8,2.3
+Randolph-West,Dairy,84.03,Lake Nancy,2024-03-09,Van,Food Bank,5,1.1
+Jones-Barber,Bakery,12.53,Adamstad,2024-07-20,Van,Farm,3,0.6
+"Rodriguez, Wright and Newton",Vegetables,28.79,East Nicholas,2024-06-16,Drone,Food Bank,2,1.6
+Wright LLC,Canned Goods,73.5,East Kenneth,2024-05-13,Van,Food Bank,5,2.0
+Villa-Williams,Fruits,36.64,East James,2024-06-11,Drone,Restaurant,5,2.0
+Johnson Group,Snacks,50.4,West Victoriafort,2024-03-18,Truck,Grocery Store,1,1.1
+Reed-Ramirez,Snacks,37.61,Port Danielside,2023-12-13,Truck,Restaurant,9,1.9
+Myers-Watson,Snacks,81.64,South Crystalshire,2024-10-13,Walk,Farm,8,0.7
+Cantu-Watts,Vegetables,63.58,Williamsberg,2024-02-09,Walk,Supermarket,9,1.1
+"Hernandez, Baker and Beasley",Vegetables,33.58,East Ryantown,2024-06-24,Bike,Farm,6,0.6
+"Brown, Whitehead and Molina",Snacks,78.32,South Alexis,2023-11-19,Bike,Supermarket,6,0.6
+Stewart Ltd,Frozen Food,67.85,Brianside,2024-04-17,Truck,Food Bank,1,0.7
+Reed-David,Fruits,37.02,Feliciafort,2024-01-31,Truck,Food Bank,5,1.1
+Reed Ltd,Fruits,22.62,Derektown,2024-03-06,Truck,Restaurant,2,0.9
+Paul LLC,Frozen Food,92.87,South Johnland,2023-11-28,Walk,Restaurant,7,0.5
+Lewis-Morris,Meat,92.06,North Kyle,2024-01-26,Van,Supermarket,7,2.0
+"Hogan, Walker and Kelly",Fruits,74.62,West Angela,2024-06-27,Van,Food Bank,8,2.9
+White-Glenn,Dairy,60.68,Stokesborough,2023-12-18,Walk,Farm,8,2.0
+Green Inc,Canned Goods,33.63,South Johnmouth,2024-03-23,Van,Farm,2,2.3
+Bryant Group,Snacks,71.96,Matthewborough,2023-11-22,Bike,Food Bank,4,2.1
+"Watson, Williams and Gates",Dairy,81.42,East Randallmouth,2024-11-05,Drone,Food Bank,3,2.9
+Chan and Sons,Fruits,5.35,East Ericport,2023-11-22,Van,Supermarket,3,2.7
+Hill-Gonzalez,Meat,20.93,Beckybury,2024-02-16,Walk,Farm,7,1.0
+Jones LLC,Frozen Food,23.67,East Margaretfort,2024-03-07,Truck,Farm,5,1.2
+"Allen, Hernandez and Suarez",Vegetables,5.43,Pennymouth,2023-12-10,Truck,Farm,7,1.1
+Liu PLC,Meat,32.81,Murrayfurt,2023-12-14,Walk,Food Bank,1,2.8
+Williamson Inc,Dairy,27.07,Floresberg,2024-02-28,Truck,Restaurant,1,1.6
+Newton-Whitney,Fruits,36.0,Parsonsview,2024-07-07,Truck,Farm,7,2.2
+Powell Group,Snacks,52.36,Port Donald,2024-08-30,Drone,Restaurant,4,0.6
+Campbell-Zavala,Grains,86.35,Port Jeffrey,2024-01-01,Bike,Farm,4,0.6
+Mendoza Inc,Bakery,47.86,Richardsmouth,2024-08-04,Bike,Supermarket,4,2.9
+Davis-Hawkins,Dairy,45.76,Walterport,2023-12-05,Walk,Restaurant,4,2.7
+Fletcher PLC,Meat,6.71,Petersonstad,2024-08-27,Van,Supermarket,4,1.6
+"Shea, Jones and Price",Fruits,66.54,Michaelview,2024-01-09,Walk,Food Bank,4,0.6
+Parker Group,Snacks,38.39,East Laura,2024-08-10,Drone,Restaurant,7,2.9
+Manning PLC,Grains,55.07,Ellisland,2024-01-02,Drone,Food Bank,5,1.9
+Wallace-Jones,Canned Goods,34.96,Port Kathleen,2023-12-18,Bike,Food Bank,2,1.0
+Randolph-Davis,Vegetables,56.1,Margaretville,2024-02-24,Walk,Restaurant,5,1.9
+"Peterson, Barr and Hart",Grains,82.61,Cartershire,2024-08-02,Truck,Restaurant,6,1.2
+Morales and Sons,Grains,88.96,South Russellland,2024-08-19,Bike,Farm,7,1.6
+"Stevens, Gamble and Lewis",Frozen Food,25.88,Zacharyton,2024-01-11,Van,Restaurant,8,2.6
+Escobar-Cruz,Grains,33.8,Gonzalezstad,2024-08-21,Bike,Farm,5,1.3
+Watts Ltd,Canned Goods,68.11,East Mike,2024-11-09,Bike,Farm,9,1.8
+"Moody, Warren and Miles",Grains,38.53,East Alexis,2024-08-09,Truck,Grocery Store,5,1.0
+Hunter-Newman,Canned Goods,29.23,Port Christine,2024-06-28,Truck,Supermarket,2,1.6
+"Perkins, Jones and Figueroa",Canned Goods,21.62,West Debra,2024-04-20,Drone,Food Bank,1,1.3
+Harris-King,Snacks,73.59,Lake Teresa,2024-03-20,Van,Food Bank,1,0.9
+"Lewis, Small and Morgan",Frozen Food,50.18,West Joshuaport,2024-04-05,Van,Food Bank,6,0.8
+Mcbride LLC,Bakery,51.27,Adamchester,2024-01-03,Drone,Grocery Store,9,2.9
+Adkins-Strong,Vegetables,86.5,Collinsview,2024-03-27,Truck,Supermarket,3,2.1
+"Brooks, Dawson and Christian",Vegetables,54.93,West Edwin,2024-05-09,Truck,Farm,1,1.2
+Brown-Johnson,Canned Goods,57.55,Christineburgh,2024-05-17,Drone,Farm,2,1.4
+"Foster, Collier and Flores",Canned Goods,27.56,Nicoleburgh,2024-09-07,Bike,Restaurant,2,2.9
+Scott-Leonard,Grains,54.81,South David,2024-04-07,Van,Supermarket,3,2.3
+Jefferson-Salazar,Canned Goods,73.38,South Eric,2024-08-10,Van,Supermarket,2,1.3
+Welch Group,Vegetables,98.26,Port Tiffany,2024-01-30,Van,Grocery Store,1,1.2
+Stephens Ltd,Snacks,87.8,Lake Brittany,2024-09-28,Truck,Restaurant,1,2.6
+"Murphy, Bell and Thomas",Canned Goods,51.04,Mariahborough,2024-10-23,Bike,Food Bank,9,2.4
+Gibson LLC,Frozen Food,70.26,East Jackborough,2024-08-09,Van,Supermarket,7,0.8
+Reyes and Sons,Fruits,97.24,Meyerchester,2024-07-23,Bike,Farm,4,2.7
+"Cruz, Clarke and Holmes",Vegetables,11.65,Anthonyfurt,2024-09-20,Drone,Grocery Store,8,0.9
+Short PLC,Meat,13.95,Lake Brandon,2023-11-21,Walk,Farm,3,1.4
+Mccoy PLC,Grains,97.36,Dillonville,2024-04-03,Drone,Food Bank,4,1.6
+"Black, Cochran and Gonzales",Bakery,37.44,West Patrick,2024-08-06,Bike,Farm,6,0.7
+Jackson LLC,Vegetables,84.37,North Angelashire,2024-05-16,Bike,Restaurant,7,2.8
+Wilson and Sons,Frozen Food,56.87,Erinton,2024-04-18,Walk,Farm,6,2.4
+Silva-Anderson,Dairy,9.05,Mikaylaport,2024-07-23,Drone,Grocery Store,2,2.2
+"Norton, Stafford and Johnson",Frozen Food,30.54,Valdezhaven,2024-07-02,Drone,Food Bank,7,0.7
+Costa LLC,Dairy,55.98,Perkinsville,2024-02-22,Truck,Supermarket,6,2.9
+Taylor and Sons,Vegetables,6.44,Hernandezville,2024-04-29,Walk,Supermarket,3,1.1
+Salinas Group,Snacks,51.53,East Keith,2024-10-28,Truck,Restaurant,5,1.0
+"Thomas, Miller and Brown",Meat,63.37,Ronaldhaven,2024-11-12,Truck,Restaurant,1,1.0
+"Foley, Durham and Reilly",Frozen Food,94.7,Port Diane,2024-07-18,Truck,Grocery Store,4,2.7
+Briggs-Davidson,Vegetables,78.47,Osbornstad,2024-02-25,Truck,Supermarket,3,2.6
+Foster-Stewart,Dairy,83.69,Lake Mary,2023-12-23,Van,Grocery Store,1,1.3
+Castro-Horton,Bakery,23.7,Torresville,2023-12-26,Bike,Restaurant,9,0.9
+Kelley-Mclaughlin,Meat,32.25,North Jenniferport,2024-02-29,Van,Grocery Store,2,2.5
+Baxter Ltd,Vegetables,75.53,West Julie,2024-06-26,Truck,Farm,8,1.1
+Bennett-Flores,Grains,65.58,Whitebury,2024-04-14,Bike,Food Bank,9,0.6
+Davis Ltd,Vegetables,61.29,East Caroline,2023-12-02,Van,Farm,4,2.2
+"Bates, Bell and Dunn",Bakery,42.72,Perryborough,2024-05-03,Bike,Restaurant,5,0.9
+Burns-Bates,Snacks,48.62,North Mariahburgh,2023-12-10,Van,Supermarket,8,2.5
+Barker and Sons,Vegetables,15.5,Galvanhaven,2024-06-28,Walk,Farm,4,2.0
+Dunn Group,Vegetables,12.04,North Timothystad,2024-10-08,Walk,Supermarket,4,3.0
+Myers PLC,Bakery,25.05,Port Timstad,2024-09-25,Walk,Supermarket,3,2.2
+"Martin, Johnson and Roy",Meat,54.55,Parkermouth,2024-10-05,Drone,Food Bank,1,1.9
+Wong Group,Bakery,78.71,Joelton,2023-11-15,Truck,Grocery Store,1,2.9
+Barnes PLC,Fruits,25.99,Lucasstad,2024-04-06,Drone,Supermarket,7,2.1
+Henson-Mahoney,Fruits,60.44,North Timothyside,2024-09-11,Truck,Farm,8,2.5
+Fischer Group,Meat,95.02,Katherinefort,2024-07-03,Truck,Food Bank,6,1.5
+"Campbell, Pierce and Johnston",Canned Goods,41.13,Christinaville,2024-06-17,Walk,Grocery Store,4,2.4
+"Roberts, Wade and Mcdonald",Dairy,84.52,Lake Meghan,2024-01-15,Van,Grocery Store,2,0.8
+Lewis LLC,Canned Goods,35.14,Albertmouth,2024-08-25,Drone,Supermarket,6,0.6
+Miller LLC,Meat,48.59,Allisonmouth,2024-06-25,Drone,Grocery Store,2,2.6
+Brown-Ali,Dairy,70.24,Christophermouth,2024-07-20,Van,Restaurant,1,1.4
+"Ramirez, Thompson and Hernandez",Dairy,84.9,Lake Alexis,2024-06-12,Walk,Restaurant,3,2.9
+Williams-Brown,Bakery,14.49,Port Tanner,2024-09-24,Truck,Food Bank,4,1.9
+"Perez, Morgan and Mcfarland",Meat,39.46,South Tamara,2023-12-25,Van,Farm,5,1.4
+Cook PLC,Canned Goods,20.67,Richardsland,2023-12-29,Walk,Supermarket,5,0.8
+Mack Ltd,Dairy,95.84,Richborough,2024-02-22,Drone,Farm,6,2.3
+Combs-Keith,Canned Goods,66.39,West Dianaland,2024-05-21,Truck,Farm,7,0.8
+Rodgers-Roberts,Bakery,89.27,Jerrystad,2024-04-22,Bike,Grocery Store,6,1.5
+Myers-Turner,Snacks,54.38,Allenfort,2024-11-07,Walk,Restaurant,5,1.0
+"Perez, Edwards and Morales",Meat,85.55,Lake Amymouth,2024-04-08,Walk,Farm,7,1.4
+Young Inc,Meat,52.36,Lisaville,2024-04-11,Walk,Farm,7,1.3
+Johnson LLC,Vegetables,86.91,Warrenland,2024-10-17,Bike,Grocery Store,4,2.1
+Smith Group,Frozen Food,52.88,Lake Michelle,2024-06-24,Truck,Supermarket,2,2.8
+Johnson-Mayer,Bakery,15.84,Heatherstad,2024-02-07,Walk,Supermarket,9,2.3
+Johnston-Mercer,Grains,60.07,Torreshaven,2024-03-23,Drone,Food Bank,2,0.7
+"Robinson, Hull and Duncan",Bakery,74.76,Lake Johnchester,2024-01-15,Van,Supermarket,4,1.8
+Browning-Arias,Grains,79.91,East Scottview,2024-04-03,Walk,Restaurant,9,1.3
+Johnson-Cervantes,Canned Goods,52.27,Stephanietown,2024-06-12,Walk,Farm,7,2.8
+Garcia-Silva,Snacks,93.58,Lake Jason,2024-11-12,Van,Grocery Store,7,0.8
+Pittman LLC,Vegetables,41.57,Rodriguezstad,2024-01-14,Truck,Restaurant,8,0.7
+Taylor-Miller,Canned Goods,33.02,Dyerside,2024-03-10,Bike,Grocery Store,3,0.7
+Greer-Perkins,Grains,14.18,New Lorettaburgh,2024-09-23,Truck,Farm,8,1.5
+Wallace-Rose,Frozen Food,14.92,North Tracyville,2023-11-16,Truck,Food Bank,5,2.5
+Morris-Lynch,Snacks,93.36,South Anaborough,2023-12-01,Van,Grocery Store,6,2.5
+Cannon Group,Dairy,73.42,Josephton,2023-12-21,Truck,Food Bank,1,1.5
+Nelson-Barry,Meat,95.55,Port Adrianashire,2024-09-01,Van,Supermarket,2,0.7
+Kirk-Duran,Frozen Food,53.79,North Deannaview,2023-12-03,Truck,Farm,3,1.4
+"Perez, Kemp and Pham",Snacks,10.65,Laurenstad,2024-06-27,Drone,Supermarket,7,2.2
+Holloway Ltd,Bakery,65.58,West Chadton,2024-01-03,Truck,Grocery Store,5,2.3
+"Morgan, Smith and Moreno",Bakery,42.61,East Sharon,2024-02-07,Van,Grocery Store,8,2.2
+"Nguyen, Perry and Mills",Frozen Food,47.95,Lake Carol,2024-09-11,Van,Grocery Store,6,1.4
+Peters-Oneal,Fruits,34.79,South Jonathanmouth,2023-12-12,Truck,Restaurant,5,1.7
+"White, Robertson and Powell",Bakery,99.59,Beckerstad,2024-11-11,Bike,Food Bank,8,0.7
+Marsh-Walls,Grains,6.08,Jamesside,2024-05-07,Van,Restaurant,8,1.5
+Perez Ltd,Meat,84.08,East Jacquelineshire,2024-07-29,Van,Restaurant,1,1.0
+Morales and Sons,Canned Goods,36.48,East Joshuaport,2024-06-25,Truck,Grocery Store,4,2.4
+Cruz-Porter,Meat,55.08,Port Linda,2024-02-02,Truck,Food Bank,3,1.1
+Moore Inc,Frozen Food,67.94,Jenniferborough,2024-02-23,Bike,Farm,3,0.7
+Aguilar-Lambert,Snacks,62.16,Grahamview,2024-10-02,Walk,Supermarket,7,1.1
+"Aguirre, Chen and Ward",Fruits,6.58,Howardtown,2024-05-03,Walk,Food Bank,2,2.4
+Ramirez-Riley,Canned Goods,20.86,North Megan,2024-07-20,Van,Restaurant,6,0.6
+Johnson-Conner,Bakery,9.08,Lake Louis,2024-04-09,Bike,Farm,3,1.6
+Walters-Day,Vegetables,24.64,Williamsonchester,2023-12-28,Drone,Food Bank,5,2.0
+Ford and Sons,Grains,76.5,West Scott,2024-09-03,Walk,Grocery Store,9,2.9
+Olson-Holloway,Meat,60.03,West Nancyland,2024-09-14,Bike,Supermarket,7,2.3
+Hamilton Group,Dairy,96.72,Marvinbury,2023-12-27,Truck,Supermarket,2,2.8
+Anthony LLC,Dairy,72.53,Lisatown,2024-07-29,Drone,Farm,8,3.0
+Smith-Griffin,Grains,79.94,East Taylor,2024-11-13,Bike,Grocery Store,7,2.9
+Johnson-Phillips,Meat,25.95,Deborahville,2024-04-11,Drone,Grocery Store,2,2.7
+Spencer-Herman,Bakery,27.74,West Alyssa,2024-09-10,Bike,Farm,6,0.9
+Mosley-Martin,Frozen Food,54.22,West William,2024-10-02,Drone,Supermarket,4,1.2
+Williams Inc,Grains,11.22,North Jeremiah,2024-02-07,Drone,Restaurant,8,1.9
+Jackson and Sons,Frozen Food,23.2,East Rubenton,2024-04-01,Truck,Restaurant,1,1.1
+Miranda Group,Canned Goods,10.28,Christianstad,2024-10-30,Drone,Supermarket,7,2.9
+"Roberts, Gonzales and Smith",Dairy,81.49,Joshuamouth,2024-06-26,Truck,Grocery Store,8,1.5
+Doyle-Rangel,Grains,27.42,Port Tonya,2023-12-28,Drone,Food Bank,7,2.5
+"Rhodes, Mack and Craig",Fruits,50.25,New Stephanie,2024-01-05,Walk,Grocery Store,7,1.9
+Fields Group,Vegetables,6.52,Medinachester,2024-04-11,Walk,Food Bank,9,1.3
+Mcdonald LLC,Snacks,46.72,Adamstown,2024-02-16,Van,Farm,1,1.1
+"Ortega, Shannon and Mitchell",Dairy,24.14,South Charles,2024-08-19,Van,Restaurant,5,3.0
+Dixon LLC,Frozen Food,77.21,Ethanview,2024-07-29,Drone,Grocery Store,5,1.1
+Mcdaniel-Hernandez,Meat,75.95,Toddchester,2024-04-02,Drone,Supermarket,4,2.6
+Barnett-Kelly,Fruits,37.23,Port Loriview,2024-01-09,Drone,Food Bank,2,1.7
+Williams and Sons,Grains,73.17,Jacobland,2024-07-06,Bike,Supermarket,7,2.8
+"Morris, Cook and Baker",Fruits,65.05,Dannyberg,2024-06-05,Bike,Supermarket,6,0.8
+"Porter, Sanders and Parker",Snacks,79.29,East Michelle,2024-08-22,Van,Food Bank,4,1.2
+Tucker-Kennedy,Bakery,8.35,Port Moniquefurt,2024-06-03,Van,Grocery Store,5,2.4
+Newton Group,Meat,67.56,East Chadbury,2024-05-21,Van,Grocery Store,3,0.7
+"Garcia, King and Lopez",Snacks,59.19,East Jamieland,2024-05-09,Walk,Farm,2,1.4
+Conrad-Mendez,Meat,18.95,Jonesburgh,2024-05-03,Walk,Supermarket,4,1.9
+"Nielsen, Schultz and Smith",Snacks,14.32,Matthewville,2024-03-30,Truck,Restaurant,2,2.7
+Lopez PLC,Bakery,45.46,Williammouth,2024-05-06,Van,Grocery Store,9,0.8
+"Jordan, Griffin and Williams",Fruits,39.62,Susanchester,2023-11-22,Walk,Supermarket,7,1.7
+Wilson-Monroe,Frozen Food,95.21,Williamston,2024-08-04,Walk,Food Bank,1,0.8
+Bowman LLC,Canned Goods,91.45,Jeremyland,2024-08-06,Walk,Food Bank,1,1.3
+"Blackburn, West and Thompson",Bakery,77.61,East Kathleenmouth,2024-08-17,Bike,Food Bank,4,2.7
+"Mendez, Murray and Mason",Vegetables,31.4,Karenmouth,2024-04-01,Truck,Farm,7,2.3
+French and Sons,Frozen Food,71.41,Lake Carlos,2024-03-05,Drone,Restaurant,9,2.1
+Lewis-Horn,Meat,12.84,Goldenbury,2024-09-19,Walk,Food Bank,1,2.4
+Flores-West,Vegetables,22.46,Hollyport,2023-12-21,Bike,Grocery Store,6,1.2
+Smith Group,Fruits,84.32,East Phillipmouth,2024-01-19,Walk,Food Bank,9,2.3
+"Atkins, Chapman and Rogers",Vegetables,7.01,Blackhaven,2024-09-17,Walk,Supermarket,1,1.8
+"Compton, Estrada and Williams",Bakery,24.69,Port Thomas,2023-12-23,Truck,Supermarket,6,1.1
+Valdez-Morris,Dairy,66.75,South Jeanetteburgh,2023-12-09,Van,Restaurant,3,2.8
+Alvarez Inc,Grains,43.77,North Jill,2024-06-20,Truck,Food Bank,1,2.1
