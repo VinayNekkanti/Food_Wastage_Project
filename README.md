@@ -38,10 +38,13 @@ If the model's performance doesn't meet expectations, revisit the following step
 * Data Preprocessing (step 3)
 * Feature Selection/Engineering (step 4)
 * EDA (step 5)
-Repeat these steps until the desired model accuracy is achieved.  
+Repeat these steps until the desired model accuracy is achieved.
+
+
 Dependencies
 * Python 3.8+
 * pandas
 * numpy
 * matplotlib
 * seaborn
+* scikit-learn
