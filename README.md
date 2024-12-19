@@ -1,5 +1,6 @@
 Food Wastage Prediction - Donation Availability
 This project aims to predict food donation availability to help reduce food wastage. By analyzing historical donation data, the goal is to build a model that can accurately forecast how much food donations (kgs) will be available.
+
 Table of Contents
 * Problem Statement
 * Data Collection
